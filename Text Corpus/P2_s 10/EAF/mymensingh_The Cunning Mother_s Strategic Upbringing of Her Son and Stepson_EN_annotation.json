@@ -1,0 +1,76 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Wise Mother's Paradox",
+    "primary_theme": "Unconventional wisdom in parenting and long-term foresight."
+  },
+  "lexical_integrity": [
+    {
+      "term": "co-wife",
+      "category": "Social Relationship",
+      "importance": "High",
+      "context_note": "Refers to a 'sotini' in Bengali culture, indicating a polygynous family structure. The relationship dynamics between co-wives and their children are culturally specific and often fraught with tension, making the mother's actions particularly striking."
+    },
+    {
+      "term": "sister",
+      "category": "Form of Address",
+      "importance": "Medium",
+      "context_note": "Used as a polite and familiar address ('apa' or 'bon') between women, signifying neighborly or community ties, rather than literal siblinghood."
+    },
+    {
+      "term": "dust and sand / dust and dirt",
+      "category": "Environment/Metaphor",
+      "importance": "Medium",
+      "context_note": "While literally translatable, its use here is metaphorical for hardship, resilience, and a 'tough love' approach to raising a child to be strong, contrasting with pampering."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy/Relationship",
+      "description": "The presence of a 'co-wife' (sotini) indicates a polygynous family structure, which was historically common in certain South Asian contexts. The dynamics of such a household, particularly regarding children, are a significant cultural marker.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief/Child-rearing",
+      "description": "The mother's philosophy of raising her own son in 'dust and dirt' to make him strong and robust, while pampering the co-wife's son to make him weak, reflects a specific, albeit unconventional, cultural belief about character development through hardship versus indulgence.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Interaction",
+      "description": "The neighbor's observation and direct questioning of the mother's behavior highlights a communal aspect of child-rearing and social accountability within a village or neighborhood setting.",
+      "is_replaceable": true
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Lack (a)",
+      "description": "The neighbor (and implicitly the audience) perceives a 'lack' of proper maternal affection towards the mother's own son and a 'lack of understanding' regarding her unusual behavior."
+    },
+    {
+      "function": "Mediation, the connective incident (B)",
+      "description": "The neighboring woman approaches the mother and directly questions her actions, serving as the catalyst for the mother's explanation."
+    },
+    {
+      "function": "Solution (W)",
+      "description": "The mother provides a clear and logical explanation for her seemingly contradictory child-rearing methods, resolving the neighbor's (and audience's) confusion and 'lack of understanding'."
+    },
+    {
+      "function": "Recognition (T)",
+      "description": "The neighbor (and the audience) recognizes the wisdom and foresight in the mother's seemingly harsh actions, understanding her true, positive intentions."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Wise Mother (unconventional wisdom)",
+      "The Pampered Stepchild",
+      "The Neglected (but secretly strengthened) Own Child",
+      "The Observer/Catalyst (neighbor)"
+    ],
+    "atomic_plot_nodes": [
+      "1. A woman has two sons, one her own and one her co-wife's.",
+      "2. She shows unusual favoritism, doting on the co-wife's son and neglecting her own.",
+      "3. A neighboring woman observes this behavior and questions the mother.",
+      "4. The mother explains her philosophy: pampering makes one weak, hardship makes one strong."
+    ],
+    "tone_and_moral": "The tone is observational and didactic, leading to a revelation of unconventional wisdom. The moral suggests that true love or wisdom may sometimes manifest in ways that appear contradictory or harsh, aiming for long-term strength and resilience rather than immediate comfort. It champions 'tough love' as a means of preparing children for the harsh realities of life."
+  }
+}

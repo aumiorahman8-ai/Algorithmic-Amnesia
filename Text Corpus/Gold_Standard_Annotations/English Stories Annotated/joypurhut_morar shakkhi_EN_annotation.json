@@ -1,0 +1,143 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Witness of the Bubbles",
+    "primary_theme": "The inevitability of truth and justice; sin never stays hidden."
+  },
+  "lexical_integrity": [
+    {
+      "term": "Jute fiber stripping",
+      "category": "Agricultural/Domestic Activity",
+      "importance": "Medium",
+      "context_note": "A common rural household activity in Bengal (Bengali: পাট ছাড়ানো, paat chharano), especially during monsoon, indicating a specific socio-economic setting."
+    },
+    {
+      "term": "Veranda",
+      "category": "Architectural Feature",
+      "importance": "Medium",
+      "context_note": "An open-air gallery or porch (Bengali: বারান্দা, baranda), common in South Asian homes, serving as a semi-public space for daily activities and social interaction."
+    },
+    {
+      "term": "Monsoon",
+      "category": "Seasonal/Environmental",
+      "importance": "High",
+      "context_note": "The rainy season (Bengali: বর্ষা, borsha), a dominant environmental factor in Bengal, influencing agriculture, daily life, and in this story, the physical manifestation of the buried body."
+    },
+    {
+      "term": "Sin never stays hidden",
+      "category": "Proverb/Moral Belief",
+      "importance": "High",
+      "context_note": "A common moralistic proverb (Bengali: পাপ গোপন থাকে না, paap gopon thake na) reflecting a belief in inevitable justice or karmic retribution, central to the story's theme."
+    },
+    {
+      "term": "Station",
+      "category": "Legal/Administrative",
+      "importance": "Low",
+      "context_note": "Refers to the local police station, the formal legal authority in a village context, where cases are reported."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Domestic Life",
+      "description": "The scene of a man stripping jute fibers on his veranda during monsoon is a typical depiction of rural Bengali household life and seasonal activities.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Environmental/Seasonal",
+      "description": "'the height of the monsoon' is crucial as heavy rain would saturate the ground, making the bubbles from the decomposing body more visible and thus triggering the murderer's reaction.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Norm",
+      "description": "The wife's persistent questioning of her husband's unusual behavior reflects domestic dynamics and the expectation of transparency or truth within a marital relationship, even when initially met with resistance.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Moral Belief",
+      "description": "The proverb 'Sin never stays hidden' is a core cultural belief in the eventual revelation of wrongdoing and the attainment of justice, often through unexpected means.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Community Dynamics",
+      "description": "The rapid spread of information ('word spread like wildfire') in a close-knit village community highlights the importance of social reputation, collective knowledge, and the swift response to perceived injustices.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Justice System",
+      "description": "The interaction with the formal legal system, where relatives report the matter to the 'station' (police station) and file a 'case', demonstrates the integration of traditional village life with modern administrative and legal structures.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Villainy (A)",
+      "description": "The man commits the villainous act of murdering his enemy and burying the body."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The lack of knowledge about the killer, leading to the incident being forgotten and justice remaining unserved for years."
+    },
+    {
+      "function": "Mediation, the Connective Incident (B)",
+      "description": "The gurgling bubbles from the burial spot, visible during monsoon, trigger the man's self-satisfied laughter, which his wife repeatedly notices."
+    },
+    {
+      "function": "Beginning Counteraction (C)",
+      "description": "The wife's persistent questioning of her husband's unusual laughter, initiating the process of uncovering the truth."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The man's initial refusal to reveal the truth, stating 'it was for no reason', attempting to keep the secret hidden."
+    },
+    {
+      "function": "Receipt of a Magic Agent (D)",
+      "description": "The wife's relentless pressing acts as the 'magic agent' or catalyst, compelling the man to finally reveal the secret of the murder."
+    },
+    {
+      "function": "Transference (E)",
+      "description": "The man reveals the secret of the murder and the burial location to his wife."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The terrible quarrel between the man and his wife, escalating to a point of intense rage."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The wife's outburst, screaming the truth of the murder aloud, effectively revealing the secret to the entire village."
+    },
+    {
+      "function": "Pursuit (Pr)",
+      "description": "The word spreading like wildfire throughout the village, and the relatives of the murdered man reporting the matter to the police and filing a case."
+    },
+    {
+      "function": "Rescue (Rs)",
+      "description": "The police arriving and arresting the man, rescuing the community from an unpunished crime."
+    },
+    {
+      "function": "Punishment (U)",
+      "description": "The man receives his punishment for the murder, bringing the narrative to a close with justice served."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Murderer (who believes he escaped justice)",
+      "The Persistent Wife (agent of truth)",
+      "The Unseen Witness (the gurgling earth/bubbles)",
+      "The Village Community (collective conscience/justice)",
+      "The Victim (the murdered person)",
+      "The Proverbial Truth (sin never stays hidden)"
+    ],
+    "atomic_plot_nodes": [
+      "1. A man murders his enemy and buries the body.",
+      "2. Years pass, and the incident is forgotten by all but the killer.",
+      "3. During monsoon, the man sees bubbles rising from the burial spot and laughs to himself.",
+      "4. His wife repeatedly notices his laughter and presses him for the reason.",
+      "5. The man, under pressure, reveals his crime and the burial location to his wife, boasting about his perceived impunity.",
+      "6. The couple has a terrible quarrel.",
+      "7. In a fit of rage, the wife screams out the secret of the murder to the village.",
+      "8. The news spreads rapidly, and the victim's relatives report the crime to the police.",
+      "9. The police arrest the man.",
+      "10. The man receives his punishment."
+    ],
+    "tone_and_moral": "The tone is cautionary and moralistic, emphasizing the inescapable nature of truth and justice. The moral is that wrongdoing, no matter how well-hidden or long-forgotten, will eventually come to light and be punished, often through unexpected means or agents."
+  }
+}

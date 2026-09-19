@@ -1,0 +1,442 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Princess Kolaboti and the Outcast Princes",
+    "primary_theme": "Justice, transformation, and the triumph of the virtuous underdog against injustice and deceit."
+  },
+  "lexical_integrity": [
+    {
+      "term": "রাণী",
+      "category": "Title",
+      "importance": "High",
+      "context_note": "Queen, a royal title. The story features seven queens."
+    },
+    {
+      "term": "হাতীশালে হাতী ঘোড়াশালে ঘোড়া",
+      "category": "Wealth Indicator",
+      "importance": "Medium",
+      "context_note": "Elephants in the elephant stable, horses in the horse stable. Signifies immense royal wealth and power."
+    },
+    {
+      "term": "ভাণ্ডারে মাণিক, কুঠরীভরা মোহর",
+      "category": "Wealth Indicator",
+      "importance": "Medium",
+      "context_note": "Treasury full of gems, rooms full of gold coins. Further emphasizes the king's prosperity."
+    },
+    {
+      "term": "মন্ত্রী, অমাত্য, সিপাই, লস্কর",
+      "category": "Social Hierarchy/Military",
+      "importance": "Medium",
+      "context_note": "Minister, courtier, soldier, cavalry. Describes the bustling royal court and army."
+    },
+    {
+      "term": "পাকশালে",
+      "category": "Location",
+      "importance": "Low",
+      "context_note": "Kitchen. Where the queens prepare food."
+    },
+    {
+      "term": "বাটনা বাটিবেন",
+      "category": "Action/Culinary",
+      "importance": "Medium",
+      "context_note": "To grind spices or paste. A traditional cooking task, performed by a queen."
+    },
+    {
+      "term": "মাছ কুটিবেন",
+      "category": "Action/Culinary",
+      "importance": "Medium",
+      "context_note": "To cut fish. Another traditional cooking task."
+    },
+    {
+      "term": "শিল-নোড়া",
+      "category": "Household Item",
+      "importance": "High",
+      "context_note": "Mortar and pestle (specifically, a flat grinding stone with a cylindrical grinder). Central to the plot as the source of the 'shil-dhoya jol'."
+    },
+    {
+      "term": "সোনার চাঁদ ছেলে",
+      "category": "Idiom/Compliment",
+      "importance": "High",
+      "context_note": "Son like a golden moon. An idiom for a beautiful, cherished, and ideal son."
+    },
+    {
+      "term": "বানর চাঁদ ছেলে",
+      "category": "Derogatory Idiom",
+      "importance": "High",
+      "context_note": "Son like a monkey moon. A derogatory term, implying an ugly or unwanted son, used by the jealous queens."
+    },
+    {
+      "term": "ঢোল-ডগর",
+      "category": "Magical Object/Musical Instrument",
+      "importance": "High",
+      "context_note": "Types of drums. A magical object that can create/disperse markets and is key to the princess's challenge."
+    },
+    {
+      "term": "জয়ডঙ্কা",
+      "category": "Musical Instrument",
+      "importance": "Medium",
+      "context_note": "Victory drum. Used to celebrate the birth of the five princes."
+    },
+    {
+      "term": "চিড়িয়াখানার বাঁদী",
+      "category": "Social Status/Occupation",
+      "importance": "High",
+      "context_note": "Zoo maid/servant. The low status assigned to Bhutum's mother."
+    },
+    {
+      "term": "ঘুঁটেকুড়ানী দাসী",
+      "category": "Social Status/Occupation",
+      "importance": "High",
+      "context_note": "Cow-dung collector maid/servant. The lowest status assigned to Buddhu's mother."
+    },
+    {
+      "term": "পক্ষিরাজ ঘোড়া",
+      "category": "Mythical Creature",
+      "importance": "Medium",
+      "context_note": "Mythical winged horse. Used by the royal princes for travel."
+    },
+    {
+      "term": "ভূতুম্‌",
+      "category": "Name/Onomatopoeia",
+      "importance": "High",
+      "context_note": "Name of the owl-prince. Also an onomatopoeic sound for an owl's hoot."
+    },
+    {
+      "term": "বুদ্ধু",
+      "category": "Name",
+      "importance": "High",
+      "context_note": "Name of the monkey-prince. Can also imply 'foolish' but here it's a proper name."
+    },
+    {
+      "term": "শুকপঙ্খী নৌকা",
+      "category": "Mythical Object",
+      "importance": "Medium",
+      "context_note": "Mythical boat with parrot wings. Used by Princess Kolaboti."
+    },
+    {
+      "term": "রূপার বৈঠা, হীরার হা'ল",
+      "category": "Wealth Indicator/Magical Object",
+      "importance": "Medium",
+      "context_note": "Silver oar, diamond rudder. Describes the luxurious and magical nature of Kolaboti's boat."
+    },
+    {
+      "term": "মেঘ-বরণ চুল কুঁচ-বরণ কন্যা",
+      "category": "Beauty Description",
+      "importance": "High",
+      "context_note": "Daughter with cloud-colored hair and dark/kuch-colored complexion. A traditional Bengali description of beauty."
+    },
+    {
+      "term": "কলাবতী রাজকন্যা",
+      "category": "Name/Title",
+      "importance": "High",
+      "context_note": "Princess Kolaboti. The central female character and prize of the quest."
+    },
+    {
+      "term": "ময়ূরপঙ্খী",
+      "category": "Mythical Object",
+      "importance": "High",
+      "context_note": "Mythical peacock-winged boat. Used by the royal princes for their journey."
+    },
+    {
+      "term": "দুয়ারী",
+      "category": "Occupation",
+      "importance": "Low",
+      "context_note": "Gatekeeper. Guards the king's court."
+    },
+    {
+      "term": "হুলুধ্বনি",
+      "category": "Ritual Sound",
+      "importance": "Medium",
+      "context_note": "Auspicious ululation sound made by women during celebrations or rituals."
+    },
+    {
+      "term": "সুপারীর ডোঙ্গা",
+      "category": "Magical Object/Offering",
+      "importance": "High",
+      "context_note": "Betel nut shell boat. A small, makeshift boat used by the mothers as an offering, which magically carries Buddhu and Bhutum."
+    },
+    {
+      "term": "কড়া কড়ি, ধান দূর্বা",
+      "category": "Ritual Offering",
+      "importance": "Medium",
+      "context_note": "Cowrie shells (old currency), rice, and durba grass. Auspicious items used in offerings and rituals."
+    },
+    {
+      "term": "আগা-গলুইয়ে পাছা-গলুইয়ে সিন্দুরের ফোঁটা",
+      "category": "Ritual Marking",
+      "importance": "Medium",
+      "context_note": "Vermilion dots on the front and back of the boat. An auspicious marking for protection and good fortune."
+    },
+    {
+      "term": "পাইক",
+      "category": "Occupation",
+      "importance": "Medium",
+      "context_note": "Foot soldier/guard. Servants of the three old women."
+    },
+    {
+      "term": "অন্ধকুঠরী",
+      "category": "Location",
+      "importance": "Medium",
+      "context_note": "Dark cell/dungeon. Where the princes are imprisoned."
+    },
+    {
+      "term": "কাঁথা",
+      "category": "Ht)ousehold Item/Magical Object",
+      "importance": "High",
+      "context_note": "Traditional embroidered quilt. A magical object belonging to the old woman in the underworld."
+    },
+    {
+      "term": "কৌটা",
+      "category": "Magical Object",
+      "importance": "High",
+      "context_note": "Small box/casket. Princess Kolaboti transforms into this to travel safely."
+    },
+    {
+      "term": "অজগর",
+      "category": "Creature",
+      "importance": "Medium",
+      "context_note": "Python. A dangerous creature guarding the magical fruits."
+    },
+    {
+      "term": "ব্রত",
+      "category": "Ritual/Vow",
+      "importance": "High",
+      "context_note": "Vow/ritual observance. Kolaboti uses this as a delaying tactic."
+    },
+    {
+      "term": "পঞ্চদীপ",
+      "category": "Ritual Object",
+      "importance": "Medium",
+      "context_note": "Five-lamp offering. Used in the welcoming ceremony for Kolaboti."
+    },
+    {
+      "term": "শাঁখ শঙ্খ",
+      "category": "Ritual Object/Sound",
+      "importance": "Medium",
+      "context_note": "Conch shell. Blown for auspicious occasions and rituals."
+    },
+    {
+      "term": "খিল",
+      "category": "Household Item",
+      "importance": "Medium",
+      "context_note": "Latch/bolt. Used by the wicked queens to lock themselves in."
+    },
+    {
+      "term": "কবাট",
+      "category": "Household Item",
+      "importance": "Medium",
+      "context_note": "Door. Used by the wicked princes to lock themselves in."
+    },
+    {
+      "term": "দেবকুমার",
+      "category": "Archetype/Description",
+      "importance": "High",
+      "context_note": "Divine prince. Describes the transformed, handsome appearance of Buddhu and Bhutum."
+    },
+    {
+      "term": "বুধকুমার, রূপকুমার",
+      "category": "Name",
+      "importance": "High",
+      "context_note": "New names for Buddhu and Bhutum after their transformation, meaning 'Mercury Prince' and 'Beauty Prince' respectively."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Family Structure",
+      "description": "Polygyny (King having seven queens) is a common feature in traditional folktales, often leading to jealousy and conflict among co-wives.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Gender Roles",
+      "description": "Queens, despite their royal status, are depicted performing household chores like cooking, grinding spices, and cutting fish, reflecting traditional domestic roles.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Fertility Ritual",
+      "description": "The magical root given by the hermit for bearing children highlights the cultural importance of progeny, especially male heirs, and belief in supernatural remedies for infertility.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Hierarchy",
+      "description": "The stark contrast between the status of queens and maids (বাঁদী, দাসী) and the degradation of the outcast queens to 'zoo maid' and 'cow-dung collector' illustrates rigid social stratification.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Auspicious Offerings",
+      "description": "The use of 'ধান দূর্বা' (rice and durba grass) and 'সিন্দুরের ফোঁটা' (vermilion dots) in offerings and rituals signifies blessings, good fortune, and protection.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Traditional Beauty Standards",
+      "description": "The description of Princess Kolaboti as 'মেঘ-বরণ চুল কুঁচ-বরণ কন্যা' (cloud-colored hair, dark/kuch-colored complexion) reflects specific aesthetic ideals in Bengali culture.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual Sounds",
+      "description": "The 'হুলুধ্বনি' (ululation) and blowing of 'শাঁখ শঙ্খ' (conch shells) are traditional sounds associated with auspicious occasions, celebrations, and welcoming ceremonies.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Vows and Observances (Broto)",
+      "description": "Princess Kolaboti's declaration of a 'ব্রত' (vow/ritual observance) is a culturally recognized way to delay or postpone actions, often with spiritual implications.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief in Magical Objects",
+      "description": "The story features several magical objects like 'ঢোল-ডগর' (drums), 'সুপারীর ডোঙ্গা' (betel nut shell boats), 'ময়ূরপঙ্খী' (peacock-winged boat), and 'কৌটা' (casket), which are integral to the plot and reflect a worldview where magic is intertwined with reality.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Superstition/Folklore",
+      "description": "The belief that drinking 'শিল-ধোয়া জল' (water used to wash the grinding stone) would result in a 'বানর চাঁদ ছেলে' (monkey-like son) reflects folk beliefs and the power of malicious intent.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation",
+      "description": "The king has seven queens but no children, causing great sorrow throughout the kingdom."
+    },
+    {
+      "function": "Absentations (I)",
+      "description": "The queens go to the river ghat to bathe, leaving the royal palace."
+    },
+    {
+      "function": "Interdiction (II)",
+      "description": "Implicitly, the hermit's instruction to 'eat this' (the root) implies sharing it equally among the seven queens."
+    },
+    {
+      "function": "Violation (III)",
+      "description": "The queens do not share the magical root equally; the youngest queen receives only the 'shil-dhoya jol' (water used to wash the grinding stone)."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The elder queens' malicious act of depriving the youngest queen of the root and mocking her, leading to her bearing a monkey and an owl, and their subsequent degradation to servants."
+    },
+    {
+      "function": "Lack (VIIIa)",
+      "description": "Initially, the king and queens lack children. Later, the outcast queens and their animal-sons lack status, recognition, and a rightful place in the kingdom."
+    },
+    {
+      "function": "Mediation (IX)",
+      "description": "The news of Princess Kolaboti and her challenge (whoever brings the 'Motir Phul' and 'Dhol-Dogor' will marry her) reaches the kingdom, setting the quest in motion."
+    },
+    {
+      "function": "Beginning Counteraction (X)",
+      "description": "The five royal princes set out on their Moyurpankhi boats to win Kolaboti, while Buddhu and Bhutum also decide to follow."
+    },
+    {
+      "function": "Departure (XI)",
+      "description": "The five princes depart on their Moyurpankhi boats. Buddhu and Bhutum also depart on their magically appearing Suparir Donga."
+    },
+    {
+      "function": "Donor (XII)",
+      "description": "The mothers' offerings (Suparir Donga, Dhan Durba, Sindur) act as a magical agent, providing Buddhu and Bhutum with their means of travel and protection."
+    },
+    {
+      "function": "Receipt of a Magical Agent (XIV)",
+      "description": "Buddhu and Bhutum find and utilize the Suparir Donga, which acts as their magical transport and guide."
+    },
+    {
+      "function": "Guidance (XV)",
+      "description": "The Suparir Donga guides Buddhu and Bhutum across the waters, leading them to the three old women's kingdom and beyond."
+    },
+    {
+      "function": "Struggle (XVI)",
+      "description": "Buddhu and Bhutum overcome obstacles: they rescue the princes from the three old women's stomachs, and Buddhu defeats the python (Ajogor) guarding the magical fruits."
+    },
+    {
+      "function": "Branding (XVII)",
+      "description": "Buddhu takes the 'Motir Phul' (pearl flower) from Kolaboti's hair, serving as a unique proof of his presence and achievement in her palace."
+    },
+    {
+      "function": "Victory (XVIII)",
+      "description": "Buddhu successfully obtains Kolaboti Rajkonna and the Dhol-Dogor, fulfilling the conditions of the quest."
+    },
+    {
+      "function": "Liquidation of Misfortune or Lack (XIX)",
+      "description": "Buddhu secures Kolaboti and the Dhol-Dogor, thereby resolving the quest's primary objective."
+    },
+    {
+      "function": "Return (XX)",
+      "description": "Buddhu, Bhutum, and Kolaboti (in the Kouta) return towards the kingdom, accompanied by the rescued princes."
+    },
+    {
+      "function": "Pursuit (XXI)",
+      "description": "The five princes, out of jealousy and malice, throw Buddhu and Bhutum into the water, attempting to eliminate them and claim the prize."
+    },
+    {
+      "function": "Rescue (XXII)",
+      "description": "Buddhu and Bhutum are rescued from the water, implied by their reappearance and the enduring power of their mothers' prayers and offerings."
+    },
+    {
+      "function": "Unrecognized Arrival (XXIII)",
+      "description": "Buddhu and Bhutum arrive back in the kingdom, but their true identity and heroic deeds are still unknown to the king and most of the court."
+    },
+    {
+      "function": "Unfounded Claims (XXIV)",
+      "description": "The five princes falsely claim to have won Kolaboti Rajkonna and present her to the king and queens."
+    },
+    {
+      "function": "Difficult Task (XXV)",
+      "description": "Kolaboti sets the condition for her marriage: 'ঢোল-ডগর যা'র' (she belongs to whoever possesses the Dhol-Dogor), which only Buddhu can fulfill."
+    },
+    {
+      "function": "Solution (XXVI)",
+      "description": "Buddhu presents the Dhol-Dogor, proving his claim to Kolaboti and revealing his true role in the quest."
+    },
+    {
+      "function": "Recognition (XXVII)",
+      "description": "The king recognizes Buddhu and Bhutum as his true sons and their mothers as his rightful queens, understanding the past injustice."
+    },
+    {
+      "function": "Exposure (XXVIII)",
+      "description": "The wicked five queens and their sons are exposed for their cruelty, deceit, and false claims."
+    },
+    {
+      "function": "Transfiguration (XXIX)",
+      "description": "Buddhu and Bhutum shed their animal forms (monkey skin and owl feathers) and transform into handsome, divine princes (Budhkumar and Rupkumar)."
+    },
+    {
+      "function": "Punishment (XXX)",
+      "description": "The five wicked queens and their sons are sealed in their rooms as punishment for their actions."
+    },
+    {
+      "function": "Wedding (XXXI)",
+      "description": "Buddhu marries Kolaboti Rajkonna, and Bhutum marries Hiraboti Rajkonna, bringing joy and order back to the kingdom."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The King (Ruler, initially sorrowful, later just)",
+      "The Seven Queens (The Outcast Mother - Small Rani, The Jealous Wives - Elder Queens, The Sympathetic Helper - N-Rani)",
+      "The Hero (Buddhu, Bhutum - initially disguised as animals, later revealed as divine princes)",
+      "The Princess (Kolaboti - the prize, the wise and discerning bride)",
+      "The Villain (The three old women, the python, the jealous elder queens and princes)",
+      "The Magical Helper/Donor (The Hermit, the mothers' offerings, the Dhol-Dogor, the Suparir Donga)",
+      "The Trickster (Buddhu, using his wit and disguise to overcome obstacles)"
+    ],
+    "atomic_plot_nodes": [
+      "1. The King and his seven queens are childless, causing great sorrow.",
+      "2. A hermit gives a magical root for fertility, to be shared among the queens.",
+      "3. The elder queens maliciously deprive the youngest queen of the root, giving her only 'shil-dhoya jol'.",
+      "4. Five queens bear human sons; the N-Rani bears an owl (Bhutum); the Small Rani bears a monkey (Buddhu).",
+      "5. Bhutum and Buddhu, along with their mothers, are outcast and forced into servitude.",
+      "6. Princess Kolaboti's challenge is announced: she will marry the one who brings the 'Motir Phul' and 'Dhol-Dogor'.",
+      "7. The five royal princes set out on Moyurpankhi boats to win Kolaboti.",
+      "8. Buddhu and Bhutum, guided by their mothers' magical offerings (Suparir Donga), follow the princes.",
+      "9. Buddhu and Bhutum rescue the princes from the stomachs of three old women.",
+      "10. The princes betray Buddhu and Bhutum, leaving them behind.",
+      "11. Buddhu dives into the underworld, defeats a python, and finds Kolaboti in her palace.",
+      "12. Buddhu takes the 'Motir Phul' from Kolaboti's hair and wins her hand, taking her (in a Kouta) and the Dhol-Dogor.",
+      "13. Buddhu returns with Kolaboti and the rescued princes, who are still unaware of his true role.",
+      "14. The princes betray Buddhu and Bhutum again, throwing them into the water and claiming Kolaboti.",
+      "15. Kolaboti, brought to the palace, states her condition: she belongs to 'Dhool-Dogor Ja'r' (whoever owns the Dhol-Dogor).",
+      "16. Buddhu and Bhutum reappear, reveal their true identity, and Buddhu presents the Dhol-Dogor.",
+      "17. The King recognizes Buddhu and Bhutum as his true sons and their mothers as his rightful queens.",
+      "18. Buddhu and Bhutum transform from their animal forms into handsome divine princes.",
+      "19. The wicked queens and princes are punished by being sealed in their rooms.",
+      "20. Buddhu marries Kolaboti, and Bhutum marries another princess, Hiraboti, bringing joy and justice to the kingdom."
+    ],
+    "tone_and_moral": "The tone is initially melancholic and unjust, transitioning to adventurous and ultimately triumphant. The moral emphasizes that true worth lies beyond outward appearance, that justice will prevail over cruelty and deceit, and that humility and virtue are ultimately rewarded. It also highlights the enduring power of a mother's love and the importance of recognizing true lineage and character."
+  }
+}

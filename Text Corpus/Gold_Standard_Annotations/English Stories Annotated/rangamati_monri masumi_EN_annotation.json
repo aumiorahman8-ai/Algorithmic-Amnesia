@@ -1,0 +1,235 @@
+{
+  "story_metadata": {
+    "title_suggested": "Monori and Sa-tha-nu: A Celestial Love Story",
+    "primary_theme": "Love, separation, and reunion across celestial and mortal realms, intertwined with themes of destiny and spiritual devotion."
+  },
+  "lexical_integrity": [
+    {
+      "term": "Indra",
+      "category": "Deity/Title",
+      "importance": "High",
+      "context_note": "King of Heaven in Hindu mythology, referred to as 'Do-ma-ray' later in the story."
+    },
+    {
+      "term": "Naga King",
+      "category": "Mythological Creature/Title",
+      "importance": "High",
+      "context_note": "Serpent king, a powerful entity often associated with water, wisdom, and magic in South Asian folklore."
+    },
+    {
+      "term": "Monori",
+      "category": "Proper Noun/Name",
+      "importance": "High",
+      "context_note": "The youngest celestial princess, central protagonist. The name itself can imply 'captivating' or 'charming'."
+    },
+    {
+      "term": "Sa-tha-nu",
+      "category": "Proper Noun/Name",
+      "importance": "High",
+      "context_note": "The mortal prince, Monori's husband and co-protagonist."
+    },
+    {
+      "term": "Brahmins",
+      "category": "Social/Religious Class",
+      "importance": "High",
+      "context_note": "Hindu priestly class, depicted here as antagonists due to jealousy and deceit."
+    },
+    {
+      "term": "Buddhist monks",
+      "category": "Religious Figure",
+      "importance": "Medium",
+      "context_note": "Religious figures associated with Monori's devotion, contrasting with the Brahmins."
+    },
+    {
+      "term": "Three worlds",
+      "category": "Cosmology",
+      "importance": "Medium",
+      "context_note": "Refers to 'Triloka' - Swarga (heaven), Martyaloka (earth), Patala (underworld) in Hindu cosmology."
+    },
+    {
+      "term": "Celestial realm/Mortal world",
+      "category": "Cosmology",
+      "importance": "High",
+      "context_note": "Swarga and Martyaloka, fundamental settings for the story's conflict and resolution."
+    },
+    {
+      "term": "Sworn brother",
+      "category": "Social Relationship",
+      "importance": "Medium",
+      "context_note": "A bond of brotherhood, often formalized through a ritual like 'Rakhi-bandhan', implying protection and loyalty."
+    },
+    {
+      "term": "Auspicious moment",
+      "category": "Ritual/Belief",
+      "importance": "Medium",
+      "context_note": "A 'Shubh Muhurat', a propitious time determined by astrological calculations for important events like weddings."
+    },
+    {
+      "term": "Merit",
+      "category": "Religious Concept",
+      "importance": "Medium",
+      "context_note": "Punya, accumulated through good deeds, leading to positive outcomes in this or future lives (e.g., King Bird's advice)."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "Clear social and cosmic hierarchy: King of Heaven, celestial princesses, mortal prince, Naga King, Brahmins, Buddhist monks, hunter, common people.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Dream interpretation for guidance/warning; elaborate wedding ceremonies; ritual bathing for purification/re-entry into celestial status; proposed human sacrifice (by Brahmins); religious devotion (Buddhism).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief System",
+      "description": "Hindu cosmology (heaven, earth, three worlds); concept of time dilation between realms; reincarnation and past lives (karma, dharma); importance of merit (punya); influence of deities (Lord Buddha).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Relationship",
+      "description": "The 'sworn brother' bond between Monori and the hunter, signifying a deep, protective relationship beyond blood ties.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Clothing",
+      "description": "Specific mention of scarf and dress hem as identifiers for celestial princesses, implying distinct attire.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Food",
+      "description": "General mention of 'food and drink' for feasts and daily life, but no specific dishes are highlighted.",
+      "is_replaceable": true
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation",
+      "description": "Introduction of Indra, his seven beautiful princesses, their lively nature, and curiosity about Earth."
+    },
+    {
+      "function": "Absentations (I)",
+      "description": "The princesses express a desire to visit the Earth, absenting themselves from their usual celestial routine."
+    },
+    {
+      "function": "Interdiction (II)",
+      "description": "King Indra forbids his daughters from going to Earth after a prophetic dream of misfortune."
+    },
+    {
+      "function": "Violation (III)",
+      "description": "The king's heart melts at his daughters' pleas, and he grants them permission, effectively violating his initial interdiction."
+    },
+    {
+      "function": "Departure (XI)",
+      "description": "The princesses regularly depart from heaven to visit and play on Earth."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "A hunter plots to capture one of the princesses for marriage."
+    },
+    {
+      "function": "Receipt of a Magic Agent (XIV)",
+      "description": "The Naga King provides the hunter with a magical net to capture a princess."
+    },
+    {
+      "function": "Struggle (XVI)",
+      "description": "The hunter throws the net, catching Monori, and her sisters' attempts to free her fail."
+    },
+    {
+      "function": "Branding/Marking (XVII)",
+      "description": "Monori is separated from her sisters and falls to Earth, marking a significant change in her status and location."
+    },
+    {
+      "function": "Liquidation of Misfortune (XIX)",
+      "description": "The hunter, moved by Monori's plea, frees her from the net."
+    },
+    {
+      "function": "Wedding (XXXI)",
+      "description": "Monori marries Prince Sa-tha-nu on Earth with pomp and ceremony."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The Brahmins, out of jealousy, plot against Monori and deceive the king into believing she must be sacrificed."
+    },
+    {
+      "function": "Departure (XI)",
+      "description": "Monori, saddened by the Brahmins' plot, decides to leave Earth and return to heaven."
+    },
+    {
+      "function": "Search (IX)",
+      "description": "Prince Sa-tha-nu returns from war and embarks on a desperate search for his missing wife, Monori."
+    },
+    {
+      "function": "Receipt of a Magic Agent (XIV)",
+      "description": "A devout sage gives the prince Monori's ring and instructions for reaching heaven."
+    },
+    {
+      "function": "Guidance (XV)",
+      "description": "The sage provides detailed directions and methods for the prince to travel to heaven."
+    },
+    {
+      "function": "Struggle (XVI)",
+      "description": "The prince bravely crosses the perilous hot sea on the back of the Naga King, enduring storms."
+    },
+    {
+      "function": "Transfiguration (XXIX)",
+      "description": "The prince transforms into a small ant to secretly travel to heaven on the queen bird's wing."
+    },
+    {
+      "function": "Difficult Task (XXV)",
+      "description": "The King of Heaven sets three challenging tests for Prince Sa-tha-nu to prove his worthiness for Monori."
+    },
+    {
+      "function": "Solution (XXVI)",
+      "description": "Monori secretly provides the prince with the solutions and clues needed to pass each of the difficult tests."
+    },
+    {
+      "function": "Recognition (XXVII)",
+      "description": "The prince recognizes Monori's finger and her in the sky during the tests; Monori recognizes her ring."
+    },
+    {
+      "function": "Wedding (XXXI)",
+      "description": "Prince Sa-tha-nu and Monori are married again in heaven with grand celestial ceremonies."
+    },
+    {
+      "function": "Transfiguration (XXIX)",
+      "description": "Monori's touch transforms her aged son back into a two-month-old baby."
+    },
+    {
+      "function": "Liquidation of Misfortune (XIX)",
+      "description": "The family is reunited, the time discrepancy is understood, and past life connections are revealed, resolving the central conflict."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "Hero (Prince Sa-tha-nu)",
+      "Heroine (Princess Monori)",
+      "Villain (Hunter, Brahmins)",
+      "Mentor/Helper (Naga King, Sage, King Bird, Monori's sisters, Monori herself)",
+      "Divine King (Indra/Do-ma-ray)",
+      "Trickster (Brahmins, in their deceit)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Seven celestial princesses desire to visit Earth.",
+      "2. King Indra forbids them due to a prophetic dream, but later permits.",
+      "3. Princesses visit Earth daily, playing and bathing.",
+      "4. A hunter plots to capture one, aided by the Naga King's net.",
+      "5. Monori is caught in the net and separated from her sisters.",
+      "6. The hunter frees Monori, and she accepts him as a sworn brother.",
+      "7. Monori meets Prince Sa-tha-nu, they fall in love and marry.",
+      "8. Prince goes to war; Monori becomes pregnant and gives birth to a son.",
+      "9. Jealous Brahmins plot against Monori, suggesting her sacrifice to the king.",
+      "10. Monori, heartbroken, leaves for heaven, entrusting a ring and instructions to a sage.",
+      "11. Prince returns victorious, searches for Monori, and finds the sage.",
+      "12. Guided by the sage, the prince embarks on a perilous journey to heaven, crossing the Naga King and traveling as an ant on a bird.",
+      "13. In heaven, the King of Heaven sets three difficult tests for the prince.",
+      "14. Monori secretly helps the prince pass all the tests.",
+      "15. Prince and Monori are remarried in heaven and gifted a new palace.",
+      "16. They are transported back to Earth in their sleep, finding their son aged 100 years.",
+      "17. Monori's touch miraculously restores her son to infancy.",
+      "18. The time dilation between heaven and Earth is understood, and their past life connections are revealed."
+    ],
+    "tone_and_moral": "The tone is romantic, adventurous, and dramatic, with elements of spiritual wisdom. The moral emphasizes the enduring power of true love and destiny across realms and lifetimes, the rewards of perseverance and good deeds (merit), and the dangers of jealousy and deceit. It also highlights the cyclical nature of existence and the significance of past life connections in shaping present events."
+  }
+}

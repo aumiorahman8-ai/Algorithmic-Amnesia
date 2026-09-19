@@ -1,0 +1,293 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Monkey Prince and the Owl Prince",
+    "primary_theme": "Triumph of the Underdog and Revelation of True Identity"
+  },
+  "lexical_integrity": [
+    {
+      "term": "ghat",
+      "category": "Location",
+      "importance": "High",
+      "context_note": "A set of steps leading down to a river or pond, used for bathing or washing. Culturally significant for daily life and rituals."
+    },
+    {
+      "term": "Pakshiraj",
+      "category": "Mythical Creature",
+      "importance": "High",
+      "context_note": "A mythical winged horse, often associated with royalty and extraordinary travel in South Asian folklore."
+    },
+    {
+      "term": "bakul tree",
+      "category": "Flora",
+      "importance": "Medium",
+      "context_note": "A specific type of tree (Mimusops elengi) known for its fragrant flowers, common in South Asia."
+    },
+    {
+      "term": "dhol-dogor",
+      "category": "Musical Instrument/Magical Object",
+      "importance": "High",
+      "context_note": "A type of drum, here imbued with magical properties to create and vanish a marketplace."
+    },
+    {
+      "term": "Shukpankhi boat",
+      "category": "Mythical Vehicle",
+      "importance": "High",
+      "context_note": "A mythical boat, often depicted with parrot-like features or associated with swiftness and beauty."
+    },
+    {
+      "term": "Mayurpankhi boat",
+      "category": "Mythical Vehicle",
+      "importance": "High",
+      "context_note": "A mythical boat, often depicted with peacock-like features, symbolizing grandeur and royal travel."
+    },
+    {
+      "term": "kunch berry",
+      "category": "Flora",
+      "importance": "Medium",
+      "context_note": "A small, bright red berry (Abrus precatorius), used as a cultural reference for fair skin color."
+    },
+    {
+      "term": "durva grass",
+      "category": "Ritual Item",
+      "importance": "High",
+      "context_note": "A sacred grass (Cynodon dactylon) used in Hindu rituals and offerings, symbolizing purity and longevity."
+    },
+    {
+      "term": "cowries",
+      "category": "Ritual Item/Currency",
+      "importance": "Medium",
+      "context_note": "Seashells historically used as currency or for auspicious purposes in rituals."
+    },
+    {
+      "term": "Indra",
+      "category": "Deity",
+      "importance": "Medium",
+      "context_note": "The king of the gods in Hindu mythology, whose court is a benchmark for magnificence."
+    },
+    {
+      "term": "Budhkumar",
+      "category": "Name",
+      "importance": "High",
+      "context_note": "New name for Buddhu, combining 'Budh' (wisdom/Mercury) and 'kumar' (prince), signifying his true identity and intelligence."
+    },
+    {
+      "term": "Rupkumar",
+      "category": "Name",
+      "importance": "High",
+      "context_note": "New name for Bhutum, combining 'Rup' (beauty/form) and 'kumar' (prince), signifying his true identity and handsome appearance."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "Polygamy and a clear hierarchy among queens (Eldest, Second, Unfavored, Youngest) influencing their status and treatment.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Bathing at the river ghat, a common daily and ritualistic practice.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Hermit (sadhu/rishi) as a source of divine blessings and magical remedies (the root for fertility).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Custom",
+      "description": "Traditional division of labor among queens in the kitchen, reflecting household roles.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief",
+      "description": "Belief in auspicious signs and rituals for childbirth, even from minimal magical residue (water from grinding stone).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Celebration",
+      "description": "Celebration with drums and cymbals for the birth of male heirs, signifying their importance.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Practice",
+      "description": "Social ostracization and demotion of queens who bore 'unnatural' children (owl, monkey), reflecting societal norms and superstitions.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food",
+      "description": "Betel nuts for chewing, a common South Asian custom.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Aesthetics",
+      "description": "Comparisons of beauty to 'golden moon' (sons), 'rain clouds' (hair), and 'kunch berry' (skin), reflecting local aesthetic ideals.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Observance of a one-month vow ('vrat') by Princess Kalabati, a common religious practice.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Welcoming auspicious events/people with paddy, durva grass, five-wicked lamps, and conch shells.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief",
+      "description": "The motif of burning animal skins/feathers to reveal a true human form, a common trope in folklore.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Punishment",
+      "description": "Sealing rooms with thorns and earth as a form of severe punishment or banishment.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation (α)",
+      "description": "The king has seven queens but no children, causing sorrow throughout the kingdom."
+    },
+    {
+      "function": "Interdiction (γ)",
+      "description": "A hermit gives the Eldest Queen a magical root, instructing her to grind and share it among all seven queens for sons."
+    },
+    {
+      "function": "Violation (δ)",
+      "description": "The five favored queens violate the interdiction by consuming most of the root, leaving only a tiny residue for the Fourth Queen and nothing for the Youngest Queen."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The five queens' malicious act leads to the birth of an owl and a monkey to the Fourth and Youngest Queens, respectively, resulting in their demotion, suffering, and social ostracization."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The kingdom initially lacks a true heir (resolved temporarily by the five princes), and later, the true identity and rightful place of Buddhu and Bhutum are unrecognized. Princess Kalabati lacks a suitable groom who can complete her quest."
+    },
+    {
+      "function": "Mediation, the Connective Incident (B)",
+      "description": "Princess Kalabati appears in a Shukpankhi boat, issuing a riddle that serves as a challenge for a suitor, prompting the princes' quest."
+    },
+    {
+      "function": "Beginning Counteraction (C)",
+      "description": "Buddhu and Bhutum, after being rejected by the princes, decide to go to their father and later embark on the quest themselves to prove their worth."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The five princes depart on their Mayurpankhi boats for Kalabati's land. Subsequently, Buddhu and Bhutum also depart in their magical areca-nut sheath boats."
+    },
+    {
+      "function": "Donor (D)",
+      "description": "The hermit acts as a donor by providing the magic root. The mothers of Buddhu and Bhutum act as donors by providing the magical areca-nut sheath boats."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "Buddhu and Bhutum receive the areca-nut sheath boats, which magically transform into Mayurpankhis. Later, Buddhu obtains the dhol-dogor drum, the flower of pearls, and the crone's quilt."
+    },
+    {
+      "function": "Spatial Transference (G)",
+      "description": "The heroes (princes, then Buddhu/Bhutum) travel to the kingdom of the three old crones, across the Red River, and to Kalabati's underwater palace."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The princes struggle against the three old crones' guards. Buddhu and Bhutum struggle against the three old crones (saving the princes), the Red River/sea (saving the princes), the quilt-crone and her soldiers, and the python guarding the fruit tree."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "Buddhu and Bhutum defeat the three old crones, overcome the Red River/sea, outsmart the quilt-crone, and kill the python."
+    },
+    {
+      "function": "Branding/Marking (J)",
+      "description": "Buddhu takes the flower of pearls from Kalabati's hair, fulfilling a specific condition of the quest and marking him as the successful suitor."
+    },
+    {
+      "function": "Transfiguration (T)",
+      "description": "Kalabati recognizes Buddhu as her groom and accepts him, despite his monkey form, due to his fulfillment of the quest conditions."
+    },
+    {
+      "function": "Pursuit (Pr)",
+      "description": "The five princes throw Buddhu and Bhutum overboard twice, attempting to eliminate them and claim their achievements."
+    },
+    {
+      "function": "Rescue (Rs)",
+      "description": "Buddhu and Bhutum are rescued from the water by their mothers' prayers and the magical boats."
+    },
+    {
+      "function": "Unrecognized Arrival (O)",
+      "description": "Buddhu and Bhutum return to the kingdom, initially in their animal forms, but their magical items (dhol-dogor, fruit trees, soldiers) manifest around their mothers' hut, drawing attention and hinting at their presence."
+    },
+    {
+      "function": "Unfounded Claims (L)",
+      "description": "The five princes claim Kalabati as their bride and take credit for the quest, despite Buddhu's actual success."
+    },
+    {
+      "function": "Difficult Task (N)",
+      "description": "Kalabati's vow to only marry the true owner of the dhol-dogor, which none of the five princes can fulfill."
+    },
+    {
+      "function": "Solution (Q)",
+      "description": "Kalabati identifies Buddhu as the true owner of the dhol-dogor, solving the difficult task and exposing the princes' deception."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "The king recognizes Buddhu and Bhutum as his true sons after Kalabati's revelation and the manifestation of their magical powers."
+    },
+    {
+      "function": "Transfiguration (T)",
+      "description": "Buddhu and Bhutum are physically transformed from their animal forms into handsome princes after their animal skins/feathers are burned by their wives."
+    },
+    {
+      "function": "Punishment (U)",
+      "description": "The five queens and five princes are sealed in their rooms as punishment for their past cruelty and deception."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "Buddhu marries Princess Kalabati, and Bhutum marries Princess Hirabati, signifying the ultimate reward for their heroism and virtue."
+    },
+    {
+      "function": "Liquidation of Misfortune/Lack (K)",
+      "description": "The initial lack of happiness in the kingdom and the later lack of recognition for Buddhu and Bhutum are resolved. The wronged queens are restored to their rightful place and honor."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The King (Ruler, Father Figure)",
+      "The Hermit (Wise Old Man, Giver of Magic)",
+      "The Favored Queens (Envious Rivals, Villains)",
+      "The Unfavored Queens (Suffering Mothers, Victims)",
+      "Buddhu (The Clever Trickster, The Underdog Hero, The Transformed Prince)",
+      "Bhutum (The Loyal Companion, The Underdog Hero, The Transformed Prince)",
+      "Princess Kalabati (The Prize, The Wise Maiden, The Catalyst for the Quest)",
+      "The Three Old Crones (Monstrous Adversaries)",
+      "The Quilt-Crone (Magical Adversary)"
+    ],
+    "atomic_plot_nodes": [
+      "1. King's sorrow over childlessness.",
+      "2. Hermit gives magic root for sons, with instructions to share equally.",
+      "3. Favored queens hoard the root, depriving unfavored queens.",
+      "4. Favored queens bear human sons; unfavored queens bear an owl and a monkey.",
+      "5. Unfavored queens and their animal sons are ostracized and demoted.",
+      "6. Princes mistreat Bhutum and Buddhu, who realize their true lineage.",
+      "7. Princess Kalabati issues a quest riddle for her hand in marriage.",
+      "8. Princes embark on the quest in Mayurpankhis.",
+      "9. Buddhu and Bhutum, with mothers' magical boats, follow the princes.",
+      "10. Buddhu and Bhutum save the princes from the three old crones.",
+      "11. Buddhu and Bhutum save the princes from the Red River and the sea.",
+      "12. Princes betray Buddhu and Bhutum, throwing them overboard.",
+      "13. Buddhu dives to Kalabati's underwater palace, outsmarts the quilt-crone, and frees the imprisoned princes.",
+      "14. Buddhu takes the flower of pearls and the dhol-dogor, fulfilling the quest conditions.",
+      "15. Buddhu returns with Kalabati (in a casket) and the dhol-dogor, bringing the princes and their boats.",
+      "16. Princes betray Buddhu and Bhutum again, throwing them overboard and claiming Kalabati.",
+      "17. Buddhu and Bhutum are rescued by their mothers' prayers and the magical boats.",
+      "18. Kalabati refuses to identify any prince as her groom, awaiting the dhol-dogor owner, and observes a vow.",
+      "19. Buddhu and Bhutum's magical items (dhol-dogor, fruit trees, soldiers) manifest near their hut, revealing their presence and power.",
+      "20. King realizes the truth, restores the unfavored queens to their rightful place.",
+      "21. Princesses burn animal skins/feathers, revealing Buddhu and Bhutum's true human forms.",
+      "22. Buddhu and Bhutum marry Kalabati and Hirabati, respectively.",
+      "23. Favored queens and princes are punished by being sealed in their rooms.",
+      "24. King and true heirs live happily ever after, with justice prevailing."
+    ],
+    "tone_and_moral": "The tone is initially sorrowful, transitioning to adventurous and suspenseful, and culminating in triumphant and just. It blends elements of a traditional fairy tale with a strong moral undercurrent. The moral emphasizes that envy and cruelty lead to downfall, while perseverance, cleverness, and kindness (even from the marginalized) are ultimately rewarded. True worth is not determined by outward appearance or initial status, but by character and deeds, and justice will ultimately prevail."
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Thread Bird and Manik Chan's Journey",
+    "primary_theme": "Separation, reunion, fate, and the triumph of family bonds over adversity"
+  },
+  "lexical_integrity": [
+    {
+      "term": "কামার",
+      "category": "Occupation",
+      "importance": "High",
+      "context_note": "Blacksmith, a skilled artisan, central to the initial challenge."
+    },
+    {
+      "term": "দরজি",
+      "category": "Occupation",
+      "importance": "High",
+      "context_note": "Tailor, a skilled artisan, creator of the magical thread bird."
+    },
+    {
+      "term": "শৌলা-শৌলী",
+      "category": "Fauna/Cultural object",
+      "importance": "Medium",
+      "context_note": "Shol fish fry/fingerlings, created magically by the Kamar for the competition."
+    },
+    {
+      "term": "খলিফা",
+      "category": "Title/Honorific",
+      "importance": "Medium",
+      "context_note": "A title often given to a master craftsman, here used for Abbas Dorji."
+    },
+    {
+      "term": "রাজা মশাই",
+      "category": "Honorific",
+      "importance": "Medium",
+      "context_note": "A respectful address for the King."
+    },
+    {
+      "term": "দাইনি/ধাত্রী",
+      "category": "Occupation",
+      "importance": "High",
+      "context_note": "Midwife, crucial for Malini's deception about her pregnancy."
+    },
+    {
+      "term": "মালিনী",
+      "category": "Occupation",
+      "importance": "High",
+      "context_note": "Female gardener/flower seller, who adopts Manik Chan."
+    },
+    {
+      "term": "বিনিসুতার মালা",
+      "category": "Object/Craft",
+      "importance": "High",
+      "context_note": "A garland made without thread, showcasing Manik Chan's unique skill and leading to his meeting with the princess."
+    },
+    {
+      "term": "ঘাটিয়াল",
+      "category": "Occupation",
+      "importance": "High",
+      "context_note": "Ferryman or river guard, who rescues and adopts Manik Chan's children."
+    },
+    {
+      "term": "সওদাগর",
+      "category": "Occupation",
+      "importance": "High",
+      "context_note": "Merchant, who abducts Chandramukhi and acts as an antagonist."
+    },
+    {
+      "term": "গৌড়ের",
+      "category": "Cultural reference/Exclamation",
+      "importance": "Medium",
+      "context_note": "An exclamation or oath, possibly referring to the ancient kingdom of Gour, used by Chandramukhi in distress."
+    },
+    {
+      "term": "বেওয়া",
+      "category": "Social status",
+      "importance": "Medium",
+      "context_note": "Widow, used for Loya Bewa, the midwife."
+    },
+    {
+      "term": "দোন",
+      "category": "Object",
+      "importance": "High",
+      "context_note": "A small container or pot, used by Malini to simulate pregnancy."
+    },
+    {
+      "term": "মানিক চান",
+      "category": "Proper Noun/Name",
+      "importance": "High",
+      "context_note": "The protagonist's name; 'Manik' means jewel or gem, often implying preciousness."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The King's authority and the deference shown by his subjects, including the Queen's initial reluctance but eventual submission to his request for their infant.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Public announcement of events (like the competition) through drum beating (ঢোল পিটিয়ে) across the kingdom.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Norm",
+      "description": "The social stigma associated with childlessness or late-life pregnancy, leading Malini to fake her pregnancy to legitimize Manik Chan's adoption.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Occupation/Social Role",
+      "description": "The crucial role of a 'Daini' or 'Dhatri' (midwife) in childbirth and validating births within the community.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief System",
+      "description": "References to 'Khoda' (God) and 'Bhagya' (Fate), indicating a belief in divine intervention and destiny.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Norm",
+      "description": "Chandramukhi's strategic demand for a 'separate house to protect her chastity' and a 'separate boat' while traveling with the merchant, emphasizing the cultural value placed on a woman's honor.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Oral Tradition",
+      "description": "The use of a lamenting song (করুণ সুরের গান) by the children to convey their tragic story and identity, a common narrative device in folklore.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Justice System",
+      "description": "The King's role as the ultimate arbiter of justice, investigating crimes and punishing wrongdoers like the merchant.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Norm",
+      "description": "The practice of public competitions to showcase skill and earn renown, as seen with the Kamar and Dorji.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation (α)",
+      "description": "Introduction of the King, the skilled Kamar (blacksmith) Mathur, and the skilled Dorji (tailor) Abbas, establishing their renown."
+    },
+    {
+      "function": "Interdiction (δ1)",
+      "description": "The King challenges Kamar and Dorji to perform extraordinary feats that will be remembered forever."
+    },
+    {
+      "function": "Violation (η)",
+      "description": "The King insists on more magical display from the thread bird despite the Dorji's explicit warning about its time limit, leading to the bird's uncontrolled flight."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The thread bird, due to the King's insistence, abducts the King's infant son, taking him away from the royal court."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The thread bird flies away with the infant, leaving the kingdom."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "The thread bird itself is a magical agent, capable of flight and carrying passengers, and later used by Manik Chan for travel."
+    },
+    {
+      "function": "Guidance (G)",
+      "description": "The thread bird guides Manik Chan and his family on their journey back towards his homeland."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The thread bird struggles and fights with a large python to protect the newborn infant on the river bank."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The thread bird successfully kills the python, though it perishes in the process."
+    },
+    {
+      "function": "Misfortune/Lack (a)",
+      "description": "Manik Chan loses his wife and children on the river bank; Chandramukhi loses her children and is subsequently abducted."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "Manik Chan departs from the river bank to seek help from the local king to find his family."
+    },
+    {
+      "function": "Donor (D)",
+      "description": "The local king (where Manik Chan lands) acts as a donor by showing compassion and setting up a river watch system to aid in the search for the lost family."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "The river watch system, enforced by the king, acts as a 'magical aid' or mechanism that eventually brings the separated family members into proximity."
+    },
+    {
+      "function": "Pursuit (Pr)",
+      "description": "The merchant pursues Chandramukhi, abducting her and attempting to force her into marriage."
+    },
+    {
+      "function": "Rescue (Rs)",
+      "description": "Chandramukhi devises a clever trick to delay her marriage to the merchant, and the Ghatiyal rescues the two abandoned children."
+    },
+    {
+      "function": "Unrecognized Arrival (o)",
+      "description": "Manik Chan's two sons, now grown and working as river guards, arrive at the ghat where their mother, Chandramukhi, is held captive, initially unrecognized by her."
+    },
+    {
+      "function": "Difficult Task (M)",
+      "description": "The children's melancholic song, which recounts their tragic history, serves as a difficult task for Chandramukhi to decipher its full meaning and recognize her sons."
+    },
+    {
+      "function": "Solution (N)",
+      "description": "The song provides the solution to the mystery of the children's identity, revealing their parentage and the events of their separation."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "Chandramukhi recognizes her two sons upon hearing their song, and later, Manik Chan recognizes his wife in the King's court."
+    },
+    {
+      "function": "Exposure (Ex)",
+      "description": "The merchant's villainy of abducting Chandramukhi is exposed before the King."
+    },
+    {
+      "function": "Transfiguration (T)",
+      "description": "The family is reunited and restored to their rightful status, with their identity and lineage confirmed."
+    },
+    {
+      "function": "Punishment (U)",
+      "description": "The merchant is punished by being banished from the kingdom."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "The story concludes with the complete restoration of the family unit and their return to their homeland, signifying a happy resolution and the successful completion of the hero's quest, akin to a wedding in Propp's schema."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The King (Authority Figure)",
+      "The Craftsmen (Magician/Creator)",
+      "The Magical Object (Thread-Bird)",
+      "The Lost Child (Manik Chan)",
+      "The Foster Parents (Flower-seller and Husband)",
+      "The Wise Old Woman (Loya Bewa - the midwife who aids Malini's deception)",
+      "The Princess (Chandramukhi)",
+      "The Villain (Merchant, and indirectly, the First King's Hubris)",
+      "The Helper (The Second King, The Ferryman as a temporary guardian)",
+      "The Grieving Mother (Youngest Queen, Chandramukhi)"
+    ],
+    "atomic_plot_nodes": [
+      "1. The King challenges Mathur Kamar and Abbas Khalifa to a competition of wondrous feats.",
+      "2. The Tailor's thread-bird devours the Blacksmith's iron fish fry.",
+      "3. The King insists on more tricks; the thread-bird flies away with the infant prince.",
+      "4. The bird lands in Malini's garden, which magically blooms, and Malini adopts the child (Manik Chan).",
+      "5. Malini fakes pregnancy to legitimize Manik Chan's adoption in society.",
+      "6. Manik Chan grows up, creates a unique threadless garland, and meets Princess Chandramukhi.",
+      "7. Manik Chan and Chandramukhi marry and have a son.",
+      "8. Chandramukhi becomes pregnant again, and they decide to visit Manik Chan's homeland using the thread bird.",
+      "9. During the journey, Chandramukhi gives birth on a river bank, and the bird fights a python, dying in the process.",
+      "10. Manik Chan goes for wood, Chandramukhi goes to the river, leaving the children alone.",
+      "11. A Ghatiyal finds and adopts the two abandoned children.",
+      "12. A merchant abducts Chandramukhi, who devises a plan to delay marriage for four years.",
+      "13. Manik Chan seeks help from the local king, who sets up a river watch system, where all river-traveling merchants to stop overnight for inspection.",
+      "14. The two adopted sons (now river guards) sing a lament about their lost family.",
+      "15. Chandramukhi, hearing the song from the merchant's boat, recognizes her sons.",
+      "16. Chandramukhi exposes the merchant's villainy and reunites with her children.",
+      "17. Manik Chan is summoned, recognizes his wife, and the family is fully reunited.",
+      "18. The merchant is punished, and the family returns to their homeland."
+    ],
+    "tone_and_moral": "The story begins with a tone of wonder and competition, quickly shifting to tragedy and sorrow with the loss of the child and later the separation of the entire family. It then transitions to a tone of perseverance, hope, and eventual triumph. The moral emphasizes the enduring power of family bonds, the role of fate in human lives, and the importance of righteous authority in restoring justice. It also subtly warns against the dangers of hubris and excessive demands, as seen in the first king's actions."
+  }
+}

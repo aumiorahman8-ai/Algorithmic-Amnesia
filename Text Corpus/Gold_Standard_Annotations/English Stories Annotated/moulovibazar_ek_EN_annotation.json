@@ -1,0 +1,195 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Princess, the Python, and The Four Brothers",
+    "primary_theme": "Justice, merit, and the arbitration of reward"
+  },
+  "lexical_integrity": [
+    {
+      "term": "Proclamation beaten by drum",
+      "category": "Cultural Practice/Communication",
+      "importance": "High",
+      "context_note": "Refers to a traditional method of public announcement in South Asia, often involving a specific type of drum (like a 'dhol' in Bengali) and a crier, signifying a royal decree."
+    },
+    {
+      "term": "King",
+      "category": "Title/Ruler",
+      "importance": "High",
+      "context_note": "A sovereign ruler in a monarchical system, central to the story's setting."
+    },
+    {
+      "term": "Daughter",
+      "category": "Kinship/Royal Title",
+      "importance": "High",
+      "context_note": "Specifically a princess in this royal context, the object of rescue."
+    },
+    {
+      "term": "Giant pthon",
+      "category": "Creature/Villain",
+      "importance": "High",
+      "context_note": "The primary antagonist responsible for the abduction."
+    },
+    {
+      "term": "Sea",
+      "category": "Geography",
+      "importance": "Medium",
+      "context_note": "The challenging environment where the princess is held captive."
+    },
+    {
+      "term": "Carpenter",
+      "category": "Profession",
+      "importance": "High",
+      "context_note": "Craftsman, artisan, or engineer, specifically skilled in building (here, a boat)."
+    },
+    {
+      "term": "Boatman",
+      "category": "Profession",
+      "importance": "High",
+      "context_note": "Boatman or navigator, skilled in operating a boat."
+    },
+    {
+      "term": "Hunter",
+      "category": "Profession",
+      "importance": "High",
+      "context_note": "Hunter, skilled in tracking and killing animals."
+    },
+    {
+      "term": "Robber",
+      "category": "Profession/Social Role",
+      "importance": "High",
+      "context_note": "Robber or bandit. This term is crucial as it names the character who ultimately receives the reward, subverting typical heroic expectations."
+    },
+    {
+      "term": "Claimant",
+      "category": "Legal/Social Status",
+      "importance": "Medium",
+      "context_note": "Claimant or one who is entitled to something, used to describe who has the right to the reward."
+    },
+    {
+      "term": "Helpers",
+      "category": "Narrative Role",
+      "importance": "Medium",
+      "context_note": "Supporting force or helper, distinguishing the roles of the other brothers from the primary claimant."
+    },
+    {
+      "term": "Settlement",
+      "category": "Resolution",
+      "importance": "Medium",
+      "context_note": "Settlement or resolution, referring to how the dispute over the reward is concluded."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "King and Princess as central figures of authority and value, with subjects responding to royal decrees and incentives.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Governance/Law",
+      "description": "Royal proclamation (beaten by drum) as a traditional method of public decree and incentive for heroic action.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Structure",
+      "description": "Specific traditional occupations (carpenter, boatman, hunter, robber) representing distinct and valuable skills within the society.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Family Structure",
+      "description": "The 'চার ভাই' (four brothers) motif highlights sibling dynamics and collective effort, often seen in folk narratives.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Reward System",
+      "description": "Offering half the kingdom and marriage to the princess as the ultimate royal reward for heroic deeds, a common trope in folktales.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Justice/Arbitration",
+      "description": "The King's role as the ultimate arbiter in disputes, determining the rightful claimant based on specific criteria (direct physical interaction/first touch).",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Absentations",
+      "description": "The princess is taken away from her home and the king's protection by the giant python."
+    },
+    {
+      "function": "Villainy",
+      "description": "The giant python captures the king's daughter and takes her to the sea, causing harm and distress."
+    },
+    {
+      "function": "Lack",
+      "description": "The king experiences a profound lack of his daughter, leading to restlessness and a desire for her rescue."
+    },
+    {
+      "function": "Mediation, the connecting incident",
+      "description": "The king makes a public proclamation, offering a significant reward (half the kingdom and marriage) for his daughter's rescue, thereby initiating the hero's quest."
+    },
+    {
+      "function": "Beginning Counteraction",
+      "description": "Four brothers, each with a specialized skill, respond to the king's proclamation and prepare to undertake the rescue mission."
+    },
+    {
+      "function": "Departure",
+      "description": "The four brothers set out to sea, leaving their familiar surroundings to confront the villain and rescue the princess."
+    },
+    {
+      "function": "Receipt of a magical agent",
+      "description": "The specialized skills of each brother (carpentry, boatmanship, hunting, robbing) function as their unique 'magical agents' or tools, essential for overcoming the challenge."
+    },
+    {
+      "function": "Struggle",
+      "description": "The brothers collectively engage in the act of confronting the giant python and retrieving the princess."
+    },
+    {
+      "function": "Victory",
+      "description": "The hunter kills the serpent, and the robber successfully takes the princess from its head, overcoming the villain."
+    },
+    {
+      "function": "Liquidation of Misfortune or Lack",
+      "description": "The princess is rescued and brought back from the sea, resolving the initial misfortune and the king's lack."
+    },
+    {
+      "function": "Return",
+      "description": "The four brothers return with the rescued princess to the king."
+    },
+    {
+      "function": "Difficult Task",
+      "description": "A new challenge arises: the king must determine which of the four brothers is the rightful claimant to the promised reward, given their collective effort."
+    },
+    {
+      "function": "Solution",
+      "description": "The king arbitrates the dispute, deciding that the robber, who first touched and carried the princess, is the rightful claimant."
+    },
+    {
+      "function": "Wedding",
+      "description": "The robber marries the princess, fulfilling the promised reward and concluding the narrative."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Sovereign (King)",
+      "The Damsel in Distress (Princess)",
+      "The Monster/Villain (Giant Python)",
+      "The Collective Heroes (Four Brothers: Craftsman, Navigator, Hunter, Rogue)",
+      "The Wise Judge (King in his arbitration role)",
+      "The Unconventional Hero (The Robber)",
+    ],
+    "atomic_plot_nodes": [
+      "1. A king has a daughter.",
+      "2. A giant python abducts the princess and takes her to the middle of the sea.",
+      "3. The king, distressed, announces a reward: half the kingdom and marriage to his daughter for her rescuer.",
+      "4. Four brothers (craftsman, boatman, hunter, robber) volunteer for the task.",
+      "5. They embark on the rescue mission.",
+      "6. The craftsman builds a boat, the boatman navigates.",
+      "7. The robber retrieves the princess from the snake's head.",
+      "8. The hunter kills the snake.",
+      "9. The brothers return, each claiming the reward based on their contribution.",
+      "10. The king rules that since the robber was the first to touch and bring the princess, he is the rightful claimant.",
+      "11. The robber marries the princess and receives half the kingdom.",
+      "12. The other three brothers accept the decision."
+    ],
+    "tone_and_moral": "The tone is direct, concise, and characteristic of a traditional folktale, focusing on plot progression and resolution. The moral explores the complexities of merit and reward, suggesting that direct action and 'first touch' can be decisive in claiming a prize, even when multiple parties contribute. It also highlights the importance of a just arbiter in resolving disputes."
+  }
+}

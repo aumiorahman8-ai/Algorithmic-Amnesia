@@ -1,0 +1,99 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Mother's Strategic Upbringing",
+    "primary_theme": "Unconventional wisdom in parenting and long-term foresight"
+  },
+  "lexical_integrity": [
+    {
+      "term": "বেড়ি",
+      "category": "Noun (dialectal)",
+      "importance": "Medium",
+      "context_note": "A colloquial, regional term for 'woman' in Mymensingh dialect, often used informally."
+    },
+    {
+      "term": "পুলা",
+      "category": "Noun (dialectal)",
+      "importance": "High",
+      "context_note": "Mymensingh dialect for 'son' (standard Bengali: ছেলে)."
+    },
+    {
+      "term": "সতীনের",
+      "category": "Adjective/Possessive",
+      "importance": "High",
+      "context_note": "Relating to a co-wife or stepmother. Crucial for understanding the family dynamic (child of a co-wife)."
+    },
+    {
+      "term": "পেডের",
+      "category": "Adjective/Possessive (dialectal)",
+      "importance": "High",
+      "context_note": "Relating to the 'belly' or 'womb', signifying her own biological child (standard Bengali: পেটের)."
+    },
+    {
+      "term": "লুলা",
+      "category": "Adjective (dialectal)",
+      "importance": "High",
+      "context_note": "Mymensingh dialect for 'lame', 'crippled', or 'weak'. Implies physical incapacitation due to over-pampering."
+    },
+    {
+      "term": "সোমত্ত",
+      "category": "Adjective (dialectal)",
+      "importance": "High",
+      "context_note": "Mymensingh dialect for 'strong', 'capable', 'able-bodied' (standard Bengali: সমর্থ). Crucial for the mother's strategic intent."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Family Structure",
+      "description": "The presence of 'সতীন' (sotin) implies a family structure involving co-wives or children from different mothers (of the same father), which is a common theme in South Asian folklore, often associated with favoritism or conflict.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Parental Care/Upbringing",
+      "description": "The contrasting methods of child-rearing – extreme pampering ('কোলে পিঠে করে রাহো') versus 'tough love' or neglect ('ধুলা বালির মধ্যে রাইখ্যা দেয়') – reflect traditional ideas about preparing children for life, often with gendered implications for sons.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Community Observation",
+      "description": "The neighbor's intervention ('প্রতিবেশী এক মহিলা একদিন পোলাপানের মায়েরে বলে') highlights the role of community in observing and commenting on family dynamics and upholding social norms, especially regarding child-rearing.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Regional Dialect",
+      "description": "The entire narrative is presented in the Mymensingh dialect of Bengali, indicating its specific regional origin and preserving the oral tradition's linguistic flavor.",
+      "is_replaceable": true
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Villainy (A)",
+      "description": "The mother's apparent neglect of her own biological child, leaving him in dust and dirt while pampering the stepchild, is perceived as a form of harm or misfortune inflicted upon her own kin."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The mother's own child experiences a lack of affection, care, and physical closeness typically expected from a mother, creating a state of perceived disadvantage."
+    },
+    {
+      "function": "Interrogation (δ)",
+      "description": "A neighbor observes the unusual and seemingly unjust behavior of the mother and directly questions her about it, seeking an explanation for the perceived villainy."
+    },
+    {
+      "function": "Receipt of Information (ε)",
+      "description": "The mother provides a detailed explanation for her actions, revealing a hidden, strategic purpose behind her behavior, which reframes the initial perception of villainy and lack."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Unconventional Mother",
+      "The Pampered Stepchild",
+      "The Neglected (but secretly strengthened) Own Child",
+      "The Observing Neighbor/Community Voice"
+    ],
+    "atomic_plot_nodes": [
+      "1. A mother has two sons: one from a co-wife (stepchild) and one biological.",
+      "2. She openly pampers the stepchild but neglects her own son, leaving him in dirt.",
+      "3. A neighbor observes this unusual behavior and questions the mother about it.",
+      "4. The mother explains that she is pampering the stepchild to make him weak and neglecting her own son to make him strong and capable for life."
+    ],
+    "tone_and_moral": "The tone shifts from initial confusion and perceived injustice to one of surprising wisdom and strategic foresight. The moral suggests that appearances can be deceiving, and true parental love or wisdom might manifest in unconventional ways, prioritizing long-term strength and resilience over immediate comfort or societal expectations. It champions 'tough love' as a means of preparing children for the harsh realities of life."
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Tragic Marriage of Bilkis and the Snake Prince",
+    "primary_theme": "The blinding nature of greed and the tragic consequences of delusion replacing reality."
+  },
+  "lexical_integrity": [
+    {
+      "term": "Poush",
+      "category": "Time/Season",
+      "importance": "Medium",
+      "context_note": "A month in the Bengali calendar corresponding to winter, setting the environmental condition for the cold that drives the snake to the house."
+    },
+    {
+      "term": "Snake Prince",
+      "category": "Folklore Archetype",
+      "importance": "High",
+      "context_note": "Refers to a 'shape-shifting' entity (human prince in snake form), which forms the basis of the mother's fatal delusion."
+    },
+    {
+      "term": "Python",
+      "category": "Fauna",
+      "importance": "High",
+      "context_note": "The reality of the threat; a large non-venomous snake that swallows prey whole, contrasted with the mother's fantasy."
+    },
+    {
+      "term": "Sona Banu",
+      "category": "Character Name",
+      "importance": "High",
+      "context_note": "The mother's name, explicitly characterized as having an 'extremely greedy nature'."
+    },
+    {
+      "term": "Bilkis Banu",
+      "category": "Character Name",
+      "importance": "High",
+      "context_note": "The daughter, described as 'incomparably beautiful' and the victim of the tragedy."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Social Expectation",
+      "description": "The intense anxiety and restlessness of parents to find a suitable groom for a daughter once she reaches a certain age.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Community Support",
+      "description": "The role of neighbors in stepping in to arrange burials when a death occurs in a family, highlighting communal interdependence.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Folklore Belief",
+      "description": "The belief that supernatural beings or princes can appear in the guise of animals (snakes), which the mother uses to rationalize the python's presence.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Materialism/Jewelry",
+      "description": "The cultural association of marriage with gold jewelry (anklets, waist-chains, bangles), which the mother hallucinates in place of her daughter's suffering.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation (α)",
+      "description": "A family of three lives happily; the daughter Bilkis is beautiful and growing up."
+    },
+    {
+      "function": "Absence (β)",
+      "description": "The father dies, leaving the mother and daughter helpless and creating a void in the household's protection."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The mother feels an acute lack of a groom for her daughter and is anxious to marry her off."
+    },
+    {
+      "function": "Arrival",
+      "description": "A huge python arrives at the courtyard seeking warmth from the winter sun."
+    },
+    {
+      "function": "Deception/Delusion (η)",
+      "description": "Driven by greed, the mother deceives herself into believing the python is a prince in disguise to secure a wealthy match."
+    },
+    {
+      "function": "Delivery (ζ)",
+      "description": "The mother dresses her daughter and presents her to the snake, effectively delivering the victim to the villain."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The snake begins to swallow the daughter limb by limb (feet, waist, hands, neck, head)."
+    },
+    {
+      "function": "Call for Help (Unanswered)",
+      "description": "The daughter cries out to her mother in a song-like tone, describing specific pain in her body parts."
+    },
+    {
+      "function": "Refusal of Rescue",
+      "description": "The mother reinterprets the calls for help as the joy of receiving jewelry, refusing to acknowledge the danger."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "After digesting the daughter, the snake leaves the house and returns to the deep jungle."
+    },
+    {
+      "function": "Recognition (I)",
+      "description": "The mother finds only her daughter's clothes and realizes the snake was real, not a prince."
+    },
+    {
+      "function": "Punishment/Tragedy",
+      "description": "The mother is left alone, weeping for her daughter, and eventually abandons her home."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Greedy Mother (Sona Banu)",
+      "The Innocent Victim (Bilkis Banu)",
+      "The Beast (Python/Snake Prince)",
+      "The Absent Protector (The deceased father)"
+    ],
+    "atomic_plot_nodes": [
+      "1. A family lives in the hills; the father dies, leaving the mother anxious to marry off their beautiful daughter.",
+      "2. A hungry python enters their courtyard during a cold winter morning to warm itself.",
+      "3. The greedy mother assumes the snake is a prince in disguise and decides to marry her daughter to it.",
+      "4. The mother dresses the daughter and sends her to the snake.",
+      "5. The snake begins to swallow the daughter's feet; the daughter cries in pain, but the mother says it is anklets.",
+      "6. The snake swallows the waist; the mother says it is a golden waist-chain.",
+      "7. The snake swallows the hands; the mother says it is golden bangles.",
+      "8. The snake swallows the neck/head; the mother says it is a necklace/head ornament.",
+      "9. The snake swallows the daughter completely, sleeps, and leaves the next morning leaving only her clothes.",
+      "10. The mother realizes her fatal error, grieves, and leaves the home alone."
+    ],
+    "tone_and_moral": "The tone is tragic and gruesome, utilizing a call-and-response song structure to highlight the contrast between the daughter's suffering and the mother's delusion. The moral emphasizes that excessive greed and the desperate desire for social status can lead to the destruction of one's own family[cite: 82, 131]."
+  }
+}

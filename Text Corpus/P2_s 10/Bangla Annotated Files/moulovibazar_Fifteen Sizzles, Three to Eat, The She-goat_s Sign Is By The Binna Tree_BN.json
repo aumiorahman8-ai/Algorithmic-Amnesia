@@ -1,0 +1,137 @@
+{
+  "story_metadata": {
+    "title_suggested": "Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree.",
+    "primary_theme": "Misinterpretation leading to unexpected fame and the power of folk wisdom"
+  },
+  "lexical_integrity": [
+    {
+      "term": "পিঠা",
+      "category": "Food",
+      "importance": "High",
+      "context_note": "Traditional Bengali flatbread or cake, often sweet or savory. Central to the initial misunderstanding."
+    },
+    {
+      "term": "ছেত",
+      "category": "Onomatopoeia",
+      "importance": "High",
+      "context_note": "An onomatopoeic sound, likely referring to the sizzling noise of pitha cooking on a hot pan. Crucial for the husband's initial remark."
+    },
+    {
+      "term": "গণক",
+      "category": "Social Role",
+      "importance": "High",
+      "context_note": "A diviner, soothsayer, or fortune-teller. The central identity mistakenly attributed to the husband."
+    },
+    {
+      "term": "বিন্না গাছ",
+      "category": "Flora",
+      "importance": "High",
+      "context_note": "A specific type of grass or plant (Vetiveria zizanioides). The precise location where the goat is found, integral to the husband's 'prophecy'."
+    },
+    {
+      "term": "গণক ঠাকুর",
+      "category": "Title/Social Role",
+      "importance": "High",
+      "context_note": "A respectful title for a revered diviner or soothsayer, indicating the husband's elevated status by the story's end."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Food",
+      "description": "Pitha making is a common household activity and a traditional food item in Bengali culture.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Hierarchy",
+      "description": "The use of 'Bapu' as a respectful address for an elder or respected male, indicating social deference.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief System",
+      "description": "Community belief in and reliance on 'gonok' (diviners) for solving problems like lost items, reflecting a folk tradition.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Community Interaction",
+      "description": "Neighbors sharing news and seeking help from perceived 'wise' individuals, highlighting community interdependence.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Interaction",
+      "description": "The rapid spread of news and gossip within a close-knit neighborhood, highlighting community dynamics and the power of word-of-mouth.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation",
+      "description": "The story begins with a domestic scene: a husband and wife arguing, the wife making pitha, and the husband counting the sounds, leading to his cryptic remark."
+    },
+    {
+      "function": "Absentations (II)",
+      "description": "The goat belonging to a village woman goes missing, creating a problem that needs resolution."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The loss of the goat constitutes a misfortune or 'villainy' against the woman. Additionally, the wife's misinterpretation and spreading of rumors create an unwanted predicament for the husband."
+    },
+    {
+      "function": "Lack (VIIIa)",
+      "description": "The woman experiences a lack of her lost goat, prompting her to seek help."
+    },
+    {
+      "function": "Mediation, the Connective Incident (IX)",
+      "description": "The woman approaches the husband, requesting his help to find her lost goat, based on his wife's claims of his divining abilities."
+    },
+    {
+      "function": "Departure (XI)",
+      "description": "The husband, albeit reluctantly, leaves his home to search for the lost goat."
+    },
+    {
+      "function": "Guidance (XVII)",
+      "description": "The husband's search leads him to the specific location of the binna tree, where he finds the goat."
+    },
+    {
+      "function": "Solution of Lack (XIX)",
+      "description": "The husband successfully locates the goat, resolving the initial problem of its absence."
+    },
+    {
+      "function": "Return (XX)",
+      "description": "The husband returns home after finding the goat, ready to deliver his 'prophecy'."
+    },
+    {
+      "function": "Recognition (XXIII)",
+      "description": "The woman finds her goat exactly where the husband indicated, confirming his perceived 'gonok' status in the eyes of the community."
+    },
+    {
+      "function": "Transfiguration (XXIV)",
+      "description": "The husband's social identity is transformed from an ordinary man into the revered 'Gonok Thakur'."
+    },
+    {
+      "function": "Wedding (XXXI)",
+      "description": "While not a literal wedding, this function represents the hero's ultimate reward and elevation. The husband is celebrated and gains a new, respected status ('Gonok Thakur') within the community, signifying his successful integration and recognition."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Accidental Hero",
+      "The Perceived Wise Fool",
+      "The Gossip/Misinterpreter (Wife)",
+      "The Seeker (Woman with lost goat)"
+    ],
+    "atomic_plot_nodes": [
+      "1. A husband and wife quarrel while the wife makes pithas.",
+      "2. The husband makes an observation about the number of sizzles versus pithas served.",
+      "3. The wife misinterprets her husband's observation as a sign of fortune-telling ability.",
+      "4. The wife spreads the news of her husband's supposed powers throughout the neighborhood.",
+      "5. A neighbor, having lost her goat, approaches the husband for help.",
+      "6. The irritated husband, to maintain appearances, tells the woman to return later.",
+      "7. The husband secretly leaves his house to search for the lost goat.",
+      "8. The husband finds the goat near a binna tree.",
+      "9. Upon the neighbor's return, the husband 'divines' the goat's location using his original phrase and the tree's name.",
+      "10. The neighbor successfully finds her goat following his instructions.",
+      "11. The man gains widespread recognition and a new title, 'Gonok Thakur'."
+    ],
+    "tone_and_moral": "The tone is humorous and ironic, highlighting how misinterpretation and accidental circumstances can lead to unexpected fame and social elevation. The moral suggests that perception often outweighs reality, and simple observations, when framed correctly, can be mistaken for profound wisdom. It also subtly critiques the spread of rumors and how they can shape an individual's destiny."
+  }
+}

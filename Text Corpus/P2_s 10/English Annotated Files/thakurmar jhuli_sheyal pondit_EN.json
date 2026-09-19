@@ -1,0 +1,191 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Jackal Pundit's Chain of Tricks",
+    "primary_theme": "Trickery, cunning, and the cyclical nature of consequence"
+  },
+  "lexical_integrity": [
+    {
+      "term": "Pundit",
+      "category": "Title/Profession",
+      "importance": "High",
+      "context_note": "A learned scholar or teacher, often implying respect, which the jackal exploits."
+    },
+    {
+      "term": "Ilish-kholse chachchari, rui-katla gorgori, chitol-boal mormori",
+      "category": "Cuisine",
+      "importance": "High",
+      "context_note": "Specific, elaborate Bengali fish preparations, highlighting the crocodile's anticipation of a celebratory feast."
+    },
+    {
+      "term": "Boti",
+      "category": "Household Tool",
+      "importance": "High",
+      "context_note": "A traditional Bengali floor-mounted cutting tool, crucial to the accidental death of the bride."
+    },
+    {
+      "term": "Dhol",
+      "category": "Musical Instrument",
+      "importance": "High",
+      "context_note": "A traditional Bengali drum, the final item the jackal acquires and celebrates with."
+    },
+    {
+      "term": "Hokka Hua",
+      "category": "Onomatopoeia/Call",
+      "importance": "High",
+      "context_note": "The characteristic cry or call of the jackal, used here as a taunt."
+    },
+    {
+      "term": "Dhiring dhiring",
+      "category": "Onomatopoeia/Movement",
+      "importance": "Medium",
+      "context_note": "Describes the dancing movement of crabs, emphasizing the jackal's temptation."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Education/Social Value",
+      "description": "The importance placed on children receiving an education, even for animals, as seen with the crocodile's desire for his sons to be educated.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Cuisine",
+      "description": "Specific Bengali fish dishes (ilish-kholse chachchari, rui-katla gorgori, chitol-boal mormori) prepared for special occasions, indicating a celebratory feast.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Attire/Profession",
+      "description": "Crocodile's attire (old jute cloth, torn fishing net, fisherman's boat-hat) and the mention of barbers, potters, drummers, and cowherds reflect traditional village professions and simple living.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Hospitality",
+      "description": "Offering tobacco and snuff to a guest, as the jackal pundit does to the crocodile, is a traditional gesture of hospitality.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Household Tool",
+      "description": "The 'boti' as a common, sharp cutting tool used in Bengali households.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Celebration/Ritual",
+      "description": "Wedding processions with firecrackers and the presence of drummers (dhol) are integral parts of traditional Bengali celebrations.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation",
+      "description": "The Jackal Pundit establishes a school in Shanti forest, attracting many students, including the crocodile's sons."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The jackal pundit, under the guise of teaching, systematically eats the crocodile's sons."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "After consuming the last son, the jackal pundit dismantles his school and flees."
+    },
+    {
+      "function": "Pursuit (Pr)",
+      "description": "The crocodile discovers the deceit and pursues the jackal, vowing revenge."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The crocodile catches the jackal's leg in the canal."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The jackal tricks the crocodile into believing he has caught a stick, leading the crocodile to release his leg."
+    },
+    {
+      "function": "Rescue (Rs)",
+      "description": "The jackal escapes the crocodile's grasp and crosses the canal."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The crocodile attempts a second trick, feigning death to lure the jackal."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The jackal, suspicious, tricks the crocodile into revealing he is alive by describing signs of death."
+    },
+    {
+      "function": "Rescue (Rs)",
+      "description": "The jackal escapes the crocodile, who is then attacked by cowherds."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The jackal gets a thorn in his nose, leading to injury and distress."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The jackal goes to the barber for help with his injured nose."
+    },
+    {
+      "function": "Receipt of Magic Agent (F)",
+      "description": "The jackal demands and receives the barber's nail-clipper as compensation for his nose being cut during the thorn removal."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The nail-clipper breaks while being examined by the potter."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The jackal confronts the potter about the broken nail-clipper."
+    },
+    {
+      "function": "Receipt of Magic Agent (F)",
+      "description": "The jackal demands and receives a pot from the potter as compensation for the broken nail-clipper."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The pot shatters when a firecracker lands in it during a wedding procession."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The jackal confronts the wedding groom about the broken pot."
+    },
+    {
+      "function": "Receipt of Magic Agent (F)",
+      "description": "The jackal demands and receives the bride from the groom as compensation for the broken pot."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The bride is accidentally cut in two by the drummer's wife."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The jackal confronts the drummer's wife about the lost bride."
+    },
+    {
+      "function": "Receipt of Magic Agent (F)",
+      "description": "The jackal demands and receives the drummer's dhol as compensation for the lost bride."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "The jackal climbs a palm tree and sings a song, publicly recounting his chain of acquisitions and his cleverness."
+    },
+    {
+      "function": "Punishment (U)",
+      "description": "In his moment of triumph and joy, the jackal slips and falls from the palm tree, implying a sudden, perhaps deserved, end to his escapades."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Trickster (Jackal Pundit)",
+      "The Dupe (Crocodile, Barber, Potter, Groom, Drummer's wife)"
+    ],
+    "atomic_plot_nodes": [
+      "1. The Jackal Pundit opens a school and devours the crocodile's sons.",
+      "2. The crocodile discovers the betrayal and initiates a pursuit of the jackal.",
+      "3. The jackal twice outwits the crocodile to escape capture.",
+      "4. The jackal injures his nose and extorts a nail-clipper from a barber.",
+      "5. The nail-clipper breaks, leading the jackal to extort a pot from a potter.",
+      "6. The pot breaks, leading the jackal to extort a bride from a wedding procession.",
+      "7. The bride dies, leading the jackal to extort a dhol from a drummer's wife.",
+      "8. The jackal celebrates his chain of acquisitions on a palm tree, only to suffer an abrupt fall."
+    ],
+    "tone_and_moral": "The tone is initially humorous and lighthearted, transitioning to a series of escalating, absurd events driven by the trickster's insatiable greed and cunning. The moral is a cautionary tale about the consequences of unchecked trickery and exploitation, suggesting that even the most clever can face an unexpected downfall, often at the peak of their perceived triumph."
+  }
+}

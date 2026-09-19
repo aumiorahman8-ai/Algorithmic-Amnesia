@@ -1,0 +1,203 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Stepmother's Misguided Affection",
+    "primary_theme": "The unintended consequences of excessive pampering and misguided affection, leading to ruin."
+  },
+  "lexical_integrity": [
+    {
+      "term": "বিয়া",
+      "category": "Social/Ritual",
+      "importance": "High",
+      "context_note": "Colloquial Bengali for 'marriage' (bibaho). Central to establishing the family structure."
+    },
+    {
+      "term": "পুলা",
+      "category": "Kinship",
+      "importance": "High",
+      "context_note": "Colloquial Bengali for 'son' (putra). Refers to the protagonist's son."
+    },
+    {
+      "term": "রাইখ্যা",
+      "category": "Verb/Action",
+      "importance": "Medium",
+      "context_note": "Colloquial form of 'rekhe' (leaving behind). Describes the first wife's death."
+    },
+    {
+      "term": "লেইগ্যা",
+      "category": "Preposition",
+      "importance": "Medium",
+      "context_note": "Colloquial form of 'jonno' (for/because of). Used in 'সংসার চালানোর লেইগ্যা' (for running the household)."
+    },
+    {
+      "term": "মাইয়্যা মানুষ",
+      "category": "Social/Gender",
+      "importance": "Medium",
+      "context_note": "Colloquial for 'woman' (literally 'girl person'). Highlights the traditional role of a woman in household management."
+    },
+    {
+      "term": "বাসর রাইতে",
+      "category": "Ritual/Social",
+      "importance": "High",
+      "context_note": "Literally 'wedding night' or 'first night'. The setting for the husband's crucial instruction to his new wife."
+    },
+    {
+      "term": "অইবো",
+      "category": "Verb/Modal",
+      "importance": "Medium",
+      "context_note": "Colloquial form of 'hobe' (will be/must be). Used in 'মানুষ করতে অইবো' (must be raised)."
+    },
+    {
+      "term": "অক্ষরে অক্ষরে",
+      "category": "Idiom",
+      "importance": "High",
+      "context_note": "Literally 'word for word'. Emphasizes the stepmother's promise to follow instructions precisely, which ironically leads to misinterpretation."
+    },
+    {
+      "term": "সতীনের ছেলে",
+      "category": "Kinship",
+      "importance": "High",
+      "context_note": "Literally 'co-wife's son', meaning 'stepson'. Central character whose fate drives the narrative."
+    },
+    {
+      "term": "কোলেপিঠে কইর‍্যা",
+      "category": "Idiom/Action",
+      "importance": "High",
+      "context_note": "Literally 'carrying on lap and back'. An idiom signifying extreme pampering and favoritism, crucial to the stepson's upbringing."
+    },
+    {
+      "term": "ইস্কুলে",
+      "category": "Education",
+      "importance": "Medium",
+      "context_note": "Colloquial for 'to school'. Highlights the educational path chosen for the stepson."
+    },
+    {
+      "term": "হালচাষ",
+      "category": "Occupation",
+      "importance": "Medium",
+      "context_note": "Plowing/Farming. The traditional occupation assigned to the stepmother's own sons."
+    },
+    {
+      "term": "অইয়্যা ওঠে",
+      "category": "Verb",
+      "importance": "Medium",
+      "context_note": "Colloquial for 'hoy uthe' (becomes). Describes the transformation of the sons' roles."
+    },
+    {
+      "term": "বিয়া পাগল",
+      "category": "Personality/Desire",
+      "importance": "High",
+      "context_note": "Literally 'marriage-crazy' or 'obsessed with marriage'. Describes the stepson's shift in priorities, leading to his downfall."
+    },
+    {
+      "term": "জমিজমা",
+      "category": "Property",
+      "importance": "High",
+      "context_note": "Land and property. The primary asset that the stepson squanders, leading to his destitution."
+    },
+    {
+      "term": "নিঃস্ব",
+      "category": "State",
+      "importance": "High",
+      "context_note": "Destitute/Impoverished. The final state of the stepson, the ultimate consequence of his upbringing."
+    },
+    {
+      "term": "রহম",
+      "category": "Adjective",
+      "importance": "Medium",
+      "context_note": "Colloquial for 'rokom' (kind/type). Used by the father to express his dismay at the 'kind' of affection shown."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Social Institution",
+      "description": "Marriage and remarriage after widowhood are central to establishing family structure and continuity.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Family Hierarchy",
+      "description": "The patriarchal structure where the man makes decisions regarding his children's upbringing and the need for a woman to manage the household.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Kinship Terminology",
+      "description": "The specific term 'sotiner chele' (stepson) highlights the distinct relationship within a polygynous or remarried family context.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Mobility",
+      "description": "The contrast between 'school' (education) and 'halchash' (farming) reflects traditional paths for social advancement or maintenance of status.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Economic Basis",
+      "description": "Land ownership ('jomijoma') as a fundamental source of wealth and security in rural Bengali society.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Cultural Trope",
+      "description": "The story plays on the common 'stepmother' trope, but subverts it by showing her 'affection' as the source of harm, rather than malice.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Absentations (β)",
+      "description": "The first wife dies, creating a void in the family and leaving the son without a mother."
+    },
+    {
+      "function": "Interdiction (γ)",
+      "description": "The man forbids his second wife from harming his son and instructs her to raise him with affection."
+    },
+    {
+      "function": "Violation (δ)",
+      "description": "The stepmother violates the *spirit* of the interdiction by misinterpreting 'affection' as excessive pampering and favoritism, which ultimately harms the stepson's development and future."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The stepmother's actions, though seemingly benevolent, constitute a form of 'villainy' in their outcome, as her misguided upbringing leads directly to the stepson's ruin and destitution."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The stepson 'departs' from a path of education and responsible living, choosing instead to become 'marriage-crazy' and squander his assets."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The stepson's struggle is internal, against his own lack of responsibility and poor choices, which are a consequence of his upbringing."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The stepson experiences a profound 'lack' when he becomes 'nihshwo' (destitute), having lost all his land and means of livelihood."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "The stepson's marriage is a significant event, marking a turning point where his focus shifts entirely from education to personal gratification, contributing to his downfall."
+    },
+    {
+      "function": "Recognition (T)",
+      "description": "The father recognizes the true, detrimental impact of his wife's actions and the consequences of her misguided 'affection' at the story's conclusion."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Concerned Father (initially wise, later disillusioned)",
+      "The Naive/Misguided Stepmother (well-intentioned but destructive)",
+      "The Pampered/Spoiled Son (the stepson, who becomes irresponsible)",
+      "The Industrious Sons (the stepmother's own children, who are pragmatic and benefit from the stepson's downfall)"
+    ],
+    "atomic_plot_nodes": [
+      "1. A man marries; his first wife dies, leaving a son.",
+      "2. The man remarries, instructing his new wife to care for his son with affection.",
+      "3. The stepmother promises to follow his words literally.",
+      "4. The stepmother gives birth to three sons of her own.",
+      "5. She shows extreme favoritism to the stepson, pampering him excessively while neglecting her own sons.",
+      "6. She sends the stepson to school and her own sons to work in the fields.",
+      "7. The stepson quits school and becomes obsessed with marriage.",
+      "8. The stepmother arranges his marriage, and he has children.",
+      "9. The stepson begins selling his inherited land.",
+      "10. The stepmother's own sons buy the land from their stepbrother.",
+      "11. The stepson eventually becomes completely destitute.",
+      "12. The father confronts his wife, realizing the negative outcome of her 'affection'."
+    ],
+    "tone_and_moral": "The tone is observational and ironic, highlighting the tragic consequences of actions driven by a literal but misguided interpretation of good intentions. The moral is a cautionary tale about the dangers of excessive pampering, the importance of balanced upbringing, and the need for responsibility, suggesting that true affection involves fostering self-reliance, not indulgence."
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Sisters, the Serpent, and the Seven Royal Children",
+    "primary_theme": "Transformation, loyalty, and the triumph of justice over deceit"
+  },
+  "lexical_integrity": [
+    {
+      "term": "Naran",
+      "category": "Place Name",
+      "importance": "Medium",
+      "context_note": "Name of the large village where the story begins."
+    },
+    {
+      "term": "Darbasing Ochai",
+      "category": "Title/Role",
+      "importance": "High",
+      "context_note": "Name and title of the priest; 'Ochai' denotes a specific type of priest or shaman."
+    },
+    {
+      "term": "Jhum",
+      "category": "Agricultural Practice",
+      "importance": "High",
+      "context_note": "Shifting cultivation, central to the villagers' livelihood and the sisters' initial hardship."
+    },
+    {
+      "term": "Poush, Magh, Chaitra, Baishakh, Sraban, Bhadra",
+      "category": "Calendar/Time",
+      "importance": "Medium",
+      "context_note": "Names of Bengali months, providing seasonal context for Jhum cultivation."
+    },
+    {
+      "term": "dao",
+      "category": "Tool",
+      "importance": "Medium",
+      "context_note": "A sharp, machete-like tool used for digging and clearing."
+    },
+    {
+      "term": "Gairing / Jhum hut",
+      "category": "Structure",
+      "importance": "High",
+      "context_note": "A field hut built for shelter and storage during Jhum cultivation."
+    },
+    {
+      "term": "Wakhrab",
+      "category": "Tool",
+      "importance": "Medium",
+      "context_note": "A specific type of bird-scarer used in Jhum fields."
+    },
+    {
+      "term": "Chakereng",
+      "category": "Architecture",
+      "importance": "Medium",
+      "context_note": "An open platform or veranda, typically of a stilt house."
+    },
+    {
+      "term": "Kumui",
+      "category": "Kinship Term",
+      "importance": "High",
+      "context_note": "Tripuri word for 'brother-in-law', used in a calling chant."
+    },
+    {
+      "term": "Dungui",
+      "category": "Name",
+      "importance": "High",
+      "context_note": "The true name of the snake-husband, revealed in Khumpuiti's prayer."
+    },
+    {
+      "term": "Rinai Richa",
+      "category": "Clothing",
+      "importance": "High",
+      "context_note": "Traditional attire, worn by Khumpuiti and later by Khumbarti in her hardship."
+    },
+    {
+      "term": "Tripuri language",
+      "category": "Language",
+      "importance": "High",
+      "context_note": "Explicitly mentioned as the language for specific chants, indicating cultural origin."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Agricultural Practice",
+      "description": "Jhum cultivation, a communal and seasonal farming method.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Religious Practice",
+      "description": "Daily worship of gods and goddesses by the priest Darbasing Ochai.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Puja for Goddess Lakshmi with Jhum paddy, involving sacrifices of pigs, chickens, and goats.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food/Serving",
+      "description": "Serving food on a banana leaf, a traditional practice.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Architecture",
+      "description": "Stilt houses and their 'Chakereng' (open platform/veranda), common in certain regions.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Clothing",
+      "description": "Rinai Richa, traditional attire worn by the women.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Hierarchy",
+      "description": "The presence of a king, queens, ministers, and courtiers, indicating a monarchical system.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Punishment",
+      "description": "Exiling to the deep jungle as a severe consequence for wrongdoing.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Oral Tradition",
+      "description": "Rhyming chants and lullabies in the Tripuri language, integral to the narrative and cultural expression.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief/Trial",
+      "description": "The 'milk test' to prove true motherhood, a magical or symbolic trial.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation",
+      "description": "Introduction of Naran village, Darbasing Ochai, his daughters Khumpuiti and Khumbarti, and the practice of Jhum cultivation."
+    },
+    {
+      "function": "Absentation",
+      "description": "Darbasing Ochai is absent from helping his daughters with the arduous Jhum work due to his priestly duties."
+    },
+    {
+      "function": "Lack",
+      "description": "The sisters lack a Jhum hut, a path to the bathing ghat, and protection for their crops, leading to great hardship."
+    },
+    {
+      "function": "Mediation, the Connective Incident",
+      "description": "Khumpuiti, in her sorrow, wishes for any creature to help them, even if it means accepting it as a husband."
+    },
+    {
+      "function": "Receipt of a Magical Agent",
+      "description": "A huge snake appears, transforms into a human, and offers help under strict conditions of secrecy and daily feeding."
+    },
+    {
+      "function": "Guidance",
+      "description": "The snake-man guides and assists the sisters by building a Jhum hut, clearing the jungle, and setting up a bird-scarer."
+    },
+    {
+      "function": "Interdiction",
+      "description": "The snake-man strictly forbids the sisters from revealing his true form to anyone."
+    },
+    {
+      "function": "Violation",
+      "description": "Under her father's persistent questioning and emotional manipulation, Khumbarti reveals the snake-man's secret."
+    },
+    {
+      "function": "Villainy",
+      "description": "Darbasing Ochai, fearing the snake and his daughter's health, plots and kills the snake-man."
+    },
+    {
+      "function": "Departure",
+      "description": "Khumpuiti leaves home after discovering the severed pieces of her snake-husband."
+    },
+    {
+      "function": "Liquidation of Misfortune",
+      "description": "Khumpuiti performs a ritual, calling her husband, and merges with the river, joining him in a mystical union."
+    },
+    {
+      "function": "Departure",
+      "description": "Khumbarti leaves her home, following her sister's final instructions to seek a new life."
+    },
+    {
+      "function": "Guidance",
+      "description": "Khumpuiti, from the river, provides Khumbarti with specific instructions on how to meet a king and become his queen."
+    },
+    {
+      "function": "Struggle",
+      "description": "Khumbarti faces questioning from the king's hunters and the king himself at the banyan tree."
+    },
+    {
+      "function": "Victory",
+      "description": "Khumbarti successfully answers the questions, proving her human identity and beauty, leading to her acceptance by the king."
+    },
+    {
+      "function": "Wedding",
+      "description": "Khumbarti marries the king and becomes his most beloved queen."
+    },
+    {
+      "function": "Villainy",
+      "description": "The six co-queens conspire to replace Khumbarti's newborn children with puppies and kittens, leading to her exile."
+    },
+    {
+      "function": "Lack",
+      "description": "Khumbarti suffers in exile, herding ducks, separated from her children and stripped of her royal status."
+    },
+    {
+      "function": "Mediation, the Connective Incident",
+      "description": "The mysterious lullaby and the appearance of beautiful children in the river reach the ears of the villagers and eventually the king."
+    },
+    {
+      "function": "Receipt of a Magical Agent",
+      "description": "Khumpuiti (now a magical helper from the river) guides her niece and nephews, instructing them on how to reveal their identity."
+    },
+    {
+      "function": "Guidance",
+      "description": "Khumpuiti instructs the children on how to present themselves to the king and how to identify their true mother through a specific test."
+    },
+    {
+      "function": "Struggle",
+      "description": "The children face questioning from the king and the subsequent 'milk test' involving all the women of the kingdom."
+    },
+    {
+      "function": "Victory",
+      "description": "Khumbarti passes the milk test, with seven streams of milk reaching her children, proving her true motherhood."
+    },
+    {
+      "function": "Liquidation of Misfortune",
+      "description": "The children are reunited with their mother, Khumbarti's innocence is proven, and the king realizes his grave error."
+    },
+    {
+      "function": "Punishment",
+      "description": "The six wicked co-queens are exiled to the deep jungle for their deceit and jealousy."
+    },
+    {
+      "function": "Transfiguration",
+      "description": "Khumbarti is restored to her status as queen, and she and her family live happily ever after, signifying a complete restoration and elevation of her position."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Heroine (Khumpuiti and Khumbarti)",
+      "The Magical Helper (Snake-man, Khumpuiti after transformation)",
+      "The Villain (Darbasing Ochai, the six co-queens)",
+      "The Wise Mentor (Khumpuiti, guiding Khumbarti and the children)",
+      "The Innocent Victim (Khumpuiti, Khumbarti, the seven children)",
+      "The Deceived King (initially misled, later just ruler)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Sisters struggle with Jhum work; Khumpuiti wishes for help.",
+      "2. Snake-man appears, helps, and imposes secrecy.",
+      "3. Father pressures Khumbarti, who reveals the secret.",
+      "4. Father kills the snake-man.",
+      "5. Khumpuiti performs a ritual and merges with the river, guiding Khumbarti.",
+      "6. Khumbarti follows instructions, meets the king, and becomes queen.",
+      "7. Other queens conspire, replace Khumbarti's babies with animals, and exile her.",
+      "8. Children grow in the river, guided by Khumpuiti's spirit.",
+      "9. Children reveal their identity through a magical milk test.",
+      "10. Khumbarti is reunited with her children and restored as queen.",
+      "11. Wicked queens are punished by exile."
+    ],
+    "tone_and_moral": "The tone shifts from initial hardship and melancholy to magical realism, then to dramatic conflict and suspense, finally resolving into a triumphant and just conclusion. The moral emphasizes that loyalty, truth, and perseverance ultimately triumph over deceit, jealousy, and injustice. It also highlights the power of familial bonds and the consequences of breaking sacred promises."
+  }
+}

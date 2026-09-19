@@ -1,0 +1,124 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Stepmother's Misguided Affection",
+    "primary_theme": "The unintended consequences of excessive pampering and misguided affection, leading to ruin."
+  },
+  "lexical_integrity": [
+    {
+      "term": "Affection",
+      "category": "Emotion/Cultural Value",
+      "importance": "High",
+      "context_note": "In Bengali culture, 'maya' (মায়া) or 'sneha' (স্নেহ) implies a deep, nurturing, and often self-sacrificing love, especially from a parent. The stepmother's 'affection' is a deceptive facade, highlighting a cultural expectation of maternal care."
+    },
+    {
+      "term": "Plow the fields",
+      "category": "Occupation/Social Status",
+      "importance": "Medium",
+      "context_note": "Signifies a traditional, often less prestigious, agrarian livelihood compared to 'student,' indicating a deliberate choice to limit the stepson's social mobility."
+    },
+    {
+      "term": "Selling family land",
+      "category": "Economic/Heritage",
+      "importance": "High",
+      "context_note": "Land is a primary source of wealth, status, and ancestral heritage in rural Bengali society. Its sale signifies a profound loss of security and social standing, often irreversible."
+    },
+    {
+      "term": "Destitute",
+      "category": "Economic/Social Status",
+      "importance": "High",
+      "context_note": "Implies not just poverty, but a complete loss of means, social standing, and often dignity, a severe outcome in the cultural context."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Family Structure",
+      "description": "Patriarchal family structure where the man makes decisions about remarriage and the upbringing of children. The concept of a 'second wife' (stepmother) and her role is central.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Hierarchy",
+      "description": "The father's authority in setting rules for the stepmother's conduct towards his son. The stepmother's manipulation of her children's and stepson's social and economic standing (student vs. farmer).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Economic",
+      "description": "Importance of land ownership as a primary asset and source of livelihood. The act of selling family land leads to destitution, highlighting its cultural significance.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Education/Occupation",
+      "description": "Distinction between sending children to 'school' (implying higher social mobility) versus 'plowing the fields' (agrarian labor, often lower status).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Cultural Trope",
+      "description": "The story plays on the common 'stepmother' trope, but subverts it by showing her 'affection' as the source of harm, rather than malice.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Absentations (1)",
+      "description": "The first wife dies, leaving the son without a mother, creating a void that necessitates the father's remarriage."
+    },
+    {
+      "function": "Interdiction (2)",
+      "description": "The man tells his second wife, 'You cannot cause my son any pain. You must raise him with your affection.'"
+    },
+    {
+      "function": "Violation (3)",
+      "description": "The stepmother's actions, while initially appearing to follow the letter of the interdiction (carrying him, sending to school), systematically violate its spirit by undermining the stepson's long-term well-being and inheritance."
+    },
+    {
+      "function": "Villainy (8)",
+      "description": "The stepmother's deliberate and systematic scheme to impoverish the stepson and enrich her own children by manipulating his life choices (sending him to plow, arranging his marriage, implicitly encouraging land sales)."
+    },
+    {
+      "function": "Departure (11)",
+      "description": "The stepson 'departs' from his studies and the path of potential prosperity, becoming obsessed with marriage and subsequently selling his inheritance, a departure from a secure future."
+    },
+    {
+      "function": "Wedding (21)",
+      "description": "The stepson's marriage, arranged by the stepmother, serves as a key step in her manipulative plan to distract him and facilitate his downfall."
+    },
+    {
+      "function": "Recognition (27)",
+      "description": "The father recognizes the true outcome of the stepmother's 'affection' and the tragic state of his son, understanding her underlying villainous intent."
+    },
+    {
+      "function": "Exposure (28)",
+      "description": "The stepmother's long-term deceit and the devastating consequences of her actions are revealed to the father through the stepson's destitution."
+    },
+    {
+      "function": "False Hero (29)",
+      "description": "The stepmother acts as a false benefactor, initially appearing to care for the stepson with 'great care' and arranging his marriage, but her true motives are villainous."
+    },
+    {
+      "function": "Punishment (30)",
+      "description": "Implied moral judgment and confrontation from the father ('This is not the kind of affection I told you to raise him with'), but no explicit narrative punishment is delivered within the story's scope."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Concerned Father (initially wise, later disillusioned)",
+      "The Naive/Misguided Stepmother (well-intentioned but destructive)",
+      "The Pampered/Spoiled Son (the stepson, who becomes irresponsible)",
+      "The Industrious Sons (the stepmother's own children, who are pragmatic and benefit from the stepson's downfall)"
+    ],
+    "atomic_plot_nodes": [
+      "1. A man marries; his first wife dies, leaving a son.",
+      "2. The man remarries, instructing his new wife to care for his son with affection.",
+      "3. The stepmother promises to follow his words literally.",
+      "4. The stepmother gives birth to three sons of her own.",
+      "5. She shows extreme favoritism to the stepson, pampering him excessively while neglecting her own sons.",
+      "6. She sends the stepson to school and her own sons to work in the fields.",
+      "7. The stepson quits school and becomes obsessed with marriage.",
+      "8. The stepmother arranges his marriage, and he has children.",
+      "9. The stepson begins selling his inherited land.",
+      "10. The stepmother's own sons buy the land from their stepbrother.",
+      "11. The stepson eventually becomes completely destitute.",
+      "12. The father confronts his wife, realizing the negative outcome of her 'affection'."
+    ],
+    "tone_and_moral": "The tone is observational and ironic, highlighting the tragic consequences of actions driven by a literal but misguided interpretation of good intentions. The moral is a cautionary tale about the dangers of excessive pampering, the importance of balanced upbringing, and the need for responsibility, suggesting that true affection involves fostering self-reliance, not indulgence."
+  }
+}

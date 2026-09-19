@@ -1,0 +1,249 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Foolish Brahmin and the Wise Brahmani",
+    "primary_theme": "The accidental rise to fame through wit and fortunate coincidence, and the power of perception over reality."
+  },
+  "lexical_integrity": [
+    {
+      "term": "Brahmani/Brahmin",
+      "category": "Social/Religious Title",
+      "importance": "High",
+      "context_note": "Refers to a Hindu priestly caste, defining the characters' social standing and initial roles."
+    },
+    {
+      "term": "Pitha",
+      "category": "Food",
+      "importance": "High",
+      "context_note": "Traditional Bengali sweet or savory cake/fritter; a catalyst for the Brahmin's departure and a symbol of his eventual prosperity."
+    },
+    {
+      "term": "Cowrie",
+      "category": "Currency/Economic",
+      "importance": "Medium",
+      "context_note": "Shells historically used as currency, highlighting the Brahmin's initial poverty."
+    },
+    {
+      "term": "Ashram",
+      "category": "Religious/Setting",
+      "importance": "Medium",
+      "context_note": "A hermitage or spiritual retreat where the Brahmin supposedly acquires knowledge."
+    },
+    {
+      "term": "Ka-cha-pa-a-a-a, Kha-cha-ka-a-a-a, Hagarang dagarang bag bag bagaram, Chang, chhang, krrram—ghuru-r gharam",
+      "category": "Linguistic/Sound",
+      "importance": "High",
+      "context_note": "Nonsensical sounds representing the Brahmin's superficial 'learning,' emphasizing his foolishness."
+    },
+    {
+      "term": "Jagadamba",
+      "category": "Religious/Deity",
+      "importance": "High",
+      "context_note": "A name for the Mother Goddess (Durga/Parvati); invoked by the Brahmin, and coincidentally the name of the gardener's wife, leading to a crucial plot twist."
+    },
+    {
+      "term": "Bhadra sun",
+      "category": "Calendar/Environmental",
+      "importance": "Medium",
+      "context_note": "Refers to a month in the Bengali calendar (August-September), known for its scorching heat, setting the scene for the Brahmin's return."
+    },
+    {
+      "term": "Taler bora",
+      "category": "Food",
+      "importance": "High",
+      "context_note": "Fritters made from palm fruit; the subject of the Brahmin's first 'miraculous' prediction."
+    },
+    {
+      "term": "Tilak marks",
+      "category": "Religious/Appearance",
+      "importance": "High",
+      "context_note": "Religious marks applied on the forehead or body, signifying the Brahmin's transformed identity as a 'scholar'."
+    },
+    {
+      "term": "Chandi puja",
+      "category": "Ritual",
+      "importance": "High",
+      "context_note": "Worship of Goddess Chandi (a form of Durga), used by the Brahmin as an excuse for his inability to find the donkey."
+    },
+    {
+      "term": "Sacred thread",
+      "category": "Religious/Clothing",
+      "importance": "Medium",
+      "context_note": "A thread worn by Brahmins, used by the Brahmin in a moment of panic to invoke divine protection."
+    },
+    {
+      "term": "Thakur",
+      "category": "Social/Title",
+      "importance": "Medium",
+      "context_note": "A respectful term for a Brahmin or deity, used by the Brahmani to maintain her husband's facade."
+    },
+    {
+      "term": "Mantras",
+      "category": "Religious/Ritual",
+      "importance": "Medium",
+      "context_note": "Sacred incantations, attributed to the Brahmin's 'powers' by the villagers."
+    },
+    {
+      "term": "Rudraksha beads",
+      "category": "Religious/Accessory",
+      "importance": "Medium",
+      "context_note": "Seeds used in Hindu prayer beads, part of the Brahmin's scholarly attire."
+    },
+    {
+      "term": "Ten-armed goddess",
+      "category": "Religious/Deity",
+      "importance": "Medium",
+      "context_note": "Refers to Goddess Durga, whom the Brahmin eventually worships."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The traditional roles of Brahmin (priestly caste) and Brahmani (his wife), with the Brahmin expected to be learned and the Brahmani managing the household. The story initially subverts this with the Brahmani's wisdom.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food",
+      "description": "Pitha and Taler bora are specific Bengali traditional foods, central to plot points and cultural context.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Chandi puja, invoking Jagadamba, wearing tilak marks, sacred thread, and rudraksha beads are all specific Hindu religious practices and symbols.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Economic",
+      "description": "The mention of 'cowrie' as a unit of currency reflects historical economic practices.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Social Custom",
+      "description": "Prostrating oneself (eating dust) as an extreme form of respect or gratitude.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Setting",
+      "description": "The 'ashram' as a traditional place of learning and spiritual retreat.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Governance",
+      "description": "The King's court and royal authority as the ultimate arbiter of justice and reward.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation (α)",
+      "description": "Introduction of the Brahmin and Brahmani, their contrasting wisdom (Brahmani wise, Brahmin foolish), and the Brahmani's burden of household chores."
+    },
+    {
+      "function": "Interdiction (γ)",
+      "description": "The Brahmani's implicit expectation for the Brahmin to be responsible and not make unreasonable demands, which he violates."
+    },
+    {
+      "function": "Violation (δ)",
+      "description": "The Brahmin's demand for pitha, despite their poverty, directly violating the Brahmani's unspoken rule."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The Brahmin leaves his home in a rage after being insulted by the Brahmani."
+    },
+    {
+      "function": "Donor (D)",
+      "description": "The sage who takes the Brahmin into his ashram and provides him with the opportunity to 'learn'."
+    },
+    {
+      "function": "Receipt of a Magic Agent (F)",
+      "description": "The Brahmin acquires 'knowledge' (nonsensical chants) which he believes is profound and uses as a tool for his future 'predictions' and to impress others."
+    },
+    {
+      "function": "Return (↓)",
+      "description": "The Brahmin returns to his village after his 'studies'."
+    },
+    {
+      "function": "Unrecognized Arrival (o)",
+      "description": "The Brahmin creeps quietly into his courtyard, observing the Brahmani before revealing himself."
+    },
+    {
+      "function": "Claim to a False Hero (L)",
+      "description": "The Brahmin immediately announces his return with 'profound, profound knowledge' to his wife."
+    },
+    {
+      "function": "Transfiguration (T)",
+      "description": "The Brahmin's physical appearance changes (tilak marks, scholarly attire) to reflect his new, perceived status as a scholar."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The missing donkey and the missing princess's necklace represent the 'harm' or 'lack' that needs to be resolved, setting the hero's tasks."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The specific absence of Moti's donkey and the princess's necklace, creating a need for the 'hero' to act."
+    },
+    {
+      "function": "Call for Help (B)",
+      "description": "Moti's plea to find his donkey and the king's summons to find the necklace."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The Brahmin 'departs' to solve the problems (roaming the field for the donkey, going to the king's court)."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The Brahmin's internal struggle with fear and panic when faced with the impossible tasks, and his physical struggle/fainting during the donkey incident."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The accidental 'finding' of the donkey and the necklace, which are attributed to his 'knowledge' and 'calculations'."
+    },
+    {
+      "function": "Branding (J)",
+      "description": "The Brahmin is publicly recognized and celebrated as a great scholar and astrologer by the villagers and the king."
+    },
+    {
+      "function": "Rescue (Rs)",
+      "description": "The Brahmani's quick thinking saves the Brahmin's reputation after the donkey incident, and Jaga's confession saves him from the king's wrath."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "The king and the entire kingdom recognize the Brahmin's 'extraordinary powers' and wisdom, leading to his elevation."
+    },
+    {
+      "function": "Transfiguration (T)",
+      "description": "The Brahmin's status is elevated to the chief scholar of the court, and he lives in a three-storied palace, enjoying immense wealth."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "The Brahmin achieves ultimate prosperity, honor, and a life of ease, symbolically 'marrying' into a new, elevated existence. The Brahmani also shares in this newfound happiness and wealth."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Fool/Accidental Hero",
+      "The Wise Woman/Helper",
+      "The Sage/Mentor",
+      "The King/Authority Figure",
+      "The Thief/Confessor"
+    ],
+    "atomic_plot_nodes": [
+      "1. The Brahmani toils while the Brahmin is foolish and demanding.",
+      "2. The Brahmani scolds the Brahmin, who leaves home in a rage.",
+      "3. The Brahmin meets a sage and 'learns' nonsensical chants.",
+      "4. The Brahmin returns, claims profound knowledge, and 'predicts' taler bora.",
+      "5. Villagers are impressed, and the Brahmin gains local fame.",
+      "6. Moti's donkey goes missing; the Brahmin fails to find it through 'calculations'.",
+      "7. The donkey accidentally appears in the Brahmin's courtyard, causing him to faint.",
+      "8. The Brahmani quickly covers for him, claiming he found it through meditation.",
+      "9. News of his 'powers' reaches the king.",
+      "10. The princess's necklace goes missing; the Brahmin is summoned to find it.",
+      "11. Fearing for his life, the Brahmin invokes 'Jagadamba' in distress.",
+      "12. The royal gardener's wife, Jaga (whose name is Jagadamba), overhears and confesses to stealing the necklace.",
+      "13. The Brahmin instructs Jaga to hide the necklace in the pond.",
+      "14. The Brahmin 'reveals' the necklace's location to the king through elaborate rituals.",
+      "15. The necklace is found, and the Brahmin is made chief scholar, showered with wealth.",
+      "16. The Brahmin and Brahmani live in luxury, with the Brahmin finally eating pitha daily."
+    ],
+    "tone_and_moral": "The tone is humorous and ironic, celebrating wit and resourcefulness over genuine scholarship. The moral suggests that fortune can favor the accidentally lucky, and that clever improvisation (often by the Brahmani) can create a perception of profound wisdom, leading to success and prosperity. It also subtly critiques superficial knowledge and highlights the importance of practical wisdom."
+  }
+}

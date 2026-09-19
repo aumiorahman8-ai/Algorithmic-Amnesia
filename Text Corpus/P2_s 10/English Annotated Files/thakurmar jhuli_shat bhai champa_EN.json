@@ -1,0 +1,176 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Seven Champa Brothers and Parul",
+    "primary_theme": "Justice and the triumph of good over evil, overcoming jealousy and deception."
+  },
+  "lexical_integrity": [
+    {
+      "term": "Champa",
+      "category": "Flora",
+      "importance": "High",
+      "context_note": "A specific type of fragrant flower (Michelia champaca), central to the identity of the seven brothers and their magical transformation."
+    },
+    {
+      "term": "Parul",
+      "category": "Flora",
+      "importance": "High",
+      "context_note": "A specific type of flower (Stereospermum chelonoides), central to the identity of the sister and her magical transformation."
+    },
+    {
+      "term": "Thakurmar Jhuli",
+      "category": "Collection Title",
+      "importance": "Medium",
+      "context_note": "The famous Bengali collection of folktales from which this story originates, indicating its cultural source."
+    },
+    {
+      "term": "Palanquin",
+      "category": "Object/Transport",
+      "importance": "Medium",
+      "context_note": "A traditional covered litter used for carrying people, signifying royal transport even for the disgraced queen."
+    },
+    {
+      "term": "Dung-gathering maid",
+      "category": "Social Role",
+      "importance": "High",
+      "context_note": "A highly specific and humiliating social role forced upon the youngest queen, emphasizing her fall from grace and the cruelty of the elder queens."
+    },
+    {
+      "term": "Ash heap",
+      "category": "Location",
+      "importance": "High",
+      "context_note": "A place of disposal and neglect where the children are buried, but also where their magical transformation begins."
+    },
+    {
+      "term": "Nose rings",
+      "category": "Clothing/Adornment",
+      "importance": "Medium",
+      "context_note": "Traditional jewelry, used to describe the elder queens' mocking gestures ('flaring their nose rings')."
+    },
+    {
+      "term": "Anklets",
+      "category": "Clothing/Adornment",
+      "importance": "Medium",
+      "context_note": "Traditional jewelry, their jingling signifies the elder queens' joy and arrogance after the youngest queen's banishment."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The clear hierarchy within the royal family (king, queens, youngest queen's favored status, elder queens' jealousy and ambition).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "The king's 'daily worship' and the need for specific flowers, highlighting religious practices and their disruption.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Celebration",
+      "description": "Proclamation of royal treasury opening, distribution of sweets, confections, gems, and jewels, and music of drums and pipes for a royal birth, indicating traditional forms of royal generosity and festivity.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Justice/Punishment",
+      "description": "The specific, harsh punishment of burying the elder queens in a pit of thorns, reflecting traditional forms of retribution for severe wrongdoing.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Family Structure",
+      "description": "Polygamous marriage (king with seven queens) and the dynamics of co-wives, particularly jealousy and rivalry leading to extreme actions.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Symbolism",
+      "description": "The golden chain as a direct, trusted communication link to the king, symbolizing the bond and expectation of truth.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation (α)",
+      "description": "Introduction of the king, his seven queens (elder arrogant, youngest gentle), and the initial problem of childlessness, setting the stage for conflict."
+    },
+    {
+      "function": "Absentations (A)",
+      "description": "The king departs to his royal court, leaving the youngest queen vulnerable and unsupervised during childbirth, creating an opportunity for villainy."
+    },
+    {
+      "function": "Interdiction (δ)",
+      "description": "The king instructs the youngest queen to tug the golden chain 'when the child is born' to summon him, establishing a clear command."
+    },
+    {
+      "function": "Violation (ε)",
+      "description": "The elder queens repeatedly tug the chain deceptively, first prematurely before the birth, and later after burying the children, violating the king's instruction and trust."
+    },
+    {
+      "function": "Villainy (a)",
+      "description": "The elder queens commit villainous acts: replacing the newborn children with rats and crabs, secretly burying the true children in an ash heap, and falsely accusing the youngest queen, leading to her banishment."
+    },
+    {
+      "function": "Lack (C)",
+      "description": "The king experiences a lack of true heirs and happiness, and the kingdom suffers (flowers don't bloom, worship not performed) due to the absence of the rightful family and the prevailing injustice."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The youngest queen is driven out of the palace and forced to live as a dung-gathering maid, departing from her royal status and home into a state of disgrace."
+    },
+    {
+      "function": "Receipt of Magic Agent (F)",
+      "description": "The buried children transform into magical Champa and Parul flowers, which possess the ability to speak and move, acting as agents for their eventual revelation and the restoration of justice."
+    },
+    {
+      "function": "Guidance (G)",
+      "description": "The gardener discovers the speaking flowers and guides the king to their location, initiating the path to discovery and truth."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The flowers engage in a 'struggle' by refusing to be picked by anyone but their true mother, creating a test and a challenge to the king's authority and the elder queens' deception."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The flowers' persistent refusal to yield to anyone but the 'dung-gathering maid' leads to the summoning of the youngest queen, marking a victory in the quest for truth and recognition."
+    },
+    {
+      "function": "Recognition (T)",
+      "description": "The king and everyone present recognize the true identity of the children and the youngest queen when the children emerge from the flowers and call her 'Mother'."
+    },
+    {
+      "function": "Transfiguration (M)",
+      "description": "The children undergo a magical transfiguration from flowers back into human form. The youngest queen is transfigured from a disgraced maid back to her rightful status as queen."
+    },
+    {
+      "function": "Punishment (U)",
+      "description": "The elder queens are severely punished by being buried in a pit of thorns, receiving retribution for their villainy and deceit."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "The family is reunited, the youngest queen's status is fully restored, and harmony returns to the kingdom, signifying a happy resolution and re-establishment of order and familial bliss."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Innocent Victim (Youngest Queen)",
+      "The Jealous Villain (Elder Queens)",
+      "The Deceived but Ultimately Just King",
+      "The Magical Children (Champa and Parul)",
+      "The Loyal Informant (Gardener)"
+    ],
+    "atomic_plot_nodes": [
+      "1. The king's favoritism towards the youngest queen sparks intense jealousy among the elder queens.",
+      "2. The youngest queen conceives, leading to the king's boundless joy and a kingdom-wide celebration proclamation.",
+      "3. The king establishes a golden chain as a direct communication for the birth announcement.",
+      "4. The elder queens repeatedly deceive the king by tugging the chain prematurely, causing him distress and anger.",
+      "5. The youngest queen gives birth to seven sons and one daughter, described as beautiful and radiant.",
+      "6. The elder queens replace the newborns with animals, bury the true children in an ash heap, and falsely accuse the youngest queen.",
+      "7. The king, enraged by the deception, banishes the youngest queen, who is reduced to a dung-gathering maid.",
+      "8. The buried children miraculously transform into magical Champa and Parul trees/flowers on the ash heap.",
+      "9. The gardener discovers the speaking flowers and reports the extraordinary phenomenon to the king.",
+      "10. The flowers refuse to be picked by the king or any of the elder queens, demanding the 'dung-gathering maid' instead.",
+      "11. The youngest queen is brought to the flowers, still in her disgraced state.",
+      "12. The children emerge from the flowers, transforming back into human form and reuniting with their mother.",
+      "13. The king realizes the full extent of the elder queens' treachery and orders their severe punishment.",
+      "14. The family is joyfully reunited, the youngest queen's rightful status is restored, and peace returns to the kingdom."
+    ],
+    "tone_and_moral": "The tone shifts from initial royal splendor and joy, through deep sorrow, injustice, and magical wonder, culminating in triumphant justice and restoration. The moral underscores the eventual triumph of truth and goodness over jealousy, deceit, and cruelty, emphasizing that rightful status and happiness will be restored to the virtuous."
+  }
+}

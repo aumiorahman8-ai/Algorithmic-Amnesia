@@ -1,0 +1,202 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Needle-King and the Shepherd's Promise",
+    "primary_theme": "The consequences of broken promises, loyalty, and the triumph of truth and friendship over deceit."
+  },
+  "lexical_integrity": [
+    {
+      "term": "ghat",
+      "category": "Place/Infrastructure",
+      "importance": "High",
+      "context_note": "A set of steps leading down to a river or other body of water, used for bathing, washing, and other daily activities. Culturally significant as a public space."
+    },
+    {
+      "term": "alpana",
+      "category": "Art/Ritual",
+      "importance": "High",
+      "context_note": "Traditional Bengali folk art, typically drawn with rice paste on floors or courtyards during festivals and auspicious occasions. Demonstrates skill and cultural knowledge."
+    },
+    {
+      "term": "Pitha-Kuduli",
+      "category": "Festival/Food",
+      "importance": "High",
+      "context_note": "A specific festival mentioned, implying a time for preparing traditional rice cakes (pitha) and associated rituals. Highlights a cultural celebration."
+    },
+    {
+      "term": "Chandrapuli, Mohanbanshi, Kheer-murli, Chandanpata",
+      "category": "Food",
+      "importance": "Medium",
+      "context_note": "Specific names of exquisite Bengali rice cakes (pitha), indicating a high level of culinary skill and cultural knowledge, contrasting with 'lumpy, clumsy, grassy cakes'."
+    },
+    {
+      "term": "Thakurmar Jhuli",
+      "category": "Source/Collection",
+      "importance": "High",
+      "context_note": "While not explicitly in the story text, it's the collection this tale belongs to, meaning 'Grandmother's Bag of Tales' – a foundational work of Bengali folklore."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The clear distinction between a prince/king and a shepherd, and the power dynamics involved in promises and social mobility (shepherd becoming minister).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Bathing at the river ghat, a common daily ritual with social implications.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Punishment/Justice",
+      "description": "Beheading as a form of royal punishment, demonstrating the king's absolute power (or the imposter queen's abuse of it).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food/Festival",
+      "description": "The Pitha-Kuduli festival and the preparation of various types of 'pitha' (rice cakes), a significant cultural and culinary tradition.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Art/Ritual",
+      "description": "The drawing of 'alpana' designs, including lotus vines, pitchers, paddy stalks, peacocks, dolls, and Lakshmi's footprints, signifying auspiciousness and artistic skill.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Music/Leisure",
+      "description": "The shepherd playing the flute for the prince, a traditional form of entertainment and expression of friendship.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Role",
+      "description": "The role of a 'handmaiden' as a purchased servant, highlighting social stratification and servitude.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation",
+      "description": "The story begins by introducing the friendship between a prince and a shepherd, and the prince's promise to make the shepherd his minister upon becoming king."
+    },
+    {
+      "function": "Absentations",
+      "description": "The king (formerly the prince) forgets his shepherd friend after ascending to the throne and acquiring wealth and a queen."
+    },
+    {
+      "function": "Violation",
+      "description": "The king breaks his solemn promise to his shepherd friend, leading to the shepherd's rejection at the palace gate."
+    },
+    {
+      "function": "Villainy",
+      "description": "The king is afflicted with needles as a punishment for his sin of breaking the promise. Subsequently, Kankonmala (the false queen) usurps Queen Kanchanmala's identity and position, acting cruelly by beheading ministers and attempting to execute Kanchanmala and the shepherd."
+    },
+    {
+      "function": "Departure",
+      "description": "The shepherd departs heartbroken after being shooed away from the palace. Queen Kanchanmala is forced into the role of a handmaiden, effectively departing from her royal status and identity."
+    },
+    {
+      "function": "First Donor Function",
+      "description": "The mysterious person (the disguised shepherd) appears at the river ghat, offering to help Kanchanmala, who is in distress."
+    },
+    {
+      "function": "Hero's Reaction",
+      "description": "Kanchanmala (the true queen, now a handmaiden) seeks help from the mysterious person, telling them her story of sorrow."
+    },
+    {
+      "function": "Receipt of Magic Agent",
+      "description": "The shepherd, in disguise, reveals his magical threads, which later prove instrumental in resolving the conflict."
+    },
+    {
+      "function": "Transference",
+      "description": "The shepherd (disguised) goes to the palace with Kanchanmala, bringing the potential for resolution to the site of the conflict."
+    },
+    {
+      "function": "Struggle",
+      "description": "The tests of making cakes and alpana designs serve as a struggle to reveal the true identities and skills. The confrontation with Kankonmala and her command for execution also represents a struggle."
+    },
+    {
+      "function": "Branding",
+      "description": "Kanchanmala's suffering and tears, along with her superior skills in traditional arts, brand her as the true queen. The king's body covered in needles is a physical branding of his sin."
+    },
+    {
+      "function": "Victory",
+      "description": "The shepherd's magic threads bind the executioner and Kankonmala, preventing further harm and initiating the resolution."
+    },
+    {
+      "function": "Liquidation of Misfortune",
+      "description": "Kankonmala is punished, the king is cured of his affliction, and Kanchanmala is restored to her rightful place."
+    },
+    {
+      "function": "Return",
+      "description": "The king returns to his normal, healthy state. Kanchanmala returns to her queenly role. The shepherd returns to his friend, and their bond is re-established."
+    },
+    {
+      "function": "Unrecognized Arrival",
+      "description": "The shepherd arrives at the palace disguised as a mysterious person, initially unrecognized by Kankonmala and the court."
+    },
+    {
+      "function": "Unfounded Claims",
+      "description": "Kankonmala makes unfounded claims to be the queen, supported by her deception and the queen's forced disguise."
+    },
+    {
+      "function": "Difficult Task",
+      "description": "The tasks of preparing Pitha-Kuduli cakes and alpana designs are set, which serve as a test of true identity, skill, and cultural knowledge."
+    },
+    {
+      "function": "Solution",
+      "description": "The shepherd orchestrates the tasks and uses his magic to solve the problem of the king's affliction and Kankonmala's deception, revealing the truth."
+    },
+    {
+      "function": "Recognition",
+      "description": "The king recognizes his shepherd friend after being cured. The shepherd recognizes the true queen through her superior skills in the tasks."
+    },
+    {
+      "function": "Exposure",
+      "description": "Kankonmala's deception and villainy are exposed through her incompetence in the tasks and the shepherd's magical intervention."
+    },
+    {
+      "function": "Transfiguration",
+      "description": "The king is transformed from the 'Needle-King' back to his healthy, true self, both physically and morally."
+    },
+    {
+      "function": "Punishment",
+      "description": "Kankonmala is punished by the needles, which stitch her eyes and mouth shut, leading to her death."
+    },
+    {
+      "function": "Wedding",
+      "description": "While not a literal wedding, the story concludes with the restoration of harmony, happiness, and rightful order, symbolizing a re-establishment of proper relationships and a 'happy ever after' for the king, queen, and shepherd."
+    },
+    {
+      "function": "Reward",
+      "description": "The shepherd is made minister and receives a golden flute. The king, queen, and shepherd live happily ever after, with their friendship and loyalty reaffirmed."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Flawed King (initially forgets his promise, suffers for it)",
+      "The Loyal Friend/Magical Helper (the shepherd, who is both a loyal friend and possesses magical abilities to restore order)",
+      "The Suffering Innocent (Queen Kanchanmala, who is unjustly displaced and endures hardship)",
+      "The Imposter/Villain (Kankonmala, who deceives and usurps, acting cruelly)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Prince and shepherd are friends; prince promises minister post.",
+      "2. Prince becomes king, forgets shepherd, and rejects him.",
+      "3. King is afflicted with needles as punishment for broken promise.",
+      "4. Queen Kanchanmala manages the kingdom amidst grief.",
+      "5. A beautiful handmaiden (Kankonmala) offers service to the queen.",
+      "6. Kankonmala tricks Kanchanmala at the river ghat, usurps her identity.",
+      "7. Kankonmala becomes false queen, Kanchanmala becomes handmaiden, suffers.",
+      "8. Kanchanmala encounters a mysterious person (disguised shepherd) at the river ghat.",
+      "9. The mysterious person (shepherd) proposes a test of skill for the Pitha-Kuduli festival.",
+      "10. False queen (Kankonmala) makes clumsy cakes and smears alpana; true queen (Kanchanmala) makes exquisite cakes and draws beautiful alpana.",
+      "11. Shepherd exposes Kankonmala's deception and incompetence.",
+      "12. Kankonmala orders execution of Kanchanmala and shepherd.",
+      "13. Shepherd uses magic threads to bind executioner and Kankonmala.",
+      "14. Shepherd's magic threads remove needles from the king, curing him.",
+      "15. King recognizes his shepherd friend; they reconcile.",
+      "16. Kankonmala dies from the needles.",
+      "17. Kanchanmala is restored as queen; shepherd becomes minister.",
+      "18. King, queen, and minister-friend live happily, enjoying flute music."
+    ],
+    "tone_and_moral": "The tone shifts from initial happiness to profound sorrow and injustice, then to suspense and magical intervention, finally resolving in justice and restored harmony. The moral emphasizes the importance of keeping promises, the enduring power of true friendship, and that deceit and cruelty ultimately lead to downfall, while virtue and loyalty are rewarded."
+  }
+}

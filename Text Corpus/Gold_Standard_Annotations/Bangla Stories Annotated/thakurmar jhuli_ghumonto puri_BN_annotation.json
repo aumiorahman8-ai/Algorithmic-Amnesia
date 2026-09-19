@@ -1,0 +1,279 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Sleeping Princess of the Enchanted City",
+    "primary_theme": "A quest to overcome enchantment, leading to love, restoration, and the hero's triumphant return."
+  },
+  "lexical_integrity": [
+    {
+      "term": "মণি-মাণিক্য",
+      "category": "Wealth/Adornment",
+      "importance": "Medium",
+      "context_note": "Jewels, gems. The Queen brings them as provisions for the prince's journey."
+    },
+    {
+      "term": "প'খ্‌-পাখালীর শব্দ নাই, বাঘ-ভালুকের সাড়া নাই",
+      "category": "Nature/Atmosphere",
+      "importance": "High",
+      "context_note": "No sound of birds, no sign of tigers/bears. Describes the eerie, unnatural silence of the enchanted forest."
+    },
+    {
+      "term": "নিভাঁজ, নিঝুম",
+      "category": "Atmosphere",
+      "importance": "High",
+      "context_note": "Utterly silent, still, undisturbed. Emphasizes the profound enchantment and stillness of the city."
+    },
+    {
+      "term": "সিপাই, লস্কর",
+      "category": "Military/Personnel",
+      "importance": "Medium",
+      "context_note": "Soldiers, guards. Refers to the petrified army in the enchanted city."
+    },
+    {
+      "term": "রাজছত্র",
+      "category": "Royalty/Regalia",
+      "importance": "High",
+      "context_note": "Royal umbrella/canopy, a specific symbol of kingship, seen frozen over the sleeping king."
+    },
+    {
+      "term": "চামর",
+      "category": "Royalty/Regalia",
+      "importance": "High",
+      "context_note": "Fly-whisk, a specific royal insignia, seen held by a frozen maid."
+    },
+    {
+      "term": "ম'-ম'",
+      "category": "Sensory/Atmosphere",
+      "importance": "High",
+      "context_note": "Fragrant, intoxicatingly scented. Describes the overwhelming perfume of the lotus flowers."
+    },
+    {
+      "term": "টুল-টুল্‌ করিতেছে",
+      "category": "Sensory/Beauty",
+      "importance": "High",
+      "context_note": "Glimmering, shining softly. Describes the radiant beauty of the princess's face."
+    },
+    {
+      "term": "সোনার কাটি",
+      "category": "Magic/Artifact",
+      "importance": "High",
+      "context_note": "Golden wand/stick, the magical object that breaks the enchantment."
+    },
+    {
+      "term": "রূপার কাটি",
+      "category": "Magic/Artifact",
+      "importance": "High",
+      "context_note": "Silver wand/stick, another magical object found alongside the golden one."
+    },
+    {
+      "term": "শিউরে উঠিল",
+      "category": "Sensory/Action",
+      "importance": "High",
+      "context_note": "Trembled, shuddered (with a sense of awakening/life). Describes the lotus pond's reaction as the spell begins to break."
+    },
+    {
+      "term": "হুলুধ্বনি",
+      "category": "Ritual/Celebration",
+      "importance": "High",
+      "context_note": "Auspicious ululation, a distinctive sound made by women during Bengali celebrations."
+    },
+    {
+      "term": "মঙ্গল ঘড়া",
+      "category": "Ritual/Celebration",
+      "importance": "High",
+      "context_note": "Auspicious pot, filled with water and leaves, used in Bengali rituals."
+    },
+    {
+      "term": "পাঁচ পল্লব ফুলের তোড়া",
+      "category": "Ritual/Celebration",
+      "importance": "High",
+      "context_note": "Bouquet of five types of auspicious leaves/flowers, used in Bengali rituals."
+    },
+    {
+      "term": "আল্পনা বিলিপনা",
+      "category": "Ritual/Celebration",
+      "importance": "High",
+      "context_note": "Decorative folk art drawn on floors/walls with rice paste, common in Bengali rituals."
+    },
+    {
+      "term": "এয়োর ঝাঁক",
+      "category": "Ritual/Social",
+      "importance": "High",
+      "context_note": "Group of married women (whose husbands are alive), considered auspicious in Bengali culture."
+    },
+    {
+      "term": "পাঠ-পিঁড়ী আসন ঘিরে'",
+      "category": "Ritual/Furniture",
+      "importance": "High",
+      "context_note": "Wooden seats/stools used for rituals in Bengali culture."
+    },
+    {
+      "term": "শাঁখ",
+      "category": "Ritual/Sound",
+      "importance": "High",
+      "context_note": "Conch shell, blown during auspicious occasions in Bengali culture."
+    },
+    {
+      "term": "ডুম-ডুম কাটি পড়িল",
+      "category": "Sound/Celebration",
+      "importance": "Medium",
+      "context_note": "Onomatopoeic sound of drums beating during celebration."
+    },
+    {
+      "term": "বাটনা বাটে, কুটনা কোটে",
+      "category": "Domestic/Preparation",
+      "importance": "Medium",
+      "context_note": "Grinding spices, chopping vegetables; traditional kitchen tasks during wedding preparations."
+    },
+    {
+      "term": "আগুন-পুরুত সম্মুখে",
+      "category": "Ritual/Wedding",
+      "importance": "High",
+      "context_note": "In front of the sacred fire and priest, central to a Hindu wedding ritual."
+    },
+    {
+      "term": "গুয়াপান",
+      "category": "Ritual/Food",
+      "importance": "High",
+      "context_note": "Betel nut and leaf, offered in Bengali rituals and social gatherings."
+    },
+    {
+      "term": "যৌতুক",
+      "category": "Social/Marriage",
+      "importance": "High",
+      "context_note": "Dowry/gift, here referring to the kingdom given by the princess's father to the prince as part of the marriage."
+    },
+    {
+      "term": "পঞ্চরত্ন মুকুট",
+      "category": "Royalty/Adornment",
+      "importance": "High",
+      "context_note": "Crown adorned with five jewels, a specific royal regalia bestowed upon the prince."
+    },
+    {
+      "term": "বরণ করিয়া নিলেন",
+      "category": "Ritual/Welcome",
+      "importance": "High",
+      "context_note": "Welcomed with a ritual, a specific Bengali welcoming ceremony for a bride into her new home."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The clear social structure of King, Queen, Prince, Princess, Ministers, Soldiers, and Servants, fundamental to the royal setting.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "The Queen's act of bringing jewels for the prince's journey, a traditional gesture of provision and blessing for a departing loved one.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Elaborate wedding rituals including 'Huludhoni' (ululation), 'Shankh' (conch blowing), 'Mongol Ghora' (auspicious pot), 'Panch Pallob' (five auspicious leaves), 'Alpana' (floor art), 'Eyor Jhank' (auspicious married women), 'Path-Piri' (ritual seats), and the ceremony before 'Agun-Purut' (sacred fire and priest). These are highly specific Bengali cultural elements.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food/Offering",
+      "description": "'Guapan' (betel nut and leaf) as an integral part of the wedding ceremony and general social custom.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Regalia",
+      "description": "'Rajchhatra' (royal umbrella), 'Chamor' (fly-whisk), and 'Panchorotno Mukut' (five-jewel crown) as specific symbols of royalty and power.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social",
+      "description": "'Joutuk' (dowry/gift of kingdom) as part of the marriage settlement, reflecting traditional practices of royal alliances.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Welcome Ritual",
+      "description": "'Boron' (ritualistic welcoming of the bride by the Queen), a specific Bengali custom for receiving a new family member.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Absentations (β)",
+      "description": "The prince, a member of the royal family, absents himself from home by deciding to embark on a journey of world travel."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The hero (prince) leaves his home kingdom, despite the sorrow of his parents and subjects, to begin his quest."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "A 'daitya' (demon) has caused harm by enchanting the princess and the entire city into a thousand-year sleep, turning its inhabitants to stone."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The prince's journey is driven by a desire for experience and destiny. The enchanted city itself is in a profound state of lack, devoid of life, sound, and movement."
+    },
+    {
+      "function": "Transference/Guidance (G)",
+      "description": "The prince's extensive travels through 'কত দেশ, কত পর্বত, কত নদী' (many lands, mountains, rivers) lead him to the enchanted forest and the sleeping city."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The prince's 'struggle' is intellectual and observational; he actively explores the silent, petrified city, attempting to comprehend the mystery of its enchantment, rather than engaging in direct combat."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "The prince discovers the golden and silver wands near the sleeping princess, which are the magical tools required to break the spell."
+    },
+    {
+      "function": "Liquidation of Misfortune or Lack (K)",
+      "description": "The prince accidentally touches the princess with the golden wand, immediately breaking the enchantment on her and the entire city, thus liquidating the primary misfortune."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "The prince and the now-awakened princess are married in a grand ceremony in her restored kingdom, signifying the resolution of the quest and the establishment of a new family."
+    },
+    {
+      "function": "Return (↓)",
+      "description": "The prince and princess return to his original home kingdom after many years, bringing joy and relief to his grieving parents."
+    },
+    {
+      "function": "Unrecognized Arrival (o)",
+      "description": "The prince's return is initially met with surprise and questioning by his parents and subjects, as he has been absent for a long time."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "The king and queen recognize their son and joyfully welcome the princess as their daughter-in-law."
+    },
+    {
+      "function": "Liquidation of Misfortune or Lack (K)",
+      "description": "The prince uses the golden wand to cure his father's blindness and his mother's illness, liquidating the secondary misfortunes of his own family and restoring complete happiness to his kingdom."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "The story concludes with the prince and princess ruling happily, signifying a lasting state of marital bliss, prosperity, and the successful integration of both royal lines."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Hero (The Prince)",
+      "The Damsel in Distress (The Sleeping Princess)",
+      "The Suffering Parents (The Prince's King and Queen)",
+      "The Magical Object (The Golden and Silver Wands)",
+      "The Enchanted Realm (The Sleeping City)",
+      "The Absent Villain (The 'Daitya' who cast the spell)"
+    ],
+    "atomic_plot_nodes": [
+      "1. The Prince decides to embark on a journey of world travel.",
+      "2. He leaves his kingdom, causing sorrow to his parents.",
+      "3. He discovers a mysteriously silent and enchanted forest and city.",
+      "4. He finds all inhabitants of the city, including soldiers and royalty, turned to stone or in a deep sleep.",
+      "5. He locates a beautiful princess in a deep slumber amidst a bed of lotus flowers.",
+      "6. He discovers a golden and a silver wand near the sleeping princess.",
+      "7. He accidentally touches the princess with the golden wand.",
+      "8. The princess and the entire city awaken from their thousand-year enchantment.",
+      "9. The awakened King of the city offers his daughter and his kingdom to the Prince in gratitude.",
+      "10. The Prince and Princess are married in a grand ceremony in the restored city.",
+      "11. They return to the Prince's original kingdom after many years.",
+      "12. The Prince cures his father's blindness and his mother's illness with the golden wand and their return.",
+      "13. The Prince and Princess live happily ever after, ruling both kingdoms."
+    ],
+    "tone_and_moral": "The tone is adventurous, mysterious, and romantic, culminating in triumph and joy. The moral emphasizes that perseverance, destiny, and a pure heart can overcome powerful enchantments, bringing restoration and happiness to all affected, and that true love can heal deep sorrow."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Deceived Monkey and the Sisters",
+    "primary_theme": "Deception, broken promises, and the tragic consequences of unrequited desire and trickery."
+  },
+  "lexical_integrity": [
+    {
+      "term": "monkey",
+      "category": "Animal",
+      "importance": "High"
+    },
+    {
+      "term": "Nasi",
+      "category": "Person",
+      "importance": "High"
+    },
+    {
+      "term": "Dimsi",
+      "category": "Person",
+      "importance": "High"
+    },
+    {
+      "term": "Water pot",
+      "category": "Household Item",
+      "importance": "Medium",
+      "context_note": "A common item in Bengali households, often referred to by specific terms like 'kolshi' or 'ghoti', symbolizing daily life and basic needs/possessions. Its mention as a gift highlights a common, practical offering."
+    },
+    {
+      "term": "canal",
+      "category": "Geography",
+      "importance": "Medium",
+      "context_note": "Refers to a ditch, a significant natural obstacle in the Bengali landscape."
+    },
+    {
+      "term": "woodpecker",
+      "category": "Fauna",
+      "importance": "Medium",
+      "context_note": "Specific type of bird, a woodpecker, whose nest becomes a focal point of the second deception."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The implied social taboo and perceived absurdity of a human marrying an animal (monkey), highlighting a clear human-animal hierarchy and social boundaries.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Custom",
+      "description": "Marriage as a significant social contract and promise, used as a bargaining tool, underscoring its importance in societal expectations and the gravity of breaking such a promise.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Values",
+      "description": "The emphasis on promises and the negative consequences of deceit, reflecting cultural values around honesty, trustworthiness, and the moral implications of betrayal.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Setting",
+      "description": "The presence of deserted roads, wide canals, and tall trees with nests, which are typical features of the rural Bengali landscape and environment, grounding the tale in a specific geographical context.",
+      "is_replaceable": true
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Lack (a)",
+      "description": "The sisters initially lack a way to cross the wide canal. Later, they lack the baby birds they desire. The monkey, throughout the story, lacks a wife and desires one."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The sisters repeatedly deceive the monkey with false promises of marriage, causing him emotional distress and ultimately physical harm through their manipulation."
+    },
+    {
+      "function": "Mediation (B)",
+      "description": "The sisters make their lack known (inability to cross the canal, desire for baby birds) and explicitly request the monkey's help, offering a reward."
+    },
+    {
+      "function": "Beginning Counteraction (C)",
+      "description": "The monkey agrees to help the sisters, driven by his strong desire for marriage and belief in their promises."
+    },
+    {
+      "function": "First Function of the Donor (D)",
+      "description": "The monkey is 'tested' by the sisters' requests to perform difficult tasks (crossing the canal, getting the birds), which he undertakes to prove his worth."
+    },
+    {
+      "function": "Hero's Reaction (E)",
+      "description": "The monkey reacts positively and with delight to the sisters' requests, eagerly performing the tasks in anticipation of his reward."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "The monkey acts as the 'helper' or 'agent' who possesses the unique ability to solve the sisters' immediate problems (swimming across the canal, climbing the tall tree)."
+    },
+    {
+      "function": "Difficult Task (M)",
+      "description": "The sisters face the difficult task of crossing the canal. The monkey is presented with the difficult task of retrieving the baby birds from the high tree."
+    },
+    {
+      "function": "Solution (N)",
+      "description": "The monkey successfully solves the task of crossing the canal. He attempts to solve the task of getting the birds but is incapacitated in the process."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The monkey's physical struggle to free his arm from the woodpecker's nest, leading to a severe injury."
+    },
+    {
+      "function": "Pursuit (Pr)",
+      "description": "The monkey pursues the sisters, following them down the road after their initial rejection and after crossing the canal, hoping to fulfill his desire."
+    },
+    {
+      "function": "Rescue (Rs)",
+      "description": "The sisters are 'rescued' from the monkey's persistent pursuit when he becomes incapacitated and trapped, allowing them to escape."
+    },
+    {
+      "function": "Exposure (Ex)",
+      "description": "The sisters' deceit and broken promises are exposed to the monkey, shattering his hopes and revealing their true intentions."
+    },
+    {
+      "function": "Punishment (U)",
+      "description": "The monkey is severely punished for his efforts and trust, losing an arm and being trapped in the mud, a direct consequence of the sisters' manipulation."
+    },
+    {
+      "function": "Wedding (Unfulfilled Promise)",
+      "description": "The promise of marriage is made twice by the sisters to the monkey, serving as his primary motivation, but it is never fulfilled, representing the ultimate betrayal and the core of the monkey's tragedy."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Trickster/Deceiver (Nasi and Dimsi)",
+      "The Naive Helper/Suitor (The Monkey)",
+      "The Journeyer/Wanderer (Nasi and Dimsi)",
+      "The Victim (The Monkey)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Nasi and Dimsi walk on a deserted road.",
+      "2. A monkey repeatedly proposes marriage to them.",
+      "3. The sisters encounter a deep, uncrossable canal.",
+      "4. They promise to marry the monkey if he helps them cross.",
+      "5. The monkey carries them across the canal, one by one.",
+      "6. The sisters renege on their promise, insulting the monkey.",
+      "7. The monkey continues to follow them.",
+      "8. The sisters see a woodpecker's nest and desire the chicks.",
+      "9. They promise marriage again if the monkey retrieves the chicks.",
+      "10. The monkey climbs the tree and puts its hand into the nest hole.",
+      "11. The monkey gets its hand stuck while trying to count/divide the chicks.",
+      "12. The sisters grow impatient and abandon the monkey, deciding to leave.",
+      "13. The monkey, desperate to fulfill the promise, pulls its hand out with extreme force.",
+      "14. The monkey's hand detaches, and it falls into thick mud, unable to escape."
+    ],
+    "tone_and_moral": "The tone shifts from an initial sense of whimsical encounter to one of growing tension, deceit, and ultimately tragic consequence. The moral highlights the severe repercussions of deception, broken promises, and selfishness, particularly when exploiting the naive or vulnerable. It serves as a cautionary tale about the dangers of untrustworthy behavior and the suffering it can inflict."
+  }
+}

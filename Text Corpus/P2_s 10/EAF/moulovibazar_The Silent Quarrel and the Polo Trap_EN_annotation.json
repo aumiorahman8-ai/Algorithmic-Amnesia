@@ -1,0 +1,101 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Silent Quarrel and the Polo Trap",
+    "primary_theme": "Indirect communication and marital conflict resolution"
+  },
+  "lexical_integrity": [
+    {
+      "term": "polo traps",
+      "category": "Tool",
+      "importance": "High",
+      "context_note": "A specific type of traditional fish trap, culturally significant for village fishing practices in Bengal."
+    },
+    {
+      "term": "fen",
+      "category": "Environment",
+      "importance": "Medium",
+      "context_note": "Refers to wetlands or marshy areas, common fishing grounds in the region."
+    },
+    {
+      "term": "shika pot",
+      "category": "Household Item",
+      "importance": "High",
+      "context_note": "A hanging pot, typically suspended from the ceiling, used for storing food to keep it safe from pests. Represents a traditional kitchen setup."
+    },
+    {
+      "term": "rice and curry",
+      "category": "Food",
+      "importance": "Medium",
+      "context_note": "The staple meal in Bengali households, indicating everyday life and sustenance."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Social Practice",
+      "description": "The practice of villagers going to wetlands with polo traps to catch fish, indicating a common communal and subsistence activity.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Practice",
+      "description": "The 'silent treatment' or refusal to speak directly after a quarrel, a common form of conflict management in some cultures, leading to indirect communication.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Household Item",
+      "description": "The 'shika pot' as a traditional method of food storage, reflecting domestic arrangements and resourcefulness.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food",
+      "description": "The mention of 'rice and curry' as the standard meal, grounding the story in the everyday culinary reality of the region.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation",
+      "description": "The story begins by establishing the state of affairs: a husband and wife have quarreled and are not speaking."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The quarrel itself, or the resulting state of non-communication, acts as a 'villainy' creating a 'lack' (lack of harmony, lack of fish for the household, lack of resolution)."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The wife perceives a lack of fish for the household and a lack of resolution to their marital discord, prompting her to act."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The wife's indirect communication is an attempt to instigate the husband's 'departure' for fishing, thereby resolving the lack of fish and potentially the quarrel."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The verbal exchange between the husband and wife, conducted through indirect speech, represents a 'struggle' or battle of wits to overcome the communication barrier and the husband's stubbornness."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The wife's final, witty retort ('Just mould a mouthful atop your insults, and swallow it whole!') serves as a 'victory,' effectively winning the argument and breaking the husband's silence, implying he will now act or at least acknowledge her point."
+    },
+    {
+      "function": "Liquidation of Misfortune (K)",
+      "description": "The breaking of the silence and the implied resolution of the quarrel, along with the potential for the husband to go fishing, signifies the 'liquidation of misfortune'."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Sulking Husband",
+      "The Witty Wife",
+      "The Quarrelsome Couple"
+    ],
+    "atomic_plot_nodes": [
+      "1. A husband and wife are in a silent quarrel for two days.",
+      "2. The wife observes other villagers going fishing with polo traps.",
+      "3. The wife initiates indirect communication, lamenting the lack of a man to go fishing for her.",
+      "4. The husband responds indirectly, complaining about not having eaten.",
+      "5. The wife offers a solution for his food, mentioning the shika pot.",
+      "6. The husband complains about the quality of the rice.",
+      "7. The wife delivers a sharp, witty retort, suggesting he eat his pride along with his food."
+    ],
+    "tone_and_moral": "The tone is humorous and domestic, highlighting the wit and resourcefulness within a marital dynamic. The implicit moral suggests that cleverness and indirect communication can be effective tools for resolving domestic stalemates, and sometimes one must 'swallow their pride' to move forward."
+  }
+}

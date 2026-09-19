@@ -1,0 +1,121 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Boastful Headman and the Shrinking Snake",
+    "primary_theme": "The consequences of incompetence and deceit in leadership"
+  },
+  "lexical_integrity": [
+    {
+      "term": "Headman",
+      "category": "Social Role",
+      "importance": "High",
+      "context_note": "Refers to a traditional village leader (e.g., 'Mandal' or 'Pradhan' in Bengali), a position of significant local authority and respect."
+    },
+    {
+      "term": "council meeting",
+      "category": "Social Practice",
+      "importance": "High",
+      "context_note": "A traditional village court or arbitration council where community disputes are resolved by elders or respected figures. It signifies a formal gathering for justice and community governance."
+    },
+    {
+      "term": "Cubit",
+      "category": "Unit of Measurement",
+      "importance": "High",
+      "context_note": "A traditional unit of length, roughly the distance from the elbow to the tip of the middle finger (approx. 18-22 inches). In Bengali, 'haat'."
+    },
+    {
+      "term": "Bamboo grove",
+      "category": "Setting/Flora",
+      "importance": "Medium",
+      "context_note": "A common and culturally significant feature of rural landscapes in Bengal, often associated with village life and resources."
+    },
+    {
+      "term": "Sycophant",
+      "category": "Character Trait",
+      "importance": "Medium",
+      "context_note": "Describes a specific type of subservient relationship, common in hierarchical social structures, where flattery is used for personal gain or influence."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The 'headman' (Gram Pradhan/Mandal) as the central figure of village authority and decision-making.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual/Governance",
+      "description": "The 'village council meeting' (Gram Shabha/Panchayat) as the traditional forum for community judgment and dispute resolution.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Measurement",
+      "description": "The use of 'cubit' (haat) as a traditional, non-standardized unit of length, indicating a pre-modern or rural context.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Setting",
+      "description": "The 'bamboo grove' as a typical element of the rural Bengali landscape.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Family Structure",
+      "description": "The role of the nephew as a close confidante and advisor, indicating the importance of familial ties and loyalty within social structures.",
+      "is_replaceable": true
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Absentations (I)",
+      "description": "The old headman passes away, creating a void and the opportunity for his son to attempt to assume leadership."
+    },
+    {
+      "function": "Interdiction (III)",
+      "description": "The nephew advises the new headman not to tell unrealistic stories, warning him of the consequences."
+    },
+    {
+      "function": "Violation (IV)",
+      "description": "The new headman violates the nephew's advice by continuing to tell exaggerated and unrealistic tales during the village council meeting."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The new headman's actions of boasting, lying, and attempting to assert authority through deceit constitute a form of 'villainy' against the community's trust and the integrity of the council."
+    },
+    {
+      "function": "Struggle (XVI)",
+      "description": "The headman engages in a subtle struggle to maintain his lie, repeatedly reducing the snake's length in response to the nephew's signals and the villagers' disbelief."
+    },
+    {
+      "function": "Exposure (XXVI)",
+      "description": "The headman's lies and lack of wisdom are exposed to the entire village council as his story becomes increasingly absurd and he grows angry."
+    },
+    {
+      "function": "Recognition (XXVII)",
+      "description": "The villagers 'realize the extent of his wisdom' (or lack thereof) and burst into laughter, recognizing his incompetence."
+    },
+    {
+      "function": "Punishment (XXVIII)",
+      "description": "The headman is reprimanded by the villagers and subsequently ostracized, never again seen at a village council or judgment."
+    },
+    {
+      "function": "Departure (XI)",
+      "description": "The headman leaves the meeting in shame after being reprimanded and exposed."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Incompetent Leader",
+      "The Loyal Sidekick/Conscience (Nephew)",
+      "The Skeptical Community"
+    ],
+    "atomic_plot_nodes": [
+      "1. The village headman dies, and his greedy, incompetent son attempts to take his place.",
+      "2. The son keeps a sycophant nephew who advises him to stop telling unrealistic stories.",
+      "3. They agree on a secret 'hmm' signal to curb the headman's exaggerations.",
+      "4. During a village council, the headman tells a tall tale about a 100-cubit snake.",
+      "5. The nephew repeatedly signals, causing the headman to reduce the snake's length progressively.",
+      "6. The headman, frustrated, refuses to go below 60 cubits, revealing his stubbornness and lack of wisdom.",
+      "7. The villagers burst into laughter, reprimand him, and expose his incompetence.",
+      "8. The headman leaves the meeting in shame and is never seen at a village council again."
+    ],
+    "tone_and_moral": "The tone is cautionary and subtly humorous, highlighting the absurdity of the headman's boasts. The moral emphasizes that true leadership requires wisdom, honesty, and humility, not just inherited prestige or empty boasts; deceit and incompetence ultimately lead to public shame and loss of authority."
+  }
+}

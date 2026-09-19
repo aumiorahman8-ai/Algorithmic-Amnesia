@@ -1,0 +1,272 @@
+{
+  "story_metadata": {
+    "title_suggested": "Kakonmala Kanchonmala",
+    "primary_theme": "Justice and Redemption, Loyalty and Betrayal, Deception and Revelation"
+  },
+  "lexical_integrity": [
+    {
+      "term": "রাখাল",
+      "category": "Social Role",
+      "importance": "High",
+      "context_note": "Cowherd/Shepherd, central character representing loyalty and simplicity."
+    },
+    {
+      "term": "কাঞ্চনমালা",
+      "category": "Proper Noun",
+      "importance": "High",
+      "context_note": "The true Queen, her name means 'golden garland'."
+    },
+    {
+      "term": "কাঁকনমালা",
+      "category": "Proper Noun",
+      "importance": "High",
+      "context_note": "The impostor Queen, her name means 'bracelet garland', linking to how she was bought."
+    },
+    {
+      "term": "সূঁচরাজা",
+      "category": "Descriptive Title",
+      "importance": "High",
+      "context_note": "The King's cursed state, literally 'King of Needles'."
+    },
+    {
+      "term": "ধর্ণা দিল",
+      "category": "Social Action",
+      "importance": "Medium",
+      "context_note": "To stage a sit-in/plea, a traditional way of seeking justice or attention."
+    },
+    {
+      "term": "ক্ষার-খৈল",
+      "category": "Household Item",
+      "importance": "Medium",
+      "context_note": "Alkaline wash/soap, used by Kakonmala to trick Kanchonmala during the bath."
+    },
+    {
+      "term": "পিটা-কুডুলির ব্রত",
+      "category": "Ritual/Tradition",
+      "importance": "High",
+      "context_note": "A specific ritual involving making 'pitha' (rice cakes), used as a test."
+    },
+    {
+      "term": "আস্কে পিটা, চাস্কে পিটা, ঘাস্কে পিটা",
+      "category": "Food/Culinary",
+      "importance": "Medium",
+      "context_note": "Types of simple/crude rice cakes, indicating Kakonmala's lack of refinement."
+    },
+    {
+      "term": "চন্দ্রপুলী, মোহনবাঁশি, ক্ষীরমুরলী, চন্দনপাতা",
+      "category": "Food/Culinary",
+      "importance": "Medium",
+      "context_note": "Types of elaborate/traditional rice cakes, indicating Kanchonmala's refined skills."
+    },
+    {
+      "term": "আলপনা",
+      "category": "Art/Ritual",
+      "importance": "High",
+      "context_note": "Traditional Bengali folk art, decorative patterns drawn on floors, used as a test."
+    },
+    {
+      "term": "শণের নুড়ি",
+      "category": "Household Item",
+      "importance": "Medium",
+      "context_note": "A bundle of jute fibers, used by Kakonmala for crude alpona drawing."
+    },
+    {
+      "term": "নেকড়া",
+      "category": "Household Item",
+      "importance": "Medium",
+      "context_note": "A small piece of cloth/rag, used by Kanchonmala for intricate alpona drawing."
+    },
+    {
+      "term": "সূতন",
+      "category": "Magic Object",
+      "importance": "High",
+      "context_note": "A magical thread/yarn, the primary magical agent used by the 'man'."
+    },
+    {
+      "term": "জল্লাদ",
+      "category": "Social Role",
+      "importance": "Medium",
+      "context_note": "Executioner, highlighting Kakonmala's tyrannical rule."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "Friendship between a Prince/King and a Cowherd, transcending social strata.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Contract",
+      "description": "The sacredness of a promise (প্রতিজ্ঞা) and the severe consequences of breaking it.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Action",
+      "description": "Performing 'Dhorna' (ধর্ণা) at the palace gate as a form of protest or plea.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief System",
+      "description": "Divine retribution or curse for moral failings, specifically breaking a promise.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Daily Life/Ritual",
+      "description": "Bathing at the river ghat (নদীর ঘাটে স্নান), a common social and personal activity.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Transaction/Symbolism",
+      "description": "Buying a maid with a bracelet (কাঁকন দিয়ে দাসী কেনা), linking to the impostor's name.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Household Item",
+      "description": "'Khar-khoil' (ক্ষার-খৈল), an alkaline wash, used in a deceptive bathing ritual.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual/Festival",
+      "description": "'Pitha-Kuduli Broto' (পিটা-কুডুলির ব্রত), a specific ritual involving traditional rice cakes.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food/Culinary Tradition",
+      "description": "The making of various types of 'Pitha' (পিটা), reflecting skill and cultural knowledge.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Art/Ritual",
+      "description": "'Alpona' (আলপনা), traditional floor art, used as a test of refinement and identity.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Governance/Justice",
+      "description": "The role of the 'Jollad' (জল্লাদ) or executioner, indicating royal authority and its abuse.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Symbol/Gift",
+      "description": "The 'Golden Flute' (সোনার বাঁশি) as a symbol of restored friendship and happiness.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Absentations (I)",
+      "description": "The Cowherd is absent from the King's memory and court after the King ascends the throne."
+    },
+    {
+      "function": "Interdiction (II)",
+      "description": "The King's solemn promise to the Cowherd to make him minister acts as a binding interdiction."
+    },
+    {
+      "function": "Violation (III)",
+      "description": "The King violates his promise to the Cowherd, forgetting him completely."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "Kakonmala's deception and usurpation of Queen Kanchonmala's identity, and her subsequent cruel rule, constitute villainy."
+    },
+    {
+      "function": "Lack (VIIIa)",
+      "description": "The King suffers from the 'needle curse'; Kanchonmala suffers from loss of status and enslavement; the kingdom suffers from an incapacitated ruler and a tyrannical impostor."
+    },
+    {
+      "function": "Mediation, the Connective Incident (IX)",
+      "description": "The Cowherd's rejection at the palace leads to the King's curse. Kanchonmala's visit to the river ghat leads to her encounter with Kakonmala."
+    },
+    {
+      "function": "Beginning Counteraction (X)",
+      "description": "Kanchonmala agrees to buy Kakonmala as a maid, hoping she can help remove the King's needles."
+    },
+    {
+      "function": "Departure (XI)",
+      "description": "Kanchonmala is forced to depart from her royal identity and live as a maid."
+    },
+    {
+      "function": "The Donor (XII)",
+      "description": "The 'man' with the magical thread appears and offers help to Kanchonmala."
+    },
+    {
+      "function": "The Hero's Reaction (XIII)",
+      "description": "Kanchonmala tells her story to the 'man' and accepts his guidance and assistance."
+    },
+    {
+      "function": "Receipt of a Magical Agent (XIV)",
+      "description": "The 'man' possesses and uses the magical thread ('Suton') to resolve the conflict."
+    },
+    {
+      "function": "Guidance (XV)",
+      "description": "The 'man' instructs Kanchonmala and Kakonmala to perform the Pitha-Kuduli Broto and draw alpona, which serves as a test."
+    },
+    {
+      "function": "Struggle (XVI)",
+      "description": "The 'man' confronts Kakonmala and uses his magic to bind the executioner when she orders their death."
+    },
+    {
+      "function": "Branding (XVII)",
+      "description": "The 'man' identifies the true Queen (Kanchonmala) through her superior skill in making pithas and drawing alpona."
+    },
+    {
+      "function": "Victory (XVIII)",
+      "description": "The 'man' successfully uses the magical thread to remove the needles from the King and transfer them to Kakonmala."
+    },
+    {
+      "function": "Liquidation of Misfortune or Lack (XIX)",
+      "description": "The King is cured of his needle curse, and Kanchonmala is restored to her rightful place as Queen."
+    },
+    {
+      "function": "Return (XX)",
+      "description": "Kanchonmala returns to her royal status, and the King returns to his normal, healthy state."
+    },
+    {
+      "function": "Recognition (XXI)",
+      "description": "The King recognizes his old friend, the Cowherd, after being cured. The 'man' recognizes the true Queen."
+    },
+    {
+      "function": "Exposure (XXII)",
+      "description": "Kakonmala's true identity as an impostor and her villainy are fully exposed."
+    },
+    {
+      "function": "Transfiguration (XXIII)",
+      "description": "The King is physically transformed back to his healthy self."
+    },
+    {
+      "function": "Punishment (XXIV)",
+      "description": "Kakonmala dies from the needles transferred to her, a just punishment for her villainy."
+    },
+    {
+      "function": "Wedding (XXXI)",
+      "description": "The King and Kanchonmala's marriage is reaffirmed, and the King and Cowherd's friendship is restored and solidified, symbolizing a 're-wedding' of bonds."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Forgetful King (Hero with a Flaw)",
+      "The Loyal Friend (Cowherd/Minister)",
+      "The Usurper/Impostor (Kakonmala)",
+      "The True Queen in Disguise (Kanchonmala)",
+      "The Wise Helper/Magical Donor (The 'Man')",
+      "The Innocent Victim (Kanchonmala, initially the King)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Prince promises Cowherd ministership, then forgets upon becoming King.",
+      "2. Cowherd is rejected at the palace, leading to the King's curse.",
+      "3. King is afflicted with needles, becoming 'Sunch-Raja'.",
+      "4. Queen Kanchonmala encounters Kakonmala at the river.",
+      "5. Kakonmala tricks Kanchonmala, usurping her identity and position.",
+      "6. Kakonmala rules cruelly, while Kanchonmala suffers as a maid.",
+      "7. Kanchonmala meets a magical 'man' who offers help.",
+      "8. The 'man' devises tests (pitha making, alpona drawing) to reveal true identities.",
+      "9. Kakonmala's villainy is exposed, and she orders the execution of Kanchonmala and the 'man'.",
+      "10. The 'man' uses his magic thread to bind the executioner.",
+      "11. Magic thread removes needles from the King and transfers them to Kakonmala.",
+      "12. King is cured, recognizes his friend the Cowherd.",
+      "13. King makes Cowherd his minister and gifts him a golden flute.",
+      "14. Kakonmala dies from the needles, and Kanchonmala is restored to her rightful place.",
+      "15. King, Queen, and Minister live happily, with friendship and justice restored."
+    ],
+    "tone_and_moral": "The tone shifts from idyllic friendship to tragic betrayal, then to suspenseful deception, and finally to triumphant justice and restoration. The moral emphasizes the importance of keeping promises, the severe consequences of betrayal, the triumph of truth and loyalty over deceit and cruelty, and the enduring value of true friendship."
+  }
+}

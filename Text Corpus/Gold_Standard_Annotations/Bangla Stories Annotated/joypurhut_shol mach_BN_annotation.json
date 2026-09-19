@@ -1,0 +1,157 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Shol Fish's Lamentable Fate",
+    "primary_theme": "Survival, wisdom gained through suffering, and the transmission of experience."
+  },
+  "lexical_integrity": [
+    {
+      "term": "শোল মাছ",
+      "category": "Fauna",
+      "importance": "High",
+      "context_note": "A specific type of freshwater fish, central to the narrative. Its identity is crucial."
+    },
+    {
+      "term": "বর্ষা",
+      "category": "Season/Climate",
+      "importance": "Medium",
+      "context_note": "The rainy season in South Asia, crucial for setting the scene of overflowing water and fishing activities."
+    },
+    {
+      "term": "বড়শি",
+      "category": "Tool",
+      "importance": "High",
+      "context_note": "Fishing hook, the primary tool used by the boys to catch fish."
+    },
+    {
+      "term": "তিনকম পৃথিবী",
+      "category": "Mythological/Folkloric Concept",
+      "importance": "Medium",
+      "context_note": "A common South Asian cosmological concept (heaven, earth, underworld), used here metaphorically to denote a vast distance or profound journey."
+    },
+    {
+      "term": "বারোখানি কাম ভাঙনু তেরোখানি খোচা",
+      "category": "Idiomatic Expression",
+      "importance": "High",
+      "context_note": "An idiomatic phrase signifying numerous attempts, struggles, or close calls, emphasizing the fish's resilience and experience."
+    },
+    {
+      "term": "আশ",
+      "category": "Anatomy",
+      "importance": "Medium",
+      "context_note": "Fish scales. The act of removing them with ash is a specific cultural detail."
+    },
+    {
+      "term": "কুটতে",
+      "category": "Action/Verb",
+      "importance": "Medium",
+      "context_note": "To cut or prepare fish for cooking, a common household chore."
+    },
+    {
+      "term": "ছাই",
+      "category": "Substance",
+      "importance": "Medium",
+      "context_note": "Ash, traditionally used in rural Bengali households for descaling fish due to its abrasive quality."
+    },
+    {
+      "term": "চিল",
+      "category": "Fauna",
+      "importance": "High",
+      "context_note": "Kite (bird of prey), a significant antagonist in the fish's journey of suffering."
+    },
+    {
+      "term": "পলই",
+      "category": "Fishing Gear/Sound",
+      "importance": "Medium",
+      "context_note": "Refers to a type of fishing trap or the splashing sound associated with fishing activities, as used in the fish's lament ('পলইয়ের ছপছপানিতে')."
+    },
+    {
+      "term": "টিপ টিপানির ঘাও",
+      "category": "Idiom/Condition",
+      "importance": "High",
+      "context_note": "Literally 'throbbing wound'. This phrase encapsulates the fish's deep physical and emotional pain, a powerful expression of suffering."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Activity",
+      "description": "Boys fishing with 'বড়শি' (fishing hooks) in ponds and rivers during the rainy season ('বর্ষায় পানিতে চারিদিকে থই থই করছে') is a common rural pastime and source of food in Bengal.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food Preparation",
+      "description": "The traditional method of descaling fish using 'ছাই' (ash) before cutting ('মা ছাই দিয়ে মাছের আশগুলো ছাড়িয়ে নিলেন') is a specific cultural practice in Bengali households.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Fauna Interaction",
+      "description": "The presence of kites as opportunistic scavengers/predators, a common sight in the region, impacting daily life.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief/Narrative Trope",
+      "description": "Anthropomorphism, where an animal (the Shol fish) speaks and expresses complex emotions and experiences, is a common trope in Bengali folktales to convey moral lessons or evoke empathy.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Lament/Poetry",
+      "description": "The fish's final speech, a poetic lament detailing its suffering, is characteristic of folk narratives where victims articulate their plight, often with a touch of local dialect and imagery.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Villainy (A)",
+      "description": "The initial act of harm: a boy catches the Shol fish, removing it from its natural habitat and freedom."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The fish is taken from the pond/river to the boy's home, signifying its removal from its familiar world."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The fish undergoes a struggle for its life as it is descaled with ash and its 'কান দুটি কেটে ঠিক করে নিলেন' (ears/fins are cut and prepared), representing a violent ordeal."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "A second act of harm: a kite snatches the prepared fish, subjecting it to further peril and displacement."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The fish is carried away by the kite, departing from the human dwelling and into the air."
+    },
+    {
+      "function": "Return (↓)",
+      "description": "The fish falls from the kite's grasp into a pond, returning to an aquatic environment, albeit a different one from its origin."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "The fish recognizes the familiar scene of boys fishing by the pond, mirroring its initial capture."
+    },
+    {
+      "function": "Exposure (Ex)",
+      "description": "The fish exposes its entire ordeal and suffering through its poetic lament to the boys, revealing the 'ground truth' of its journey."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Innocent (initially, the caught fish)",
+      "The Survivor (the fish after its ordeal)",
+      "The Sage/Mentor (the fish delivering its wisdom)",
+      "The Hunter (the young boys fishing)",
+      "The Caretaker (the mother preparing the fish)",
+      "The Predator (the kite)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Boys fish with hooks during the rainy season.",
+      "2. A boy catches a Shol fish.",
+      "3. The boy brings the fish home to his mother for preparation.",
+      "4. The mother descales the fish with ash and cuts its fins.",
+      "5. The mother leaves the fish momentarily to go to the bathroom.",
+      "6. A kite spots the fish and snatches it.",
+      "7. The fish falls from the kite's mouth into a pond.",
+      "8. The Shol fish, now in the pond, sees boys fishing again.",
+      "9. The fish speaks to the boys, recounting its ordeal and offering a warning in a poetic verse."
+    ],
+    "tone_and_moral": "The tone shifts from a mundane depiction of daily life and fishing to one of sudden peril, miraculous escape, and ultimately, profound wisdom. The moral emphasizes the value of experience gained through suffering and the importance of understanding the perspective of the 'other' (the fish in this case), serving as a cautionary tale about the cycle of life, death, and survival."
+  }
+}

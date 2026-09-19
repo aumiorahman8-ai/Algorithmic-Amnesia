@@ -1,0 +1,281 @@
+{
+  "story_metadata": {
+    "title_suggested": "Neelkomol Lalkomol",
+    "primary_theme": "Restoration of Order and Triumph of Good over Evil"
+  },
+  "lexical_integrity": [
+    {
+      "term": "রাক্ষসী (Rakshasi)",
+      "category": "Mythical Creature",
+      "importance": "High",
+      "context_note": "A female demon or ogress, central to the antagonist's identity."
+    },
+    {
+      "term": "খোক্কস (Khokkos)",
+      "category": "Mythical Creature",
+      "importance": "High",
+      "context_note": "A type of demon or ogre, distinct from Rakshasi, that plagues a kingdom."
+    },
+    {
+      "term": "বেঙ্গমা-বেঙ্গমী (Bengoma-Bengomi)",
+      "category": "Mythical Creature",
+      "importance": "High",
+      "context_note": "A pair of mythical birds, often possessing magical abilities, acting as helpers."
+    },
+    {
+      "term": "আরাম-কাঠি জিরাম-কাঠি (Aram-kathi Jiram-kathi)",
+      "category": "Magical Object",
+      "importance": "High",
+      "context_note": "Magical sticks associated with comfort and rest, used by the Rakshasi."
+    },
+    {
+      "term": "জীয়নকাঠি মরণকাঠি (Jiyonkathi Moronkathi)",
+      "category": "Magical Object",
+      "importance": "High",
+      "context_note": "Sticks of life and death, powerful magical artifacts used to kill or revive."
+    },
+    {
+      "term": "আয়ী-বুড়ি (Ayi-buri)",
+      "category": "Character Type",
+      "importance": "High",
+      "context_note": "A grandmother-ogress, a specific type of Rakshasi character encountered by the heroes."
+    },
+    {
+      "term": "পঁইচে, বাজু (Poiche, Baju)",
+      "category": "Ornament",
+      "importance": "Medium",
+      "context_note": "Traditional Bengali armlets and bracelets, made from the golden eggshell."
+    },
+    {
+      "term": "কাস্তে (Kaste)",
+      "category": "Tool",
+      "importance": "Medium",
+      "context_note": "A sickle, a farming tool, made from the iron eggshell."
+    },
+    {
+      "term": "ঢোল (Dhol)",
+      "category": "Musical Instrument",
+      "importance": "Medium",
+      "context_note": "A traditional drum, used for announcements and celebrations."
+    },
+    {
+      "term": "কলাই (Kolai)",
+      "category": "Food Item",
+      "importance": "Medium",
+      "context_note": "Lentils or pulses, used by Neelkomol to trick Ayi-buri."
+    },
+    {
+      "term": "খড়্গ (Khorgo)",
+      "category": "Weapon",
+      "importance": "Medium",
+      "context_note": "A scimitar or sword, retrieved from the well and used by Neelkomol."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The clear social structure of 'রাজা' (King), 'রাণী' (Queen), 'রাজপুত্র' (Prince), 'রাজকন্যা' (Princess), 'মন্ত্রী' (Minister), and 'প্রজা' (Subjects) is fundamental to the setting.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food",
+      "description": "References to 'ঝোল অম্বল' (curry and sour dish) and 'ঘি' (clarified butter) provide insight into traditional Bengali cuisine.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Ritual/Belief",
+      "description": "The Rakshasi's desire to eat 'সতীনের ছেলের কচি কচি হাড়, মাংসে ঝোল অম্বল' (step-son's tender bones and flesh in curry) highlights the monstrous nature and cannibalistic folklore motif.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual/Belief",
+      "description": "The belief that 'রাক্ষসের মাথায় তেল না হইলে তো আমাদের রাজার ব্যারাম সারে না' (the king's illness won't be cured without oil from a Rakshasa's head) is a specific magical cure motif.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Clothing/Ornament",
+      "description": "'বালা-কাঁকণ' (bangles), 'মুকুট' (crown), 'পঁইচে, বাজু' (armlets, bracelets) are traditional ornaments and symbols of royalty.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Social Norms",
+      "description": "The term 'সতীন' (co-wife) inherently implies rivalry and conflict, a common theme in polygamous settings in folklore.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Norms",
+      "description": "The use of 'দাদা' (elder brother) signifies respect and affection within a fraternal relationship.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation (α)",
+      "description": "Introduction of the king, his two queens (one human, one Rakshasi), and their sons Kusum and Ajit. The Rakshasi queen's hidden evil nature and hatred for Kusum are established."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The Rakshasi queen poisons the human queen, leading to her death. She then abuses Kusum and Ajit."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The Rakshasi, in her true form, captures and eats Kusum, witnessed by the king."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "Ajit strikes the Rakshasa, causing it to drop a golden lump. The Rakshasi queen, enraged, eats her own son Ajit (mistaking him for an enemy), dropping an iron lump."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The Rakshasi queen unleashes a horde of Rakshasas upon the kingdom, devastating it and causing the populace to flee."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The kingdom is left desolate, the king helpless, and the princes are gone, leaving a void."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The Rakshasi queen buries the golden and iron lumps (remains of Kusum and Ajit) under a bamboo grove."
+    },
+    {
+      "function": "Donor (D)",
+      "description": "A farmer cuts the bamboo, discovering two large eggs (the transformed lumps)."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "The eggs break open, revealing Neelkomol (from the blue egg/iron lump) and Lalkomol (from the red egg/golden lump), who emerge as princes with crowns and swords."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "Neelkomol and Lalkomol leave their devastated original kingdom."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "They arrive in a new kingdom plagued by Khokkos (demons) who devour ministers and subjects."
+    },
+    {
+      "function": "Interdiction (γ)",
+      "description": "The king of the new kingdom sets a condition: whoever kills the Khokkos will marry his two daughters and inherit the kingdom."
+    },
+    {
+      "function": "Counteraction (δ)",
+      "description": "Neelkomol and Lalkomol volunteer to fight the Khokkos."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "Lalkomol initially confronts the Khokkos, and then Neelkomol engages in a fierce battle, using his sword and wit."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "Neelkomol successfully kills all the Khokkos, ending the plague on the kingdom."
+    },
+    {
+      "function": "Branding (J)",
+      "description": "The king discovers the dead Khokkos and the sleeping princes, confirming their victory."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "Neelkomol and Lalkomol marry the king's two daughters and inherit the kingdom."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The original Rakshasi queen, hearing of the Khokkos' demise, sends her two demon messengers (Ai and Kai) to trick the princes into seeking a magical cure for the king."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "Neelkomol and Lalkomol depart on a quest to find the 'oil from the Rakshasa's head'."
+    },
+    {
+      "function": "Donor (D)",
+      "description": "They encounter the Bengoma-Bengomi birds and their blind chicks."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "They offer their blood to heal the bird chicks, demonstrating their benevolent nature."
+    },
+    {
+      "function": "Guidance (G)",
+      "description": "The grateful Bengoma-Bengomi chicks offer to carry the princes to the Rakshasa's land."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "They fly to the Rakshasa's land on the backs of the magical birds."
+    },
+    {
+      "function": "Trickery (η)",
+      "description": "Neelkomol tricks Ayi-buri (the grandmother Rakshasi) into believing they are her grandsons, using lentils to simulate eating iron."
+    },
+    {
+      "function": "Complicity (θ)",
+      "description": "Ayi-buri accepts them as her grandsons, allowing them access to the Rakshasa stronghold."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "Neelkomol retrieves the 'Jiyonkathi Moronkathi' (life and death sticks) and a powerful sword from a well within the Rakshasa city."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "Neelkomol uses the Jiyonkathi to systematically dismember and kill all the Rakshasas in their city."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "All Rakshasas are killed, including Ayi-buri, and their city is left desolate."
+    },
+    {
+      "function": "Return (↓)",
+      "description": "Neelkomol and Lalkomol return to their kingdom with the magical artifacts."
+    },
+    {
+      "function": "Pursuit (Pr)",
+      "description": "The original Rakshasi queen, in her monstrous form, pursues the princes to their kingdom."
+    },
+    {
+      "function": "Rescue (Rs)",
+      "description": "Lalkomol uses the Moronkathi to kill the pursuing Rakshasi queen."
+    },
+    {
+      "function": "Unrecognized Arrival (o)",
+      "description": "The princes return to their original kingdom, but the king initially does not recognize them as his lost sons, Ajit-Kusum."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "The king and the subjects eventually recognize Neelkomol and Lalkomol as the reincarnated Ajit-Kusum."
+    },
+    {
+      "function": "Transfiguration (T)",
+      "description": "The princes are fully restored to their original identities and rightful status."
+    },
+    {
+      "function": "Punishment of the Villain (U)",
+      "description": "The Rakshasi queen is killed and her body is disposed of by the executioners."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "The story concludes with the two kingdoms united, and the princes (Ajit-Kusum/Neelkomol-Lalkomol) living happily with their wives, Ilavati and Lilavati."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Hero (Neelkomol/Lalkomol)",
+      "The Villain (Rakshasi Queen, Khokkos, Rakshasas)",
+      "The Mentor/Helper (Bengoma-Bengomi birds, magical items)",
+      "The Innocent Victim (Kusum, the first queen, the devastated kingdom)",
+      "The Wise Old Man (The King, initially helpless, later restored)"
+    ],
+    "atomic_plot_nodes": [
+      "1. The Rakshasi queen kills the human queen and her son Kusum.",
+      "2. Ajit (Lalkomol) strikes the Rakshasa, who drops a golden lump.",
+      "3. The Rakshasi queen eats Ajit (Neelkomol) and drops an iron lump.",
+      "4. The Rakshasi queen unleashes demons and buries the lumps.",
+      "5. The lumps transform into Neelkomol and Lalkomol.",
+      "6. The princes defeat the Khokkos and marry princesses in a new kingdom.",
+      "7. The Rakshasi queen sends demons to trick the princes into a quest.",
+      "8. The princes help Bengoma-Bengomi birds, who transport them to the Rakshasa land.",
+      "9. Neelkomol tricks Ayi-buri and retrieves the Jiyonkathi Moronkathi.",
+      "10. Neelkomol uses the magical sticks to kill all the Rakshasas.",
+      "11. The princes return and kill the pursuing Rakshasi queen.",
+      "12. The princes are recognized as Ajit-Kusum, and order is restored in their original kingdom."
+    ],
+    "tone_and_moral": "The tone transitions from initial tragedy and horror to adventure and ultimately triumph. The moral emphasizes the enduring power of fraternal love, the ultimate victory of good over evil, and the restoration of justice and order after great suffering."
+  }
+}

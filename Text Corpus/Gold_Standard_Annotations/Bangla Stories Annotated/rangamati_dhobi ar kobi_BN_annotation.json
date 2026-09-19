@@ -1,0 +1,255 @@
+{
+  "story_metadata": {
+    "title_suggested": "Dhobi, the Turtle Mother, and the Wicked Stepmother",
+    "primary_theme": "The triumph of virtue and perseverance over malevolence, sustained by enduring maternal love and magical aid."
+  },
+  "lexical_integrity": [
+    {
+      "term": "জুম (Jum)",
+      "category": "Agriculture",
+      "importance": "High",
+      "context_note": "Refers to 'Jhum cultivation' or shifting cultivation, a traditional agricultural practice in the region, central to the initial livelihood of Dhobi's family."
+    },
+    {
+      "term": "কত্তি (Kotti)",
+      "category": "Material Culture",
+      "importance": "Medium",
+      "context_note": "A traditional earthen jug used for carrying drinking water, highlighting local household items."
+    },
+    {
+      "term": "দুর (Dur)",
+      "category": "Linguistic/Transformation",
+      "importance": "High",
+      "context_note": "A Chakma word meaning 'turtle' or 'tortoise'. This specific term is crucial as it directly causes the old woman's transformation due to the 'Satya Yuga' belief."
+    },
+    {
+      "term": "সত্যকাল (Satyakal)",
+      "category": "Cosmology/Belief",
+      "importance": "High",
+      "context_note": "Refers to 'Satya Yuga' or the Golden Age, a mythological era where spoken words held literal transformative power, explaining the magical events."
+    },
+    {
+      "term": "গিষ্টা (Gishta)",
+      "category": "Social Custom",
+      "importance": "Medium",
+      "context_note": "A knot, specifically used here to describe the act of tying two people's clothes together to signify an unbreakable bond or marriage, as performed by the wicked widow."
+    },
+    {
+      "term": "কক্‌ ক্‌ রে কক্‌! বুজ্যালোই বুড়ি জদন বান্যনদে জক্‌ রে জক্‌ (Kok k re kok! Bujjyalo buṛi jadan banyande jak re jak)",
+      "category": "Linguistic/Folklore",
+      "importance": "High",
+      "context_note": "A rooster's song in the Chakma dialect, revealing the secret marriage. It's a direct quote that serves as a magical revelation."
+    },
+    {
+      "term": "টং, কুলো, থুরুং (Tong, Kulo, Thurung)",
+      "category": "Craft/Livelihood",
+      "importance": "Medium",
+      "context_note": "Names of specific cane/bamboo crafts (e.g., basket, winnowing fan) made and sold by Dhobi's father, illustrating traditional livelihoods."
+    },
+    {
+      "term": "পিনোন খাদি (Pinon Khadi)",
+      "category": "Clothing/Ethnic Identity",
+      "importance": "High",
+      "context_note": "A traditional Chakma dress or skirt, highlighting specific ethnic attire received by Dhobi as a magical gift."
+    },
+    {
+      "term": "ঝু ঝু ! মুঝি ঝু ! খেলে খা দেলে দা, খেলে তর ভুগ জুরেব' মরও ভারী দুগ ফুরেব' (Jhu jhu! Mujhi jhu! Khele kha dele da, khele tor bhug jurebo' moro bhari dug phurebo')",
+      "category": "Linguistic/Ritualistic Plea",
+      "importance": "High",
+      "context_note": "Dhobi's specific, respectful plea to the tigress in Chakma dialect, demonstrating cultural forms of address and supplication to powerful beings."
+    },
+    {
+      "term": "সদরক (Sadrok)",
+      "category": "Flora/Transformation",
+      "importance": "High",
+      "context_note": "Refers to a marigold flower, into which Dhobi's spirit transforms, serving as a key element in her eventual recognition and return."
+    },
+    {
+      "term": "কুমার লে কুমার, লেজোত্‌ ন'ধরিছ পেজোত্‌ ধর! (Kumar le Kumar, lejot n'dhorich pejot dhor!)",
+      "category": "Linguistic/Cultural Instruction",
+      "importance": "High",
+      "context_note": "Dhobi's instruction to the prince in Chakma, telling him to hold her garment (achol) instead of her hair (lejo), a culturally significant distinction in capturing a woman."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Agriculture",
+      "description": "Jhum cultivation (shifting cultivation) as the primary livelihood, indicating a specific regional agricultural practice.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief System",
+      "description": "The concept of 'Satya Yuga' (Golden Age) where spoken words manifest as reality, underpinning the magical transformations.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Linguistic/Ethnic Identity",
+      "description": "Use of specific Chakma words and phrases (e.g., 'Dur', rooster's song, Dhobi's pleas) embedded in the narrative, indicating a specific cultural origin.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Material Culture",
+      "description": "Traditional crafts like 'Tong', 'Kulo', 'Thurung' (cane/bamboo items) and the 'Kotti' (earthen jug), reflecting local craftsmanship and daily life.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Clothing",
+      "description": "Reference to 'Pinon Khadi', a traditional Chakma dress, as a significant item of attire.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Custom",
+      "description": "The act of tying clothes together ('Gishta') to symbolize marriage, and the practice of chewing 'Pan' (betel nut) as a social habit.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Hierarchy",
+      "description": "The presence of a King, Queen, and Prince, and the royal selection process for a bride, reflecting a monarchical social structure.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Folklore Motif",
+      "description": "The 'wicked stepmother' trope, a common motif across many cultures, but here intertwined with local beliefs and transformations.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Transformation/Reincarnation",
+      "description": "The repeated transformation of Dhobi's mother (turtle, gourd, banyan tree) and Dhobi herself (yellow bird, marigold), reflecting a belief in spirits and cyclical existence.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Hospitality",
+      "description": "The custom of offering water and food to guests, even by the wicked stepmother initially to deceive.",
+      "is_replaceable": true
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation",
+      "description": "An old couple and their beautiful daughter Dhobi live a happy life, cultivating Jhum."
+    },
+    {
+      "function": "Absentations (I)",
+      "description": "The old couple leaves their home to work in the Jhum field."
+    },
+    {
+      "function": "Interdiction (II)",
+      "description": "Implicit interdiction against unkindness and desperation; the old man's rudeness and the old woman's desperate act of drinking dirty water lead to misfortune."
+    },
+    {
+      "function": "Violation (III)",
+      "description": "The old woman drinks dirty water out of extreme thirst, and the old man, in his own thirst, rudely shouts 'Dur h!' (Go away!) at her."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The old man's words, due to the 'Satya Yuga' belief, transform his wife into a turtle, causing immense sorrow and separation. Later, the stepmother's continuous cruelty, abuse, and attempts to murder Dhobi and her turtle mother constitute villainy."
+    },
+    {
+      "function": "Departure (XI)",
+      "description": "Dhobi's father returns home alone after his wife's transformation. Dhobi later departs from her home to fetch magical milk from the forest and to attend the royal selection."
+    },
+    {
+      "function": "Donor (VII)",
+      "description": "Dhobi encounters several magical helpers: her transformed turtle mother, the Banyan tree, a benevolent tigress, a kind snake, and a yellow bird (her own spirit)."
+    },
+    {
+      "function": "Receipt of a Magical Agent (XIV)",
+      "description": "Dhobi receives crucial advice and emotional support from her turtle mother, the ability to hide treasures within the Banyan tree, tiger's milk and beautiful clothes from the tigress, snake's milk and precious jewelry from the snake, and weaving instructions from the yellow bird."
+    },
+    {
+      "function": "Guidance (XVII)",
+      "description": "The turtle mother guides Dhobi on how to endure suffering and avoid traps. The Banyan tree guides Dhobi to hide her treasures. The yellow bird guides Kobi (and implicitly Dhobi's spirit guides the weaving process)."
+    },
+    {
+      "function": "Struggle (XVI)",
+      "description": "Dhobi struggles against the stepmother's relentless abuse and the dangerous journeys into the forest to obtain magical items. The stepmother struggles to capture the turtle mother."
+    },
+    {
+      "function": "Victory (XVIII)",
+      "description": "Dhobi successfully obtains the magical milk, clothes, and jewelry. The turtle mother initially evades the stepmother's traps."
+    },
+    {
+      "function": "Pursuit (XIX)",
+      "description": "The stepmother and Kobi relentlessly pursue Dhobi with their schemes, culminating in her murder."
+    },
+    {
+      "function": "Rescue (XX)",
+      "description": "The Banyan tree rescues Dhobi's treasures by hiding them. The prince later rescues Dhobi from her transformed state and the stepmother's machinations."
+    },
+    {
+      "function": "Unrecognized Arrival (XXI)",
+      "description": "Dhobi arrives at the royal palace in her magically enhanced beauty, unrecognized by her step-sister Kobi."
+    },
+    {
+      "function": "Unfounded Claims (XXII)",
+      "description": "Kobi falsely claims to be Dhobi at the royal palace after Dhobi's murder."
+    },
+    {
+      "function": "Difficult Task (XXV)",
+      "description": "Kobi is subjected to a series of difficult tasks (cooking, singing, painting, weaving) by the royal household to verify her identity."
+    },
+    {
+      "function": "Solution (XXVI)",
+      "description": "The yellow bird (Dhobi's spirit) provides the solution for the weaving task, revealing the truth through its song, though Kobi kills it. The prince solves the mystery of the marigold flower."
+    },
+    {
+      "function": "Recognition (XXVII)",
+      "description": "The prince recognizes Dhobi through the magical marigold flower, which transforms into her human form, and her subsequent revelation of her story."
+    },
+    {
+      "function": "Exposure (XXVIII)",
+      "description": "The stepmother and Kobi's deception and villainy are exposed by Dhobi's return and her recounting of their plot."
+    },
+    {
+      "function": "Transfiguration (XXIX)",
+      "description": "Dhobi undergoes multiple transfigurations: from human to yellow bird, then to a marigold flower, and finally back to her human form."
+    },
+    {
+      "function": "Punishment (XXX)",
+      "description": "The wicked stepmother and Kobi are banished from the kingdom."
+    },
+    {
+      "function": "Wedding (XXXI)",
+      "description": "Dhobi marries the prince and eventually becomes queen, ruling happily."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Innocent Heroine (Dhobi)",
+      "The Wise Old Woman/Magical Helper (Turtle Mother, Tigress, Snake, Banyan Tree, Yellow Bird)",
+      "The Wicked Stepmother (Stepmother)",
+      "The Jealous Stepsister (Kobi)",
+      "The Noble Prince (Rajkumar)",
+      "The Grieving Father (Dhobi's father)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Dhobi, her parents, and their happy life in the Jhum field.",
+      "2. Parents go to Jhum, get thirsty; old woman drinks dirty water, old man is rude.",
+      "3. Old woman transforms into a turtle due to the old man's words in Satya Yuga.",
+      "4. Dhobi's father returns alone, lies to Dhobi about her mother's absence.",
+      "5. Dhobi learns the truth; her turtle mother appears in the river and offers comfort and advice.",
+      "6. Dhobi's father becomes a peddler and is tricked into marrying a wicked widow (Stepmother) with a daughter (Kobi).",
+      "7. Stepmother and Kobi abuse Dhobi, forcing her into servitude.",
+      "8. Dhobi finds solace and guidance from her turtle mother at the riverbank.",
+      "9. Stepmother plots to kill the turtle mother; Dhobi warns her, but the turtle is eventually caught.",
+      "10. Dhobi is forced to cook her own mother, who speaks from the fire and pot.",
+      "11. Turtle mother's spirit transforms into a gourd, then a banyan tree, continuing to offer solace to Dhobi.",
+      "12. Stepmother sends Dhobi to fetch tiger's milk (Kobi fakes injury); Dhobi receives milk and clothes from a benevolent tigress, hides them in the banyan tree.",
+      "13. Stepmother sends Dhobi to fetch snake's milk (Kobi fakes injury again); Dhobi receives milk and jewelry from a kind snake, hides them in the banyan tree.",
+      "14. The King announces a selection for the Prince's bride; Stepmother sends Kobi and Dhobi (as a servant).",
+      "15. Kobi abandons Dhobi; Dhobi retrieves her treasures from the banyan tree, transforms into a beautiful princess, and goes to the palace.",
+      "16. The Prince chooses Dhobi, and they marry amidst great celebration.",
+      "17. Stepmother and Kobi plot to kill Dhobi during her visit to her father's home.",
+      "18. Dhobi is tricked into falling into a pit, where the Stepmother and Kobi pour hot water and bury her alive.",
+      "19. Dhobi's spirit transforms into a yellow bird and flies to the palace.",
+      "20. Kobi impersonates Dhobi at the palace but fails various tests of identity (cooking, singing, painting).",
+      "21. The yellow bird (Dhobi's spirit) helps Kobi with weaving, but Kobi kills it in anger.",
+      "22. The Prince finds the dead bird, keeps it, and it transforms into a marigold flower.",
+      "23. The marigold transforms into Dhobi at night, cleaning the room and leaving pan stains on the Prince's clothes.",
+      "24. The Prince catches Dhobi, who reveals her true identity and the Stepmother's plot.",
+      "25. Dhobi and the Prince reunite; the Stepmother and Kobi are banished.",
+      "26. Dhobi's father is brought to the palace, and Dhobi and the Prince rule happily ever after."
+    ],
+    "tone_and_moral": "The tale begins with idyllic happiness, swiftly descends into profound sorrow and injustice due to a magical mishap and human cruelty. It then navigates through themes of perseverance, enduring maternal love (even in transformed states), and the triumph of good over evil. The tone shifts from tragic to hopeful, culminating in a just and joyous resolution. The moral emphasizes that virtue and kindness are ultimately rewarded, while malice and deception lead to downfall, and that true love and family bonds transcend physical forms."
+  }
+}

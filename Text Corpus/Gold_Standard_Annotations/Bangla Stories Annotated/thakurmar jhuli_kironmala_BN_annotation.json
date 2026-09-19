@@ -1,0 +1,319 @@
+{
+  "story_metadata": {
+    "title_suggested": "Kironmala",
+    "primary_theme": "Perseverance, justice, and family reunion through magical quest"
+  },
+  "lexical_integrity": [
+    {
+      "term": "Thakurmar Jhuli",
+      "category": "Literary/Genre",
+      "importance": "High",
+      "context_note": "The collection of Bengali folktales from which this story originates, meaning 'Grandmother's Bag'."
+    },
+    {
+      "term": "Arun, Barun, Kironmala",
+      "category": "Proper Noun",
+      "importance": "High",
+      "context_note": "The names of the three protagonist siblings."
+    },
+    {
+      "term": "Kajallata Gai",
+      "category": "Proper Noun/Animal",
+      "importance": "Medium",
+      "context_note": "The name of the cow cared for by Kironmala, symbolizing her nurturing nature."
+    },
+    {
+      "term": "Brahmin",
+      "category": "Social/Religious",
+      "importance": "High",
+      "context_note": "The caste of the children's adoptive father, a priest/scholar, signifying their upbringing."
+    },
+    {
+      "term": "Puja",
+      "category": "Ritual",
+      "importance": "High",
+      "context_note": "Hindu worship ritual performed by the Brahmin."
+    },
+    {
+      "term": "Bom-Bom",
+      "category": "Ritual/Sound",
+      "importance": "Medium",
+      "context_note": "A chant or sound associated with Hindu worship."
+    },
+    {
+      "term": "Mrigaya",
+      "category": "Activity/Royal",
+      "importance": "Medium",
+      "context_note": "Royal hunting expedition, which leads the King to the children."
+    },
+    {
+      "term": "Danka",
+      "category": "Object/Sound",
+      "importance": "Medium",
+      "context_note": "A large drum or kettle-drum, used for royal announcements or, in this story, a magical trigger."
+    },
+    {
+      "term": "Maya Pahar",
+      "category": "Place/Magical",
+      "importance": "High",
+      "context_note": "The 'Illusory Mountain' where magical items are found and where heroes are tested by illusions."
+    },
+    {
+      "term": "Apsari",
+      "category": "Mythological being",
+      "importance": "Medium",
+      "context_note": "Celestial nymphs who attempt to distract Barun on Maya Pahar."
+    },
+    {
+      "term": "Jallad",
+      "category": "Social role",
+      "importance": "Medium",
+      "context_note": "Executioners, who carry out the punishment of the wicked aunts."
+    },
+    {
+      "term": "Gheshera",
+      "category": "Social role",
+      "importance": "Medium",
+      "context_note": "Grass-cutter, one of the wicked aunts' disguises/professions."
+    },
+    {
+      "term": "Supakar",
+      "category": "Social role",
+      "importance": "Medium",
+      "context_note": "Cook, the other wicked aunt's disguise/profession."
+    },
+    {
+      "term": "Hete kanta upore kanta",
+      "category": "Punishment/Cultural",
+      "importance": "High",
+      "context_note": "A gruesome, specific punishment meaning 'thorns below, thorns above', signifying extreme suffering."
+    },
+    {
+      "term": "Mohorer payes, motir pitha, muktar mithai, monir monda",
+      "category": "Food/Magical",
+      "importance": "High",
+      "context_note": "Exaggerated magical dishes made of gold coins, pearls, and gems, used by the Golden Bird to expose the King's past actions."
+    },
+    {
+      "term": "Kure",
+      "category": "Dwelling",
+      "importance": "Medium",
+      "context_note": "A small hut or dwelling, where the Queen was forced to live in misery."
+    },
+    {
+      "term": "Chander hat bhangiya porilo",
+      "category": "Idiom/Figurative",
+      "importance": "Medium",
+      "context_note": "Literally 'the moon's market broke', an idiom for a lively, beautiful, and joyous gathering."
+    },
+    {
+      "term": "Kuta tuku porite dey na",
+      "category": "Idiom/Figurative",
+      "importance": "Medium",
+      "context_note": "Literally 'doesn't let even a speck of straw fall', an idiom for extreme cleanliness and meticulous care."
+    },
+    {
+      "term": "Tin Bhuboner Sar",
+      "category": "Idiom/Figurative",
+      "importance": "Medium",
+      "context_note": "Literally 'essence of the three worlds', meaning the ultimate best or unparalleled."
+    },
+    {
+      "term": "Jol chita-fota",
+      "category": "Ritual/Magical",
+      "importance": "High",
+      "context_note": "A specific action of sprinkling drops of water, used magically to revive the stone princes."
+    },
+    {
+      "term": "Jor hat koriya pronam korilo",
+      "category": "Gesture/Ritual",
+      "importance": "High",
+      "context_note": "A traditional gesture of respect, folding hands and bowing."
+    },
+    {
+      "term": "Indrapuri",
+      "category": "Mythological/Place",
+      "importance": "Medium",
+      "context_note": "Indra's city, a heavenly abode, used to describe the magnificent palace built by the children."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The clear social stratification: Brahmin (priest/scholar), Raja (king), Rani (queen), Rajkumar/Rajputra (prince), and common folk (ghashera, supakar). This hierarchy dictates roles and expectations.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Hindu worship (Puja) with specific elements like 'dhup' (incense), 'ghonta' (bell), 'deep chandan' (lamp and sandalwood paste), and the 'Bom-Bom' chant. The act of sprinkling water for revival also has ritualistic undertones.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food",
+      "description": "Traditional Bengali sweets and dishes like 'Payes', 'Pitha', 'Khir', 'Sor', 'Mithai', 'Monda', 'Ros', 'Ladu' are mentioned, highlighting local culinary culture.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Clothing",
+      "description": "Kironmala's disguise as a 'Rajputrer poshak' (prince's attire) is a significant plot device, reflecting gender roles and expectations of heroism.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Punishment",
+      "description": "The specific, gruesome punishment of 'Hete kanta upore kanta' (thorns below, thorns above) for the wicked aunts reflects a cultural understanding of severe retribution for grave misdeeds.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Family Structure",
+      "description": "Strong emphasis on sibling bonds, filial piety, and the importance of family reunion and restoration of rightful lineage.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Beliefs",
+      "description": "Presence of magical elements, mythological beings (Apsara, Daitya, Dana, Bhoot Petni), divine architects (Vishwakarma, Mayadanav), and enchanted places (Maya Pahar), reflecting a rich folkloric cosmology.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Objects",
+      "description": "Culturally significant objects like 'Tarowal' (sword), 'Tir-dhonuk' (bow-arrow), 'Danka' (drum), and 'Jhari' (ewer/pitcher) are integral to the narrative's magical and heroic elements.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Gestures",
+      "description": "The gesture of 'Jor hat koriya pronam korilo' (folded hands and bowed in respect) is a common form of showing reverence in Bengali culture.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation (α)",
+      "description": "Arun, Barun, and Kironmala live an idyllic life with their Brahmin father, possessing exceptional beauty and virtues."
+    },
+    {
+      "function": "Absentations (β)",
+      "description": "The Brahmin father dies, leaving the children alone and vulnerable."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The kingdom is 'surrounded by sin' (due to the wicked aunts' past actions against the royal family), leading to the King's suffering and the children's separation from their true parents."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The King goes hunting, gets lost in a storm, and suffers hunger and thirst."
+    },
+    {
+      "function": "Connective Incident (B)",
+      "description": "The King discovers the children's home, receives water, and, impressed by their nature, offers future assistance."
+    },
+    {
+      "function": "Lack (C)",
+      "description": "Kironmala expresses a desire for a magnificent palace and the magical items described in books (silver trees, golden fruit, pearl-waterfall, diamond trees, golden birds, ruby pebbles)."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "Arun and Barun undertake the task of building the palace, demonstrating their skill and dedication."
+    },
+    {
+      "function": "Donor (D)",
+      "description": "A Sannasi (hermit) appears, describes the magical items and their location (Maya Pahar), and implicitly sets the challenge to acquire them."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "Arun departs for Maya Pahar, leaving a magical indicator (a sword) with his siblings."
+    },
+    {
+      "function": "Violation (η)",
+      "description": "Arun fails the test on Maya Pahar by succumbing to its illusions/temptations and is turned to stone, indicated by the sword rusting."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "Barun departs for Maya Pahar to rescue Arun and acquire the items, leaving a magical indicator (bow and arrow) with Kironmala."
+    },
+    {
+      "function": "Violation (η)",
+      "description": "Barun fails the test on Maya Pahar and is turned to stone, indicated by the bowstring breaking and arrowhead falling."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "Kironmala, disguised as a prince, departs for Maya Pahar to rescue her brothers and acquire the magical items, showing courage and determination."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "Kironmala faces and overcomes numerous magical illusions, monstrous creatures, and temptations on Maya Pahar by maintaining her resolve and not looking back."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "Kironmala successfully reaches the source of the magical items, having resisted all challenges."
+    },
+    {
+      "function": "Receipt of Magic Agent (D)",
+      "description": "The Golden Bird, a magical helper, instructs Kironmala on how to collect the items and strike the Danka to activate the magic."
+    },
+    {
+      "function": "Guidance (G)",
+      "description": "The Golden Bird further guides Kironmala on how to use the magical water to revive the stone princes."
+    },
+    {
+      "function": "Liquidation of Misfortune/Lack (K)",
+      "description": "Kironmala sprinkles the magical water, reviving Arun, Barun, and all other stone princes who had been trapped."
+    },
+    {
+      "function": "Return (↓)",
+      "description": "Kironmala, her brothers, and the acquired magical items return to their home."
+    },
+    {
+      "function": "Liquidation of Misfortune/Lack (K)",
+      "description": "The magical garden is established with the acquired items, fulfilling the earlier desire and creating an unparalleled abode."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "The Golden Bird reveals the true identity of Arun, Barun, and Kironmala as the King's long-lost children during a royal feast."
+    },
+    {
+      "function": "Exposure (Ex)",
+      "description": "The Golden Bird exposes the villainy of the wicked aunts, who had replaced the royal children with animals/objects, by questioning the King's past actions."
+    },
+    {
+      "function": "Transfiguration (T)",
+      "description": "The King, filled with remorse and joy, recognizes and embraces his children, acknowledging their true lineage."
+    },
+    {
+      "function": "Liquidation of Misfortune/Lack (K)",
+      "description": "The Queen is rescued from her suffering in the hut and reunited with her family, completing the restoration of the royal household."
+    },
+    {
+      "function": "Punishment (U)",
+      "description": "The wicked aunts (ghashera and supakar) are severely punished with 'hete kanta upore kanta' for their heinous crimes."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "The children (Arun, Barun, Kironmala) are installed as rulers, and the royal family lives happily ever after, restoring order, prosperity, and justice to the kingdom."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "Heroine (Kironmala)",
+      "Failed Heroes (Arun, Barun - initially)",
+      "Wise Old Man/Mentor (Brahmin father, Sannasi)",
+      "Magical Helper/Truth-teller (Golden Bird)",
+      "Suffering King/Queen (The King and Queen)",
+      "Villain (Wicked Aunts - unseen for most of the story, but their actions are the root cause of conflict)",
+      "Nurturing Figure (Kironmala, caring for Kajallata Gai and the deer fawn)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Three siblings (Arun, Barun, Kironmala) grow up with their Brahmin father, who later dies.",
+      "2. The King, lost and suffering, discovers the children's home and offers future help.",
+      "3. The siblings build a magnificent palace, surpassing all others.",
+      "4. A Sannasi describes the magical treasures of Maya Pahar and the challenge to acquire them.",
+      "5. Arun and Barun attempt the quest but fail, turning to stone on Maya Pahar.",
+      "6. Kironmala, disguised as a prince, embarks on the quest, overcoming all illusions and dangers.",
+      "7. The Golden Bird guides Kironmala to collect the magical items and revive her brothers and other stone princes.",
+      "8. The magical garden is established at their home, fulfilling the desire for unparalleled beauty.",
+      "9. The King visits the palace, and the Golden Bird reveals the true identity of the children as his own.",
+      "10. The King reunites with his children and the long-suffering Queen.",
+      "11. The wicked aunts, responsible for the initial villainy, are severely punished.",
+      "12. The royal family is restored, and the children rule the kingdom happily ever after."
+    ],
+    "tone_and_moral": "The tone shifts from idyllic childhood to sorrow and separation, then to adventurous quest and suspense, culminating in triumphant joy and restoration. The moral emphasizes the power of perseverance, purity of heart, and courage (especially Kironmala's unwavering resolve) in overcoming evil and restoring justice. It also highlights the importance of family bonds and the ultimate triumph of truth."
+  }
+}

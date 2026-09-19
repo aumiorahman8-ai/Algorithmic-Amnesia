@@ -1,0 +1,318 @@
+{
+  "story_metadata": {
+    "title_suggested": "Neelkamal and Lalkamal",
+    "primary_theme": "The triumph of fraternal love and courage over insidious evil, leading to restoration and rebirth."
+  },
+  "lexical_integrity": [
+    {
+      "term": "Rakshasi",
+      "category": "Mythological Being",
+      "importance": "High",
+      "context_note": "Female demon or ogress, a central antagonist."
+    },
+    {
+      "term": "Rakshas",
+      "category": "Mythological Being",
+      "importance": "High",
+      "context_note": "Male demon or ogre, a general term for the race of demons."
+    },
+    {
+      "term": "Khokkosh",
+      "category": "Mythological Being",
+      "importance": "Medium",
+      "context_note": "A specific type of monster/demon terrorizing a kingdom."
+    },
+    {
+      "term": "Ayi-Buri",
+      "category": "Cultural Term/Mythological Being",
+      "importance": "Medium",
+      "context_note": "Literally 'old grandmother', but here refers to a powerful Rakshasi matriarch."
+    },
+    {
+      "term": "Bengama-Bengami",
+      "category": "Mythological Creature",
+      "importance": "Medium",
+      "context_note": "A pair of mythical birds that aid the heroes in their journey."
+    },
+    {
+      "term": "Jiyonkathi",
+      "category": "Magical Artifact",
+      "importance": "High",
+      "context_note": "The 'Life-stick/pin', a magical object whose destruction leads to the death of all Rakshasas."
+    },
+    {
+      "term": "Moronkathi",
+      "category": "Magical Artifact",
+      "importance": "High",
+      "context_note": "The 'Death-stick/pin', a magical object used to kill the Rakshasi-queen."
+    },
+    {
+      "term": "Ashwattha tree",
+      "category": "Cultural/Botanical",
+      "importance": "Low",
+      "context_note": "Sacred fig tree, serving as a resting place for the heroes."
+    },
+    {
+      "term": "Ghee",
+      "category": "Cultural Item",
+      "importance": "Low",
+      "context_note": "Clarified butter, used by Lalkamal in a clever trick against the Khokkosh."
+    },
+    {
+      "term": "Ochin Odhin",
+      "category": "Descriptive Term",
+      "importance": "Low",
+      "context_note": "Describes the Rakshasa city as 'unknown, unseen' and desolate."
+    },
+    {
+      "term": "Aramkathi, Jiramkathi",
+      "category": "Magical Artifact/Utterance",
+      "importance": "Medium",
+      "context_note": "Initially, 'Rest-stick' and 'Repose-stick' used by the Rakshasi-queen for magical travel; later, a magical utterance by Neelkamal to paralyze Khokkosh."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "King, Queen, Prince, Minister, Farmer - reflects a feudal social structure and royal lineage.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Clothing/Custom",
+      "description": "Queen's veil (ghomta) - signifies modesty or seclusion, a traditional aspect of female attire.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Ritual/Belief",
+      "description": "Bowing at the king's feet - a gesture of deep respect and submission.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food/Custom",
+      "description": "Cannibalistic desire for 'tender bones and flesh in a savory stew' - a defining characteristic of the Rakshasi.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Symbolism",
+      "description": "Golden bed, crowns, swords - symbols of royalty, power, and the warrior class.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Mythology",
+      "description": "Market of Rakshasas - a specific mythological setting depicting a gathering place for demons.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual/Magic",
+      "description": "Magic cloud, rest-sticks, life/death pins - elements of folk magic and supernatural travel/power.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Custom",
+      "description": "Drums beaten throughout the kingdom - a traditional way to make public announcements or celebrate victories.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Proverb/Chant",
+      "description": "'Aiya maiya natur Lalu Neelu katur May all harm to my grandsons go away!' - a protective chant/blessing from a grandmotherly figure.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation",
+      "description": "Introduction of the king, his two queens (one a hidden Rakshasi), and their sons Kusum and Ajit, establishing the underlying conflict."
+    },
+    {
+      "function": "Villainy (a)",
+      "description": "The Rakshasi-queen's malevolent desire to consume Kusum, her mistreatment of the princes, and her implied role in the gentle queen's death."
+    },
+    {
+      "function": "Absentations (A)",
+      "description": "Kusum wastes away due to the Rakshasi-queen's malice, making him vulnerable."
+    },
+    {
+      "function": "Villainy (a)",
+      "description": "A Rakshas (an agent of the queen) seizes Kusum, attempting to devour him."
+    },
+    {
+      "function": "Reconnaissance (D)",
+      "description": "Ajit wakes up and discovers the Rakshas in the act of consuming his brother."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "Ajit bravely confronts and slaps the Rakshas."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The Rakshas is injured, vomits a golden lump (Kusum's essence), and flees."
+    },
+    {
+      "function": "Branding/Marking (J)",
+      "description": "The golden lump (Kusum's essence) and iron lump (Ajit's essence, after the queen consumes her own son) are created, marking their transformed identities."
+    },
+    {
+      "function": "Villainy (a)",
+      "description": "The Rakshasi-queen consumes her own son, buries the magical lumps, and her Rakshasa horde subsequently overruns the kingdom."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "A farmer discovers two eggs in a bamboo grove, from which Neelkamal and Lalkamal (the reborn princes) emerge with crowns and swords."
+    },
+    {
+      "function": "Departure (1)",
+      "description": "Neelkamal and Lalkamal leave their desolate original kingdom to seek their fortune."
+    },
+    {
+      "function": "Villainy (a)",
+      "description": "A new kingdom is terrorized by the Khokkosh monster, which regularly devours its subjects."
+    },
+    {
+      "function": "Difficult Task (M)",
+      "description": "The king of the new realm offers his princesses and kingdom to anyone who can defeat the Khokkosh."
+    },
+    {
+      "function": "Reconnaissance (D)",
+      "description": "The princes learn about the Khokkosh and the king's challenge."
+    },
+    {
+      "function": "Delivery (E)",
+      "description": "Neelkamal and Lalkamal present themselves to the king, accepting the task."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "Lalkamal cleverly uses Neelkamal's crown, heated ghee, and sword to trick and injure the Khokkosh during the night."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The Khokkosh is severely wounded and flees after Lalkamal's trickery."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "Neelkamal wakes, uses a magical utterance ('Aramkathi, Jiramkathi'), and then slays all the Khokkosh."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "All Khokkosh are killed, ending the terror in the kingdom."
+    },
+    {
+      "function": "Resolution (N)",
+      "description": "The king fulfills his promise, granting the princes his kingdom and princesses."
+    },
+    {
+      "function": "Villainy (a)",
+      "description": "The original Rakshasi-queen, learning of their survival, sends her messengers (Ai and Kai) to destroy them."
+    },
+    {
+      "function": "Interdiction (B)",
+      "description": "The messengers present a false task (obtaining Rakshas head oil) to lure the princes into danger."
+    },
+    {
+      "function": "Violation (C)",
+      "description": "The princes, unaware of the deception, accept the perilous task."
+    },
+    {
+      "function": "Departure (1)",
+      "description": "They embark on a dangerous journey to the land of the Rakshasas."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "They encounter the Bengama-Bengami birds, offer their blood, and receive magical aid for their journey."
+    },
+    {
+      "function": "Guidance (G)",
+      "description": "The Bengama-chicks carry them swiftly across vast distances to the Rakshasa land."
+    },
+    {
+      "function": "Difficult Task (M)",
+      "description": "Their mission to confront the Rakshasas and obtain the 'oil' (which is a pretext for their destruction)."
+    },
+    {
+      "function": "Reconnaissance (D)",
+      "description": "The Rakshasas detect the human smell, signaling the princes' arrival."
+    },
+    {
+      "function": "Delivery (E)",
+      "description": "Neelkamal uses deception to convince Ayi-Buri (a Rakshasi matriarch) that they are her grandsons."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "Lalkamal passes Ayi-Buri's test of eating 'iron peas' by secretly substituting real peas, maintaining their disguise."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "Ayi-Buri accepts them as her grandsons, allowing them entry and temporary safety within the Rakshasa city."
+    },
+    {
+      "function": "Reconnaissance (D)",
+      "description": "They observe the desolate and decaying Rakshasa city, filled with the dead."
+    },
+    {
+      "function": "Delivery (E)",
+      "description": "Neelkamal descends into a well to retrieve crucial magical artifacts."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "He obtains the Jiyonkathi and Moronkathi (life and death pins/hornets)."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "Neelkamal systematically destroys the Jiyonkathi, which causes the simultaneous destruction of all Rakshasas."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "All Rakshasas are killed, and Ayi-Buri's head is captured."
+    },
+    {
+      "function": "Return (2)",
+      "description": "They call the Bengam birds and return to their original country with the captured Rakshasi head and Moronkathi."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The Rakshasi-queen assumes a hideous form and attacks them upon their return."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "Lalkamal uses the Moronkathi to kill the Rakshasi-queen, ending her reign of terror."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "The king's affliction is cured, and the princes are recognized by the king and subjects as the long-lost Ajit and Kusum."
+    },
+    {
+      "function": "Transfiguration (R)",
+      "description": "They are fully restored to their true identities and royal status, their transformation complete."
+    },
+    {
+      "function": "Wedding (T)",
+      "description": "Implied marriage to the princesses (Ilabati and Lilabati) from the previous kingdom, solidifying their new status."
+    },
+    {
+      "function": "Reward/Restoration (W)",
+      "description": "The two kingdoms unite, and the princes rule happily, restoring order and prosperity to their land."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "Hero (Neelkamal, Lalkamal/Ajit, Kusum) - embodying courage, cleverness, and fraternal love.",
+      "Villain (Rakshasi-queen, Khokkosh, Rakshasa horde) - representing insidious and overt evil.",
+      "Shapeshifter/Trickster (Rakshasi-queen's transformations, Lalkamal's deceptions) - characters who change form or use cunning.",
+      "Mentor/Helper (Bengama-Bengami birds, the farmer) - providing crucial aid and guidance.",
+      "The Wise Old Man/Woman (Ayi-Buri, in a twisted sense, as she is a powerful figure who is outsmarted)."
+    ],
+    "atomic_plot_nodes": [
+      "1. The Rakshasi-queen's hidden evil leads to the gentle queen's death and Kusum's decline.",
+      "2. A Rakshas attacks Kusum; Ajit intervenes, leading to their transformation into golden and iron lumps.",
+      "3. The Rakshasi-queen consumes her own son, buries the lumps, and her Rakshasa horde overruns the kingdom.",
+      "4. The princes are reborn as Neelkamal and Lalkamal from bamboo, retaining their royal essence.",
+      "5. The reborn princes travel to another kingdom and defeat the terrifying Khokkosh.",
+      "6. The Rakshasi-queen, learning of their survival, sends messengers to lure them into a trap.",
+      "7. The princes embark on a new quest, receiving magical aid from the Bengama-Bengami birds.",
+      "8. They infiltrate the Rakshasa land through deception, passing a test of identity.",
+      "9. Neelkamal discovers and uses the Jiyonkathi to systematically destroy all Rakshasas.",
+      "10. The princes return to their original kingdom and kill the Rakshasi-queen with the Moronkathi.",
+      "11. The king's affliction is cured, and the princes are recognized as the true Ajit and Kusum, restoring peace and uniting kingdoms."
+    ],
+    "tone_and_moral": "The tone is a blend of adventurous fantasy and dark folklore, featuring elements of cannibalism, deception, and magical transformation. The moral emphasizes the enduring power of fraternal love, courage, and cleverness in overcoming insidious evil. It highlights themes of rebirth, the cyclical nature of good and evil, and the ultimate triumph of justice and restoration of order, even against seemingly insurmountable odds and familial betrayal."
+  }
+}

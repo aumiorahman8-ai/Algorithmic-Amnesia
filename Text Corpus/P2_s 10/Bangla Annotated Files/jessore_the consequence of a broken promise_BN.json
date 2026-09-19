@@ -1,0 +1,159 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Consequence of a Broken Promise",
+    "primary_theme": "The severe consequences of disrespecting sacred traditions and breaking supernatural vows of secrecy."
+  },
+  "lexical_integrity": [
+    {
+      "term": "ত্রিমোহনী",
+      "category": "Geography/Spiritual",
+      "importance": "High",
+      "context_note": "A confluence of three rivers or streams, often holding spiritual significance in Bengali folklore and geography."
+    },
+    {
+      "term": "সওদাগর",
+      "category": "Occupation",
+      "importance": "Medium",
+      "context_note": "A merchant or trader, indicating a specific social role and economic activity."
+    },
+    {
+      "term": "দেবী",
+      "category": "Deity",
+      "importance": "High",
+      "context_note": "Goddess, central to the established custom and the source of the initial conflict and punishment."
+    },
+    {
+      "term": "বিসর্জন",
+      "category": "Ritual",
+      "importance": "High",
+      "context_note": "A ritualistic offering or immersion, often associated with religious practices and respect for deities."
+    },
+    {
+      "term": "কটুক্তি",
+      "category": "Speech/Action",
+      "importance": "High",
+      "context_note": "Derogatory remarks or insults, highlighting the specific nature of the merchant's transgression."
+    },
+    {
+      "term": "ডুবুরি",
+      "category": "Occupation",
+      "importance": "Medium",
+      "context_note": "A diver, a specialized role for underwater retrieval or exploration."
+    },
+    {
+      "term": "পাটাতন",
+      "category": "Nautical",
+      "importance": "Medium",
+      "context_note": "The deck or floor of a boat, a specific structural component."
+    },
+    {
+      "term": "পরী",
+      "category": "Supernatural Being",
+      "importance": "High",
+      "context_note": "Fairy or nymph, a mythical female spirit often associated with nature and possessing magical abilities."
+    },
+    {
+      "term": "কাজীদের ঘাট",
+      "category": "Geography",
+      "importance": "High",
+      "context_note": "A specific named river landing or dock, grounding the story in a particular local geography."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Ritual",
+      "description": "The custom of offering a portion of commercial goods (e.g., eggplant, radish, jackfruit, wood apple) to a river goddess (দেবী) at a confluence (ত্রিমোহনী) before passage, known as 'বিসর্জন'. This signifies respect for natural forces and deities.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief System",
+      "description": "Belief in powerful river deities who can inflict severe punishment (e.g., sinking a boat) for disrespect or transgression, and the existence of benevolent supernatural beings (পরী) who can offer aid under strict conditions.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Geography",
+      "description": "Specific mention of 'মাথাভাঙ্গা নদী' (Matabhanga River) and 'কাজীদের ঘাট' (Kazi's Ghat), which are real or culturally significant geographical locations in Bengal, rooting the tale in a local context.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Interdiction",
+      "description": "The established custom of offering goods to the Devi at the Trimohoni acts as an implicit interdiction against disrespect or failure to offer."
+    },
+    {
+      "function": "Violation",
+      "description": "The merchant violates this interdiction by not offering goods and making derogatory remarks towards the Devi."
+    },
+    {
+      "function": "Villainy",
+      "description": "The Devi, offended by the merchant's actions, causes his product-laden boat to sink, which constitutes an act of harm or villainy."
+    },
+    {
+      "function": "Lack",
+      "description": "The sinking of the boat and loss of goods creates a significant lack for the merchant and his community."
+    },
+    {
+      "function": "Beginning Counteraction",
+      "description": "After initial failures by divers, a brave man decides to undertake the perilous task of descending into the river to find the boat."
+    },
+    {
+      "function": "Departure",
+      "description": "The brave man's descent into the unfathomable depths of the river marks his departure on the quest."
+    },
+    {
+      "function": "First Function of the Donor",
+      "description": "Deep within the river, the hero encounters two fairies (পরী) who possess knowledge and the means to resolve his quest."
+    },
+    {
+      "function": "Receipt of a Magical Agent",
+      "description": "The fairies provide the hero with crucial information (the boat's location at Kazi's Ghat) and a condition for its retrieval, acting as a magical agent."
+    },
+    {
+      "function": "Guidance",
+      "description": "The fairies explicitly guide the hero by telling him where to find the boat ('কাজীদের ঘাটে গিয়ে দ্যাখ, ওখানে নৌকা পেয়ে যাবি')."
+    },
+    {
+      "function": "Interdiction",
+      "description": "The fairies impose a new interdiction: the hero must not reveal the secret of his encounter or the boat's retrieval to anyone, under penalty of death ('একথা কাউকে বলতে পারবি না, বললে গলা দিয়ে রক্ত উঠে মারা যাবি')."
+    },
+    {
+      "function": "Liquidation of Lack",
+      "description": "The hero successfully finds the boat at Kazi's Ghat, thereby liquidating the initial lack caused by the sinking."
+    },
+    {
+      "function": "Return",
+      "description": "The hero returns to his normal life, having retrieved the boat and seemingly completed his task."
+    },
+    {
+      "function": "Violation",
+      "description": "The hero violates the fairies' interdiction by telling his wife the secret of his adventure and the conditions."
+    },
+    {
+      "function": "Punishment",
+      "description": "As a direct consequence of violating the interdiction, the hero suffers a gruesome death by vomiting blood, fulfilling the fairies' warning."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Transgressor (Merchant)",
+      "The Punishing Deity (River Goddess)",
+      "The Hero (Brave Man)",
+      "The Supernatural Helper/Donor (Fairies)",
+      "The Temptress/Confidante (Hero's Wife, inadvertently causing his downfall)"
+    ],
+    "atomic_plot_nodes": [
+      "1. A sacred custom of offering to a river goddess at a confluence is established.",
+      "2. A merchant disrespects the goddess by withholding offerings and making insults.",
+      "3. The merchant's boat sinks as divine punishment.",
+      "4. Attempts to retrieve the boat fail due to the river's unfathomable depth.",
+      "5. A brave man volunteers to descend into the river's depths.",
+      "6. He discovers a golden boat and two fairies pulling ropes (the sunken goods).",
+      "7. The fairies offer to return the boat under a strict condition of absolute secrecy.",
+      "8. The man retrieves the boat at the specified location (Kazi's Ghat).",
+      "9. He breaks his vow of secrecy by confiding in his wife.",
+      "10. He dies a gruesome death (vomiting blood) as a direct consequence of his broken vow."
+    ],
+    "tone_and_moral": "The tone is cautionary, supernatural, and ultimately tragic. The moral emphasizes the severe consequences of disrespecting sacred traditions and deities, as well as the dire repercussions of breaking vows of secrecy, especially those made to supernatural entities. It highlights the importance of spiritual adherence and the dangers of human fallibility."
+  }
+}

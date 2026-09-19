@@ -1,0 +1,327 @@
+{
+  "story_metadata": {
+    "title_suggested": "Dh'bi and the Cycle of Transformation",
+    "primary_theme": "Resilience, transformation, the triumph of good over evil, and the enduring power of maternal love."
+  },
+  "lexical_integrity": [
+    {
+      "term": "Dh'bi",
+      "category": "Proper Noun",
+      "importance": "High",
+      "context_note": "The protagonist's name, a unique local name."
+    },
+    {
+      "term": "jhum cultivation",
+      "category": "Agricultural Practice",
+      "importance": "High",
+      "context_note": "Slash-and-burn agriculture, central to the initial setting and livelihood."
+    },
+    {
+      "term": "kaporsi, marfa, chinar",
+      "category": "Local Crops/Vegetables",
+      "importance": "Medium",
+      "context_note": "Specific produce indicating local flora and diet."
+    },
+    {
+      "term": "Jyeshtha",
+      "category": "Calendar Month",
+      "importance": "Medium",
+      "context_note": "A Bengali month (May-June), signifying the hot season and its challenges."
+    },
+    {
+      "term": "kotti",
+      "category": "Household Item",
+      "importance": "Medium",
+      "context_note": "A clay jug, used for carrying water."
+    },
+    {
+      "term": "dur",
+      "category": "Chakma Word",
+      "importance": "High",
+      "context_note": "Chakma word for 'tortoise', crucial for the first transformation."
+    },
+    {
+      "term": "Satyakal",
+      "category": "Mythological Era",
+      "importance": "High",
+      "context_note": "The 'Age of Truth' where spoken words manifest reality, explaining the immediate transformation."
+    },
+    {
+      "term": "thurungs",
+      "category": "Cane Product",
+      "importance": "Medium",
+      "context_note": "A type of cane basket or container, part of the old man's craft."
+    },
+    {
+      "term": "Bhat dibe jora jora, Ton dibe thora thora, Tong, kulo lobhani ma bon para?",
+      "category": "Hawker's Chant",
+      "importance": "High",
+      "context_note": "A specific, untranslatable chant used by the old man to sell his wares, reflecting local commerce and dialect."
+    },
+    {
+      "term": "pinon-khadi",
+      "category": "Traditional Attire",
+      "importance": "High",
+      "context_note": "Traditional Chakma clothing (skirt-like garment and blouse), given by the tigress."
+    },
+    {
+      "term": "Kok k re kok! Bujyaloi buri jodon banyonde jok re jok",
+      "category": "Rooster's Crow/Chant",
+      "importance": "High",
+      "context_note": "A culturally specific rooster's crow that reveals the stepmother's trick."
+    },
+    {
+      "term": "sodinor madha hang",
+      "category": "Chant/Phrase",
+      "importance": "High",
+      "context_note": "Meaning 'co-wife's head', spoken by the transformed mother, indicating her continued presence and the stepmother's guilt."
+    },
+    {
+      "term": "Jhu jhu! Mujhi jhu! Khele kha dele da, Khele tor bhug jurebo' Moro bhari dug furebo'",
+      "category": "Ritualistic Address/Plea",
+      "importance": "High",
+      "context_note": "Dh'bi's respectful and self-sacrificing address to the tigress, demonstrating cultural reverence and humility."
+    },
+    {
+      "term": "Kumar le kumar, Lejot nodhorich pejot dhor!",
+      "category": "Plea/Chant",
+      "importance": "High",
+      "context_note": "Dh'bi's specific plea to the prince during her transformation, indicating a cultural nuance in interaction."
+    },
+    {
+      "term": "Tin jur felei tin jur tul Shadanor jhi shadani bigun biji fullo tul.",
+      "category": "Weaving Instruction/Chant",
+      "importance": "High",
+      "context_note": "The yellow bird's specific weaving instruction, revealing Dh'bi's identity and skill."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Agricultural Practice",
+      "description": "Jhum cultivation (slash-and-burn) as the primary livelihood of the old couple.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief System",
+      "description": "The 'Satyakal' or Age of Truth, where spoken words have immediate transformative power.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Household Item",
+      "description": "Use of 'kotti' (clay jug) for carrying water.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Craft/Trade",
+      "description": "Cane work (winnowing fans, tongs, thurungs) as a means of livelihood for the old man.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Custom",
+      "description": "Hawker's chants used for selling goods in villages.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Clothing",
+      "description": "Traditional 'pinon-khadi' attire, given by the tigress.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Dynamics",
+      "description": "The trope of the cruel stepmother and jealous stepsister, common in many cultures but here with specific local manifestations.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Ritual/Interaction",
+      "description": "Respectful address to powerful animals ('Auntie') to seek help or mercy.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food/Social Custom",
+      "description": "Preparation and consumption of betel-leaf (paan) as a social custom and refreshment.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Architecture",
+      "description": "Mention of a 'stilt house' and its ladder.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Agricultural Structure",
+      "description": "Presence of a 'husking shed' for processing paddy.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Royal Proclamation",
+      "description": "Announcement of royal events (prince's marriage) by drum beat.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Marriage Custom",
+      "description": "Grand wedding celebrations with feasting, dancing, and music lasting for days.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Post-Marital Custom",
+      "description": "The custom of a newlywed daughter visiting her father's house.",
+      "is_replaceable": true
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation",
+      "description": "Introduction of the old couple, their daughter Dh'bi, their happy life, and jhum cultivation."
+    },
+    {
+      "function": "Absentations (I)",
+      "description": "The old man and woman absent themselves from home to work in the jhum field. The absence of water is also a key element."
+    },
+    {
+      "function": "Interdiction (II)",
+      "description": "An implicit interdiction against selfishness or unkindness, especially towards a spouse in distress."
+    },
+    {
+      "function": "Violation (III)",
+      "description": "The old man violates the implicit interdiction by refusing to share water with his terribly thirsty wife."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The old man's curse 'Dur ho!' (Be a tortoise!) transforms his wife into a tortoise, causing harm."
+    },
+    {
+      "function": "Lack (A)",
+      "description": "The old man and Dh'bi lack the wife/mother. The old man also lacks a partner to manage the jhum cultivation."
+    },
+    {
+      "function": "Departure (XI)",
+      "description": "The tortoise mother departs to live in the river."
+    },
+    {
+      "function": "Connective Incident (B)",
+      "description": "The old man's need for a partner leads to his meeting with the second old woman."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The second old woman (stepmother) tricks the old man into marriage and subsequently abuses Dh'bi."
+    },
+    {
+      "function": "Lack (A)",
+      "description": "Dh'bi lacks comfort, love, and her mother's presence due to the stepmother's cruelty."
+    },
+    {
+      "function": "Receipt of Magic Agent (F)",
+      "description": "The tortoise mother (in her transformed state) provides advice and comfort to Dh'bi, acting as a magical helper."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "Dh'bi struggles against her stepmother's abuse and attempts to harm her mother (the tortoise)."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "Dh'bi warns her mother, who temporarily evades capture by the stepmother."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The stepmother catches and kills the tortoise mother."
+    },
+    {
+      "function": "Lack (A)",
+      "description": "Dh'bi lacks her mother entirely after her death."
+    },
+    {
+      "function": "Transfiguration (M)",
+      "description": "The tortoise mother transforms into a gourd, then a banyan tree, maintaining her protective presence."
+    },
+    {
+      "function": "Receipt of Magic Agent (F)",
+      "description": "The banyan tree (transformed mother) provides Dh'bi with beautiful clothes and jewelry. The tigress and snake also provide magical milk, clothes, and jewelry."
+    },
+    {
+      "function": "Departure (XI)",
+      "description": "Dh'bi departs for the palace to participate in the prince's selection."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "Dh'bi's carriage breaks down, and K'bi abandons her, forcing Dh'bi to overcome this obstacle."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "Dh'bi uses the banyan tree's magic to arrive at the palace beautifully adorned, overcoming K'bi's sabotage."
+    },
+    {
+      "function": "Recognition (J)",
+      "description": "The prince recognizes Dh'bi's supreme beauty and chooses her as his bride."
+    },
+    {
+      "function": "Wedding (N)",
+      "description": "Dh'bi marries the prince with great pomp and ceremony."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The stepmother and K'bi plot to kill Dh'bi and replace her with K'bi."
+    },
+    {
+      "function": "Lack (A)",
+      "description": "The prince lacks his true wife after Dh'bi is killed and replaced by K'bi."
+    },
+    {
+      "function": "Pursuit (Pr)",
+      "description": "The stepmother and K'bi pursue Dh'bi (to kill her) by luring her into a pit."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The stepmother and K'bi kill Dh'bi by pouring hot water and burying her in the pit."
+    },
+    {
+      "function": "Transfiguration (M)",
+      "description": "Dh'bi transforms into a yellow bird, then a marigold flower, and eventually back to human form."
+    },
+    {
+      "function": "Receipt of Magic Agent (F)",
+      "description": "The yellow bird and marigold flower act as magical agents for Dh'bi's return and communication with the prince."
+    },
+    {
+      "function": "Recognition (J)",
+      "description": "The prince recognizes Dh'bi after her transformations, discovering her true identity and the conspiracy."
+    },
+    {
+      "function": "Exposure (Ex)",
+      "description": "K'bi's deception is exposed through her inability to perform tasks and the prince's discovery of Dh'bi."
+    },
+    {
+      "function": "Punishment (U)",
+      "description": "K'bi and the stepmother are driven away from the palace as punishment for their villainy."
+    },
+    {
+      "function": "Wedding (N)",
+      "description": "The wedding is reaffirmed, and Dh'bi becomes queen, ruling happily with the prince."
+    },
+    {
+      "function": "Reward (W)",
+      "description": "Dh'bi and the prince live happily ever after, and Dh'bi's father is brought to live with them in the palace."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "Heroine (Dh'bi: persecuted maiden, resilient, pure-hearted)",
+      "Villain (Stepmother: wicked, jealous, cruel)",
+      "False Hero (K'bi: jealous stepsister, impostor)",
+      "Donor/Helper (Tortoise Mother, Banyan Tree, Tigress, Snake, Prince)",
+      "Father (Old Man: initially flawed, later supportive)",
+      "Prince (Ideal suitor, discerning)"
+    ],
+    "atomic_plot_nodes": [
+      "1. The old man's curse transforms his wife into a tortoise.",
+      "2. The old man remarries, introducing a cruel stepmother and stepsister to Dh'bi's life.",
+      "3. The tortoise mother provides comfort and warnings to Dh'bi from the river.",
+      "4. The stepmother kills the tortoise mother, who then transforms into a gourd and subsequently a benevolent banyan tree.",
+      "5. The banyan tree, along with other magical animals, provides Dh'bi with magical clothes and jewelry.",
+      "6. Dh'bi, overcoming sabotage, goes to the palace and marries the prince.",
+      "7. The stepmother and K'bi conspire to kill Dh'bi and replace her with K'bi.",
+      "8. Dh'bi transforms into a yellow bird, then a marigold flower, subtly revealing her presence to the prince.",
+      "9. The prince discovers Dh'bi's true identity and brings her back to human form.",
+      "10. The stepmother and K'bi are punished, and Dh'bi and the prince live happily ever after as rulers."
+    ],
+    "tone_and_moral": "The tone shifts from an idyllic beginning to one of profound sorrow and persecution, then to suspense and magical realism, culminating in a triumphant and joyous resolution. The moral emphasizes the enduring power of love (especially maternal love across transformations), the resilience of the pure-hearted, the karmic consequences of cruelty and jealousy, and the ultimate triumph of good over evil."
+  }
+}

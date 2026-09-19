@@ -1,0 +1,216 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Prince and the Ogress Queen",
+    "primary_theme": "The triumph of courage, wisdom, and friendship over malevolent forces and deception."
+  },
+  "lexical_integrity": [
+    {
+      "term": "Kotwal",
+      "category": "Title/Role",
+      "importance": "High",
+      "context_note": "A historical administrative or police chief in India, indicating a specific social hierarchy."
+    },
+    {
+      "term": "Hasan Champa flower",
+      "category": "Flora/Magical Item",
+      "importance": "Medium",
+      "context_note": "A specific type of flower, part of a magical item required for the quest."
+    },
+    {
+      "term": "Boal fish",
+      "category": "Fauna",
+      "importance": "Medium",
+      "context_note": "A specific type of catfish, which plays a role in the prince's magical transformations and escape."
+    },
+    {
+      "term": "Bel leaves",
+      "category": "Flora/Ritual",
+      "importance": "Medium",
+      "context_note": "Leaves of the Bael tree, used in Hindu religious offerings, specifically at a Shiva temple."
+    },
+    {
+      "term": "Rakkhoshi (implied by 'ogress')",
+      "category": "Mythological Creature",
+      "importance": "High",
+      "context_note": "The primary antagonist, a female demon or giantess from South Asian folklore, often possessing shape-shifting abilities and a taste for human flesh."
+    },
+    {
+      "term": "Payesh/Kheer (implied by 'sweet rice pudding')",
+      "category": "Food",
+      "importance": "Medium",
+      "context_note": "A traditional South Asian sweet dish, often made with rice, milk, and sugar, typically served on special occasions."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "Clear social stratification among the characters: King, Minister, Merchant, Kotwal, and their respective sons.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Filial Respect",
+      "description": "The prince bowing at his mother's feet after she reveals the truth, signifying deep respect and obedience.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Offering flowers and bel leaves at a Shiva temple before undertaking a perilous task, seeking divine blessing or protection.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food",
+      "description": "Specific traditional foods mentioned: sweet rice pudding, betel leaves (often chewed as a digestive or stimulant), and tamarind soup.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Symbolic Punishment",
+      "description": "Serving ashes instead of rice to idle sons, a culturally specific form of shaming or punishment for laziness.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Friendship/Hospitality",
+      "description": "The concept of 'friend Hasan' (bondhu Hasan) providing shelter and assistance, highlighting the importance of loyalty and hospitality.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Folklore/Supernatural Beliefs",
+      "description": "Detailed characteristics of ogres (smelling humans, specific death secrets, shape-shifting, consuming humans), magical wands, and talking animals (winged horse, Boal fish, parrot).",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation",
+      "description": "Introduction of the four idle friends, sons of prominent figures."
+    },
+    {
+      "function": "Interdiction",
+      "description": "The king and fathers order ashes to be served to their idle sons."
+    },
+    {
+      "function": "Violation",
+      "description": "The queen violates the order by serving her son sweet rice pudding. The sons violate the expectation by refusing to eat the ashes and leaving."
+    },
+    {
+      "function": "Departure",
+      "description": "The four friends decide to leave their country and set off on their horses."
+    },
+    {
+      "function": "Villainy",
+      "description": "An ogress devours the prince's three friends and their horses."
+    },
+    {
+      "function": "Struggle",
+      "description": "The prince attempts to fight the ogress but is overwhelmed and forced to flee."
+    },
+    {
+      "function": "Pursuit",
+      "description": "The ogress relentlessly pursues the prince across kingdoms."
+    },
+    {
+      "function": "Rescue",
+      "description": "A mango tree splits open to hide and protect the prince from the ogress."
+    },
+    {
+      "function": "Unrecognized Arrival",
+      "description": "The ogress, disguised as a beautiful woman, is found by a king and brought to his palace, becoming his queen."
+    },
+    {
+      "function": "Unfounded Claims",
+      "description": "The ogress queen feigns a 'bone-cracking disease' and demands the mango tree be cut down as a 'cure'."
+    },
+    {
+      "function": "Transfiguration",
+      "description": "The prince transforms into a mango and then a snail to escape the ogress queen's plots."
+    },
+    {
+      "function": "Lack",
+      "description": "The prince lacks the knowledge and means to defeat the ogress queen and restore his friends."
+    },
+    {
+      "function": "Mediation",
+      "description": "The king, manipulated by the ogress queen, sends the prince on a perilous quest for magical items ('medicines')."
+    },
+    {
+      "function": "Counteraction",
+      "description": "The prince, despite his reluctance and fear, agrees to undertake the quest."
+    },
+    {
+      "function": "Departure",
+      "description": "The prince departs on the quest for the magical items and the queen's father's country."
+    },
+    {
+      "function": "Donor",
+      "description": "A captive princess provides the prince with crucial information about the ogres' death secret and the ogress queen's life secret."
+    },
+    {
+      "function": "Receipt of a Magic Agent",
+      "description": "The prince obtains the palm-leaf sword and the knowledge of how to defeat the ogres and the ogress queen."
+    },
+    {
+      "function": "Struggle",
+      "description": "The prince climbs the golden palm tree, cuts the sword, breaks the crystal pillar, and confronts the seven-headed snake."
+    },
+    {
+      "function": "Victory",
+      "description": "The prince kills the seven-headed snake, leading to the instantaneous death of all ogres, including the old ogress."
+    },
+    {
+      "function": "Liquidation of Misfortune",
+      "description": "The princess is freed from her captivity and the threat of the ogres."
+    },
+    {
+      "function": "Return",
+      "description": "The prince returns to the king's court with the princess, the magical items, and the parrot."
+    },
+    {
+      "function": "Exposure",
+      "description": "The prince publicly exposes the queen's true identity as an ogress."
+    },
+    {
+      "function": "Transfiguration",
+      "description": "The ogress queen sheds her human disguise and reveals her monstrous form."
+    },
+    {
+      "function": "Punishment",
+      "description": "The prince kills the ogress queen by wringing the neck of the parrot, which holds her life-force."
+    },
+    {
+      "function": "Liquidation of Misfortune",
+      "description": "The ogress vomits up the prince's three friends and their horses, restoring them to life."
+    },
+    {
+      "function": "Wedding",
+      "description": "The prince takes the princess to his country, implying their union or marriage."
+    },
+    {
+      "function": "Happy Ending",
+      "description": "The prince, princess, and his friends return to their country and live happily ever after, cherished by their parents."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "Hero (The Prince)",
+      "Villain (The Ogress / Ogress Queen)",
+      "Helper/Mentor (The Princess, Friend Sokhi, Winged Horse, Mango Tree, Boal Fish, Householder's Wife)",
+      "Damsel in Distress (The Princess)",
+      "Loyal Friends (The three companions)",
+      "Wise Mother (The Prince's Mother)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Four idle friends are punished by their fathers, prompting them to leave home.",
+      "2. The prince learns the truth from his mother and departs with his friends.",
+      "3. An ogress devours the prince's three friends and their horses.",
+      "4. The prince flees the ogress and is miraculously rescued by a mango tree.",
+      "5. The ogress disguises herself as a beautiful woman, marries a king, and plots against the prince.",
+      "6. The prince undergoes magical transformations (mango, snail) to escape the ogress queen's schemes.",
+      "7. The prince finds a princess held captive and enchanted by a family of ogres.",
+      "8. The princess, through cunning, extracts the death secrets of the ogres and the ogress queen.",
+      "9. The prince, using the acquired knowledge, destroys all the ogres by killing a seven-headed snake.",
+      "10. The prince returns to the king's court, exposes the ogress queen, and kills her.",
+      "11. The prince's friends and horses are restored to life.",
+      "12. The prince, with the princess and his friends, returns to his kingdom and lives happily."
+    ],
+    "tone_and_moral": "The tone is adventurous and suspenseful, with elements of magic and danger, ultimately resolving into a triumphant and satisfying conclusion. The moral emphasizes that idleness can lead to misfortune, but courage, wisdom, and true friendship are powerful virtues that can overcome even the most formidable evil and deception."
+  }
+}

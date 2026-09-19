@@ -1,0 +1,246 @@
+{
+  "story_metadata": {
+    "title_suggested": "Kiranmala and the Mountain of Illusion",
+    "primary_theme": "Heroism, truth revealed, and restoration of justice"
+  },
+  "lexical_integrity": [
+    {
+      "term": "Kajallata",
+      "category": "Proper Noun (Animal)",
+      "importance": "High",
+      "context_note": "The name of the family cow, signifying its importance as a cherished member of the household, not just livestock."
+    },
+    {
+      "term": "Bom-Bom!",
+      "category": "Chant/Exclamation",
+      "importance": "Medium",
+      "context_note": "A devotional chant, often associated with Shiva worship, indicating a Brahmin's religious practice."
+    },
+    {
+      "term": "Mayadanava",
+      "category": "Mythological Figure",
+      "importance": "Medium",
+      "context_note": "A legendary architect/demon in Hindu mythology, invoked to emphasize the extraordinary beauty and skill of the palace's construction."
+    },
+    {
+      "term": "Vishwakarma",
+      "category": "Mythological Figure",
+      "importance": "Medium",
+      "context_note": "The divine architect/engineer of the gods in Hindu mythology, invoked to emphasize the palace's unparalleled grandeur."
+    },
+    {
+      "term": "sanyasi",
+      "category": "Social/Religious Role",
+      "importance": "High",
+      "context_note": "An ascetic or wandering renunciate, often possessing spiritual knowledge or magical abilities, serving as a catalyst or guide in folktales."
+    },
+    {
+      "term": "Payesh",
+      "category": "Food",
+      "importance": "Medium",
+      "context_note": "A traditional Bengali rice pudding, a staple sweet dish."
+    },
+    {
+      "term": "pitha",
+      "category": "Food",
+      "importance": "Medium",
+      "context_note": "Traditional Bengali cakes or pastries, often made from rice flour."
+    },
+    {
+      "term": "kheer",
+      "category": "Food",
+      "importance": "Medium",
+      "context_note": "A type of sweet milk-based pudding, similar to payesh but often thicker or with different ingredients."
+    },
+    {
+      "term": "ladoos",
+      "category": "Food",
+      "importance": "Medium",
+      "context_note": "Spherical Indian sweets, often made from flour, ghee, and sugar."
+    },
+    {
+      "term": "Indra",
+      "category": "Deity",
+      "importance": "Medium",
+      "context_note": "The king of the gods in Hindu mythology, whose celestial city (Indraloka) is a byword for splendor, used here to describe the palace's magnificence."
+    },
+    {
+      "term": "Ta kata dha kata / Vang vang chang / Jhan jhan / Khan khan",
+      "category": "Onomatopoeia/Rhythmic Sounds",
+      "importance": "Medium",
+      "context_note": "Representations of drum beats and cymbal clashes, adding a vivid, auditory dimension to the description of the illusionary attack."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The Brahmin's respected status and knowledge, and the clear distinction between commoners and royalty (king, prince/princess).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "The Brahmin's daily worship involving incense, bells, and chanting ('Bom-Bom!').",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Animal Care",
+      "description": "The affectionate naming and care for the cow, Kajallata, reflecting the cultural reverence for cows.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food",
+      "description": "Specific Bengali sweets and dishes mentioned (Payesh, pitha, kheer, ladoos) as celebratory or royal fare.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Architecture/Craftsmanship",
+      "description": "Descriptions of the palace's grandeur, materials (white marble, silver, gold, jewels), and comparison to mythical architects (Mayadanava, Vishwakarma).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Gender Role Transformation",
+      "description": "Kiranmala initially performs traditional domestic duties but later dresses as a prince to undertake a heroic quest, challenging conventional gender roles.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Justice/Punishment",
+      "description": "The specific, harsh punishment for the wicked sisters-in-law (buried under thorns upon thorny stakes), reflecting traditional folktale justice.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Asceticism/Wisdom",
+      "description": "The figure of the 'sanyasi' as a source of knowledge, challenge, or guidance, common in Indian folklore.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Absentations",
+      "description": "The Brahmin, the children's guardian, departs for the heavens, leaving them to fend for themselves."
+    },
+    {
+      "function": "Villainy (Implied Backstory)",
+      "description": "The king's wicked sisters-in-law had previously replaced the queen's children with animals/dolls, leading to the queen's banishment and the king's sorrow, which is the underlying misfortune of the kingdom."
+    },
+    {
+      "function": "Lack",
+      "description": "The king is sorrowful and his kingdom is 'shrouded in sin' due to the absence of his true heirs and queen. Later, Kiranmala expresses a desire for a grander palace, creating a new 'lack' of magical items."
+    },
+    {
+      "function": "Reconnaissance",
+      "description": "The lost king discovers the siblings' house and inquires about their identity."
+    },
+    {
+      "function": "Delivery",
+      "description": "Arun informs the king that they are children of a Brahmin."
+    },
+    {
+      "function": "Beginning Counteraction",
+      "description": "Arun and Barun undertake the task of building a magnificent palace at Kiranmala's request."
+    },
+    {
+      "function": "Donor's Function (Information)",
+      "description": "A sanyasi appears and describes the magical items (silver tree with golden fruits, pearl-fall water, golden bird in a diamond tree) needed to complete the palace's beauty, and the location (Mountain of Illusion)."
+    },
+    {
+      "function": "Interdiction (Implicit)",
+      "description": "The sanyasi's description of the 'Mountain of Illusion' and its 'arrows of illusion' implies a warning against succumbing to its deceptive powers."
+    },
+    {
+      "function": "Violation",
+      "description": "Arun and Barun, on their quest, turn to look back when called by illusions, violating the implicit interdiction and are turned to stone."
+    },
+    {
+      "function": "Villainy",
+      "description": "The illusions on the Mountain of Illusion turn Arun and Barun (and many other princes) into stone, causing harm and misfortune."
+    },
+    {
+      "function": "Departure",
+      "description": "Arun, then Barun, and finally Kiranmala depart from their home to seek the magical items and rescue their brothers."
+    },
+    {
+      "function": "Hero's Reaction",
+      "description": "Kiranmala, upon discovering her brothers' fate, resolves to undertake the perilous quest herself, demonstrating courage and determination."
+    },
+    {
+      "function": "Struggle",
+      "description": "Kiranmala faces and steadfastly resists the onslaught of demons, giants, and powerful illusions on the Mountain of Illusion, refusing to look back."
+    },
+    {
+      "function": "Receipt of Magic Agent",
+      "description": "The golden bird in the diamond tree provides Kiranmala with the necessary magical agents: spring water, a flower, itself, an arrow, a bow, and a drum, along with instructions."
+    },
+    {
+      "function": "Victory",
+      "description": "Kiranmala successfully overcomes all obstacles, reaches the diamond tree, and obtains the magical items and the golden bird."
+    },
+    {
+      "function": "Liquidation of Misfortune",
+      "description": "Kiranmala sprinkles the magical spring water, restoring her brothers and all the other princes who had been turned to stone."
+    },
+    {
+      "function": "Return",
+      "description": "Kiranmala, Arun, Barun, and the multitude of rescued princes return to the palace, bringing the magical items with them."
+    },
+    {
+      "function": "Unrecognized Arrival",
+      "description": "The king visits the magnificent, now complete palace, marveling at its splendor and the children, but does not recognize them as his own."
+    },
+    {
+      "function": "Difficult Task",
+      "description": "The golden bird presents the king with a 'feast' of gold coins and jewels, challenging his perception and setting the stage for the truth's revelation."
+    },
+    {
+      "function": "Solution",
+      "description": "The golden bird speaks, revealing the truth about the king's children, their royal lineage, and the deception perpetrated by his sisters-in-law."
+    },
+    {
+      "function": "Recognition",
+      "description": "The king, moved to tears, recognizes Arun, Barun, and Kiranmala as his long-lost children."
+    },
+    {
+      "function": "Exposure",
+      "description": "The wicked sisters-in-law's past deception of replacing the queen's children with animals and a doll is fully exposed."
+    },
+    {
+      "function": "Transfiguration",
+      "description": "The children are elevated to their rightful royal status, and their mother, the queen, is brought back and restored to her position."
+    },
+    {
+      "function": "Punishment",
+      "description": "The wicked sisters-in-law, along with the grass-cutter and cook who aided them, are severely punished for their crimes."
+    },
+    {
+      "function": "Wedding",
+      "description": "The king, queen, and their children (Arun, Barun, Kiranmala) are reunited and establish a new, just reign, living happily ever after, symbolizing the restoration of order and prosperity."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Hero (Kiranmala)",
+      "The Mentor/Helper (Golden Bird, Sanyasi initially)",
+      "The Villain (Illusions, Wicked Sisters-in-Law)",
+      "The Innocent (Arun, Barun, The Queen)",
+      "The Wise Old Man (The Brahmin)",
+      "The Royal Figure (The King)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Arun, Barun, and Kiranmala grow up in a Brahmin's home, cared for by Kiranmala.",
+      "2. The Brahmin departs for the heavens, leaving the siblings alone.",
+      "3. A sorrowful king, lost in a storm, finds the siblings' home and is impressed by them.",
+      "4. Kiranmala desires a grand palace, which Arun and Barun build with immense effort.",
+      "5. A sanyasi appears, describing magical items needed to complete the palace and the perilous Mountain of Illusion where they reside.",
+      "6. Arun and Barun embark on the quest but are turned to stone by illusions on the mountain.",
+      "7. Kiranmala, disguised as a prince, undertakes the quest, resisting all illusions and reaching the diamond tree.",
+      "8. A golden bird provides Kiranmala with magical items and instructions.",
+      "9. Kiranmala sprinkles water, restoring her brothers and all other princes turned to stone.",
+      "10. The siblings return to their palace and install the magical items, making it unparalleled.",
+      "11. The king visits the palace, still unaware of the siblings' true identity.",
+      "12. The golden bird reveals to the king that Arun, Barun, and Kiranmala are his long-lost children, exposing the wicked sisters-in-law's deception.",
+      "13. The king is reunited with his children and the queen.",
+      "14. The wicked sisters-in-law and their accomplices are punished.",
+      "15. The royal family lives happily ever after, ruling the kingdom."
+    ],
+    "tone_and_moral": "The tone is adventurous and magical, transitioning from initial domesticity to heroic quest and ultimately to triumphant justice. The moral emphasizes courage, perseverance, the power of truth, and the triumph of good over evil, particularly highlighting the strength and wisdom of a female protagonist."
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "story_metadata": {
+    "title_suggested": "Dalim Kumar and the Rakshasi Queen",
+    "primary_theme": "The triumph of good over evil, the restoration of rightful order, and the power of perseverance and familial bonds."
+  },
+  "lexical_integrity": [
+    {
+      "term": "Rakshasi",
+      "category": "Mythological Creature",
+      "importance": "High",
+      "context_note": "A female demon or ogress, a primary antagonist in the story."
+    },
+    {
+      "term": "Pasha",
+      "category": "Object/Game",
+      "importance": "High",
+      "context_note": "Dice; the Queen's life-force is contained within a pair of these, and the game of dice is central to the plot."
+    },
+    {
+      "term": "Bhikharini",
+      "category": "Social Role",
+      "importance": "Medium",
+      "context_note": "A beggar woman, the disguise used by the Rakshasi."
+    },
+    {
+      "term": "Tal gachh",
+      "category": "Flora",
+      "importance": "High",
+      "context_note": "Palm tree; its health is directly linked to the Queen's well-being."
+    },
+    {
+      "term": "Ashnaprasan",
+      "category": "Ritual",
+      "importance": "Medium",
+      "context_note": "First rice-eating ceremony for a child, a Hindu rite of passage."
+    },
+    {
+      "term": "Chura",
+      "category": "Ritual",
+      "importance": "Medium",
+      "context_note": "Hair-cutting ceremony, another Hindu rite of passage."
+    },
+    {
+      "term": "Upanayan",
+      "category": "Ritual",
+      "importance": "Medium",
+      "context_note": "Sacred thread ceremony, a significant Hindu rite of passage for boys."
+    },
+    {
+      "term": "Pakshiraj",
+      "category": "Mythological Creature/Magic Agent",
+      "importance": "High",
+      "context_note": "A mythical king of birds, serving as the hero's magical steed and helper."
+    },
+    {
+      "term": "Kouta",
+      "category": "Object",
+      "importance": "Medium",
+      "context_note": "A small box, used by the Rakshasi to store the Sutashankha-shap."
+    },
+    {
+      "term": "Sutashankha-shap",
+      "category": "Mythological Creature/Magic Agent",
+      "importance": "High",
+      "context_note": "A 'thread-conch-snake' that acts as an informant and later a magical antagonist."
+    },
+    {
+      "term": "Dalimer bije",
+      "category": "Object/Flora",
+      "importance": "High",
+      "context_note": "Pomegranate seed; the elder prince's life-force is hidden within it."
+    },
+    {
+      "term": "Sotiner put",
+      "category": "Kinship Term",
+      "importance": "High",
+      "context_note": "Step-son; a derogatory term used by the Rakshasi for the elder prince."
+    },
+    {
+      "term": "Hajar sirir dhap",
+      "category": "Architecture/Magic Object",
+      "importance": "High",
+      "context_note": "Thousand steps; a specific architectural feature of the palace where the prince's life-force is hidden, linked to the Rakshasi's power."
+    },
+    {
+      "term": "Paat hati",
+      "category": "Animal/Magic Agent",
+      "importance": "High",
+      "context_note": "Royal elephant; a magical elephant that chooses the new king in the cursed city."
+    },
+    {
+      "term": "Kori Pahar",
+      "category": "Geographical Feature/Obstacle",
+      "importance": "Medium",
+      "context_note": "Shell mountain; a magical obstacle encountered by the hero on his journey."
+    },
+    {
+      "term": "Harer Pahar",
+      "category": "Geographical Feature/Obstacle",
+      "importance": "Medium",
+      "context_note": "Bone mountain; another magical obstacle on the hero's journey."
+    },
+    {
+      "term": "Rakta Nodi",
+      "category": "Geographical Feature/Obstacle",
+      "importance": "Medium",
+      "context_note": "Blood river; a terrifying magical obstacle on the hero's journey."
+    },
+    {
+      "term": "Biraler chhana",
+      "category": "Animal/Magic Agent",
+      "importance": "High",
+      "context_note": "Kitten; a seemingly ordinary animal that acts as a crucial helper in defeating the mouse."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The presence of a King, Queen, Princes, and a royal court (ministers, soldiers) reflects a monarchical social structure.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Hindu rites of passage like Ashnaprasan (first rice-eating), Chura (hair-cutting), and Upanayan (sacred thread ceremony) are mentioned for the younger princes.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief",
+      "description": "The concept of a person's 'life-force' (ayu) being tied to an external object (dice, pomegranate seed) is a common motif in folklore, particularly South Asian.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Mythology",
+      "description": "The inclusion of creatures like Rakshasi (ogress), Pakshiraj (mythical bird-king), Sutashankha-shap (magical snake), and references to Yakhsha, Raksha, Danav (demonic beings) are deeply rooted in South Asian mythology.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Game",
+      "description": "The game of 'Pasha' (dice) is not just a pastime but a central magical element, determining fate and power.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Kinship",
+      "description": "The term 'Sotiner put' (step-son) highlights specific family dynamics and potential animosity within a polygamous or remarried context, common in historical royal settings.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Architecture",
+      "description": "The 'Hajar Sirir Dhap' (thousand steps) and 'Rajpuri' (palace) are specific architectural elements imbued with magical significance.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Absentations",
+      "description": "The King departs for hunting, leaving the Queen and Prince vulnerable."
+    },
+    {
+      "function": "Interdiction",
+      "description": "An implicit interdiction exists to protect the Queen's life-force (the dice)."
+    },
+    {
+      "function": "Violation",
+      "description": "The Prince, unaware, gives away the dice to the disguised Rakshasi."
+    },
+    {
+      "function": "Villainy",
+      "description": "The Rakshasi eats the Queen, takes her form, and sends away the dice. Later, she attempts to kill the elder prince and causes the younger brothers to be eaten by Pashabati."
+    },
+    {
+      "function": "Detection",
+      "description": "The Prince detects the impostor Queen by observing a drop of saliva."
+    },
+    {
+      "function": "Lack",
+      "description": "The true Queen is missing, replaced by an impostor. The Prince's life-force is threatened, and his brothers are lost."
+    },
+    {
+      "function": "Mediation",
+      "description": "The King sends for the elder prince to join his brothers on their journey."
+    },
+    {
+      "function": "Departure",
+      "description": "The eight princes depart for country travel. Later, the elder prince departs to rescue his brothers."
+    },
+    {
+      "function": "Receipt of a Magical Agent",
+      "description": "The elder prince receives the Pakshiraj (mythical bird) for travel. The Rakshasi uses Sutashankha-shap and a magical pomegranate. The Prince later uses a magical sword, a kitten, and the talking dice."
+    },
+    {
+      "function": "Transference",
+      "description": "Sutashankha and the letter are transferred to the princess. The blind prince is transferred to the cursed city. The princes are transferred to Pashabati's kingdom."
+    },
+    {
+      "function": "Struggle",
+      "description": "The Prince struggles against the magical snake (Sutashankha). He engages in a dice game with Pashabati. He overcomes dangerous geographical obstacles on his journey."
+    },
+    {
+      "function": "Victory",
+      "description": "The Prince defeats the snake, regains his sight, and wins the dice games against Pashabati."
+    },
+    {
+      "function": "Liquidation of Misfortune/Lack",
+      "description": "The Queen is revived, the Prince regains his sight, the Rakshasi is defeated, the brothers are rescued, the Pakshiraj is revived, and the curses are lifted."
+    },
+    {
+      "function": "Recognition",
+      "description": "The elephant recognizes the blind prince as king. The Prince recognizes his own dice. The Queen recognizes her sons upon their return. The people recognize their true king."
+    },
+    {
+      "function": "Exposure",
+      "description": "The letter found inside the snake exposes the Rakshasi's plot and the fate of the brothers."
+    },
+    {
+      "function": "Transfiguration",
+      "description": "The Prince regains his sight. The Queen's life-force manifests as a golden pomegranate tree."
+    },
+    {
+      "function": "Punishment",
+      "description": "The Rakshasi turns into a mouse and flees. Pashabati and her sisters turn into worms and die."
+    },
+    {
+      "function": "Wedding",
+      "description": "The Prince marries the princess of the cursed city, breaking her curse."
+    },
+    {
+      "function": "Return",
+      "description": "The eight princes return to their kingdom."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Hero (Dalim Kumar)",
+      "The Villain (Rakshasi, Pashabati and her sisters)",
+      "The Mentor/Helper (Pakshiraj, Sutashankha-shap as informant, the magical sword, the kitten, the royal elephant, the talking dice)",
+      "The Innocent Victim (The Queen, the cursed Princess, the younger brothers)",
+      "The Impostor (The Rakshasi in the Queen's form)"
+    ],
+    "atomic_plot_nodes": [
+      "1. The Rakshasi steals the Queen's life-force (dice) and replaces her.",
+      "2. The elder Prince detects the impostor Queen.",
+      "3. The Rakshasi curses the elder Prince's life-force (pomegranate seed) and sends an agent (Sutashankha) to Pashabati's kingdom.",
+      "4. The elder Prince becomes blind, and his seven younger brothers are eaten by Pashabati.",
+      "5. The blind Prince, guided by fate, becomes king of a cursed city and marries its princess.",
+      "6. The Prince defeats the magical snake (Sutashankha) within the princess, regains his sight, and the true Queen revives.",
+      "7. The Prince discovers the Rakshasi's plot via a letter and sets out to rescue his brothers.",
+      "8. The Prince overcomes perilous journeys and defeats Pashabati in a dice game, rescuing his brothers and retrieving the original dice.",
+      "9. The eight princes return to their kingdom, all curses are lifted, and order is fully restored."
+    ],
+    "tone_and_moral": "The tone is adventurous, magical, and suspenseful, characteristic of a classic folktale. It carries a strong moral message emphasizing courage, intelligence, perseverance, and the ultimate triumph of good over evil. It also subtly highlights the importance of vigilance against deception and the strength of familial bonds."
+  }
+}

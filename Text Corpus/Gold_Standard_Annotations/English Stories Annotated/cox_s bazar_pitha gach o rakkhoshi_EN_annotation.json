@@ -1,0 +1,128 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Pitha Tree and the Ogress",
+    "primary_theme": "The triumph of wit over evil and the gruesome punishment of greed."
+  },
+  "lexical_integrity": [
+    {
+      "term": "Pitha",
+      "category": "Food",
+      "importance": "High",
+      "context_note": "A traditional Bengali rice cake or dumpling, central to the plot; 'pancake' or 'cake' captures the meaning but loses the specific cultural emotion associated with a mother making pithas."
+    },
+    {
+      "term": "Rakkhoshi",
+      "category": "Mythological Figure",
+      "importance": "High",
+      "context_note": "translated here as 'Ogress'. A female Rakshasa, a man-eating demon of Hindu mythology/Bengali folklore, known for gluttony and shape-shifting."
+    },
+    {
+      "term": "Ghutila",
+      "category": "Proper Name",
+      "importance": "Medium",
+      "context_note": "The specific name of the Ogress's daughter-in-law, preserved to maintain character identity."
+    },
+    {
+      "term": "Betel leaves",
+      "category": "Food/Cultural Item",
+      "importance": "Medium",
+      "context_note": "Refers to 'Paan'. Serving or fetching betel leaf after a meal is a standard social custom in Bengal, used here as a pretext for escape."
+    },
+    {
+      "term": "Merchant",
+      "category": "Occupation",
+      "importance": "Medium",
+      "context_note": "A merchant, who acts as a helpful stranger for the boy's final escape."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Food Culture",
+      "description": "The mother planting a 'pitha' to grow a tree reflects the deep cultural obsession with this specific food item in Bengali folklore, bridging the domestic with the magical.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Family Structure",
+      "description": "The Ogress lives in a joint family structure (daughter-in-law, in-laws), mirroring human rural society even within the monster world.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Clothing/Custom",
+      "description": "The boy uses a 'veil' (ghomta) to disguise himself as the daughter-in-law, exploiting the cultural norm of modest dress for married women.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual/Social Custom",
+      "description": "The act of eating together as a family, which the boy exploits for his escape, highlighting communal dining practices.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Geography",
+      "description": "The escape via a merchant's boat at a river landing (ghat) anchors the story in the riverine landscape of Bengal.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Lack (VIIIa)",
+      "description": "The story begins with poverty and the boy's intense desire for pithas, which the mother struggles to provide."
+    },
+    {
+      "function": "Receipt of a Magic Agent (XIV)",
+      "description": "The mother plants a pitha, and a magical tree grows that bears pithas like fruit, solving the initial lack."
+    },
+    {
+      "function": "Trickery (VI)",
+      "description": "The Ogress attempts to deceive the boy using sweet words and excuses to get him to come closer/throw pithas."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The Ogress successfully captures the boy and puts him in a sack to take him home to be eaten."
+    },
+    {
+      "function": "Struggle/Escape (H)",
+      "description": "The boy cuts open the sack while the Ogress is distracted and fills it with thorns and stones to escape the first time."
+    },
+    {
+      "function": "Pursuit (Pr)",
+      "description": "The Ogress returns, recaptures the boy, and takes him home, ordering her daughter-in-law to cook him."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The boy outwits the Ogress by killing her daughter-in-law, cooking her instead, and disguising himself."
+    },
+    {
+      "function": "Unrecognized Arrival (o)",
+      "description": "The boy, disguised as the wife, serves the meal to the Ogress and her family, who do not recognize him."
+    },
+    {
+      "function": "Exposure (Ex)",
+      "description": "The Ogress eats her own kin; the boy reveals the truth through a rhyme from the safety of the boat."
+    },
+    {
+      "function": "Punishment (U)",
+      "description": "The Ogress is left wailing, having eaten her own daughter-in-law and lost her prey."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Trickster Hero (The Boy)",
+      "The Devouring Mother/Monster (The Ogress)",
+      "The Gullible Villain",
+      "Helpful Stranger (Merchant)",
+      "Naive Victim (Ghutilla, the Rakkhushi's daughter-in-law)"
+    ],
+    "atomic_plot_nodes": [
+      "1. A poor mother plants a pitha, which grows into a magical pitha tree for her son.",
+      "2. An Ogress lures the boy from the tree and captures him in a sack.",
+      "3. The boy escapes the sack, filling it with thorns and stones that torment the Ogress.",
+      "4. The Ogress recaptures the boy and orders her daughter-in-law to cook him.",
+      "5. The boy beheads the daughter-in-law, cooks her, and disguises himself as her.",
+      "6. The boy cooks Ghutilla's body and serves it to the unsuspecting Rakkhushi family.",
+      "7. The wife's sister notices a physical resemblance (hand/eye) in the food but is silenced.",
+      "8. The boy excuses himself to 'fetch betel leaves' and escapes on a merchant's boat.",
+      "9. The boy reveals the gruesome truth with a rhyme; the Ogress is left in despair."
+    ],
+    "tone_and_moral": "The tone is dark, macabre, and humorous (black comedy). The moral suggests that wit and presence of mind can defeat superior physical strength, and that evil (the Ogress) ultimately consumes itself."
+  }
+}

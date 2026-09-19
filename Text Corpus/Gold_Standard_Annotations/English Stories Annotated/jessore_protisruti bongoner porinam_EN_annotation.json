@@ -1,0 +1,119 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Consequence of a Broken Promise",
+    "primary_theme": "Divine retribution and the fatal consequences of breaking supernatural interdictions."
+  },
+  "lexical_integrity": [
+    {
+      "term": "Mathabhanga river",
+      "category": "Geographical Proper Noun",
+      "importance": "High",
+      "context_note": "A specific river in Bengal, anchoring the story to a particular region."
+    },
+    {
+      "term": "Ghat",
+      "category": "Architectural/Geographical Term",
+      "importance": "High",
+      "context_note": "Refers to a set of steps leading down to a river or pond, common in South Asia, serving as a landing or bathing place. 'Kazis' ghat' specifies a particular one."
+    },
+    {
+      "term": "Kazi",
+      "category": "Socio-religious Title",
+      "importance": "Medium",
+      "context_note": "A traditional Muslim judge or scholar, indicating a specific type of respected figure or family associated with the ghat."
+    },
+    {
+      "term": "Goddess",
+      "category": "Deity",
+      "importance": "High",
+      "context_note": "Goddess, central to the established custom and the source of the initial conflict and punishment."
+    },
+    {
+      "term": "Fairy",
+      "category": "Supernatural Being",
+      "importance": "High",
+      "context_note": "Fairy or nymph, a mythical female spirit often associated with nature and possessing magical abilities."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Ritual/Religious Practice",
+      "description": "The prevailing custom of offering a portion of goods to a goddess for safe passage, indicating local folk religious practices and beliefs in river deities or guardians.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food/Agriculture",
+      "description": "Specific produce mentioned (eggplants, radishes, jackfruits, wood apples) are common in the Bengali region, grounding the story in local agricultural context.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Supernatural Belief",
+      "description": "The presence of 'fairies' (often 'Pori' in Bengali folklore) as guardians or enforcers of divine will, reflecting local supernatural beliefs.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation (α)",
+      "description": "The story begins by establishing a prevailing custom: merchant vessels offer goods to a goddess at the Mathabhanga river confluence."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "A merchant disrespects the goddess by offering nothing and making insulting remarks, an act of transgression against the established custom and deity."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "As a direct consequence of the villainy, the merchant's cargo-laden boat sinks, creating a problem that needs resolution."
+    },
+    {
+      "function": "Departure (C)",
+      "description": "After divers fail, a brave man volunteers to descend into the river's depths to recover the boat, departing from the ordinary world."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "In the river's depths, the man encounters a golden boat and two fairies, who are supernatural beings capable of providing aid and information."
+    },
+    {
+      "function": "Guidance (G)",
+      "description": "The fairies provide crucial information, instructing the man to find the boat at the 'Kazis' ghat'."
+    },
+    {
+      "function": "Interdiction (η)",
+      "description": "The fairies impose a strict prohibition: the man 'must not tell anyone about this; if you do, you will vomit blood and die'."
+    },
+    {
+      "function": "Return (R)",
+      "description": "The man successfully returns from the river's depths, and the boat is indeed found at the specified 'Kazis' ghat'."
+    },
+    {
+      "function": "Violation (θ)",
+      "description": "The man breaks the interdiction by telling his wife what had happened."
+    },
+    {
+      "function": "Punishment (U)",
+      "description": "As prophesied by the fairies, the man vomits blood and dies, suffering the fatal consequence of his violation."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Transgressor (initial merchant)",
+      "The Brave Seeker (the man who descends)",
+      "The Punishing Deity (River Goddess)",
+      "The Supernatural Helper/Donor (Fairies)",
+      "The Catalyst/Temptress (the wife, whose presence leads to the hero's downfall)"
+    ],
+    "atomic_plot_nodes": [
+      "1. A custom of offering goods to a goddess exists at the confluence of the Mathabhanga river.",
+      "2. A merchant disrespects the goddess by withholding offerings and making insults.",
+      "3. The merchant's boat sinks as divine punishment.",
+      "4. Divers fail to measure the river's depth or recover the boat.",
+      "5. A brave man volunteers to descend into the river.",
+      "6. He finds a golden boat and two fairies pulling on the rope.",
+      "7. The fairies agree to return the boat on condition of absolute secrecy, threatening death if the secret is revealed.",
+      "8. The boat is found at the Kazi's ghat.",
+      "9. He breaks his vow of secrecy by confiding in his wife.",
+      "10. The man vomits blood and dies as foretold."
+    ],
+    "tone_and_moral": "The tone is cautionary and fatalistic, emphasizing the severe and unavoidable consequences of disrespecting divine entities or breaking supernatural promises. The moral underscores the importance of respecting local customs and deities, and the dire repercussions of revealing secrets entrusted by supernatural beings."
+  }
+}

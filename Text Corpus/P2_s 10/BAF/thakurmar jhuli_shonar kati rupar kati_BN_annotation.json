@@ -1,0 +1,245 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Prince, the Ogre Queen, and the Magic Sticks",
+    "primary_theme": "Triumph over Evil and Restoration of Order"
+  },
+  "lexical_integrity": [
+    {
+      "term": "তেপামত্মরের মাঠ",
+      "category": "Mythical Geography",
+      "importance": "High",
+      "context_note": "A vast, endless, mythical field, often a liminal space in Bengali folklore."
+    },
+    {
+      "term": "পক্ষীরাজ",
+      "category": "Mythical Creature",
+      "importance": "High",
+      "context_note": "A mythical winged horse, often a companion to heroes."
+    },
+    {
+      "term": "হাসন সখী",
+      "category": "Social Role/Relationship",
+      "importance": "Medium",
+      "context_note": "A specific term for a female friend or companion, often implying a deep, platonic bond or a helper role."
+    },
+    {
+      "term": "হাসন চাঁপা নাটন কাটি, চিরণ দাঁতের চিকণ পাটি, আর বারো হাত কাঁকুড়ের তেরো হাত বিচি",
+      "category": "Magical Items/Quest Objects",
+      "importance": "High",
+      "context_note": "A series of impossible or magical items, often demanded by villains in folklore as a 'difficult task'."
+    },
+    {
+      "term": "শুক",
+      "category": "Magical Creature/Life-Source",
+      "importance": "High",
+      "context_note": "A parrot, specifically one that holds the life-force of the Ogre Queen, a common motif in Bengali tales."
+    },
+    {
+      "term": "স্ফটিকস্তম্ভ",
+      "category": "Magical Object",
+      "importance": "High",
+      "context_note": "A crystal pillar, serving as a container for the collective life-force of the Rakshasas."
+    },
+    {
+      "term": "সাতফণা সাপ",
+      "category": "Mythical Creature/Life-Source",
+      "importance": "High",
+      "context_note": "A seven-headed serpent, the collective life-force of the Rakshasas, hidden within the crystal pillar."
+    },
+    {
+      "term": "তালপত্র খাঁড়া",
+      "category": "Magical Weapon",
+      "importance": "High",
+      "context_note": "A sword made from a palm leaf, required to defeat the seven-headed serpent."
+    },
+    {
+      "term": "হাড়মুড়মুড়ীর ব্যারাম",
+      "category": "Fictional Illness",
+      "importance": "High",
+      "context_note": "A made-up illness, literally 'bone-crunching disease', used by the Ogre Queen to manipulate the King."
+    },
+    {
+      "term": "মরণকাম্ড়ি",
+      "category": "Figurative Expression",
+      "importance": "High",
+      "context_note": "Literally 'death-bite' or 'death-grip', referring to a final, desperate, destructive act of a dying villain."
+    },
+    {
+      "term": "আঁই লো মাঁই লো, মানুষের গন্ধ পাঁই লৌ। ধরে ধরে খাঁই লৌ!",
+      "category": "Ogre's Chant",
+      "importance": "High",
+      "context_note": "The characteristic chant of the Rakshasas, indicating their detection of human presence and intent to devour."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The social structure of King, Minister, Merchant (Soudagor), and Kotwal (police chief/guard captain) and their respective sons, reflecting traditional South Asian societal roles.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food",
+      "description": "Specific Bengali foods like 'পরমান্ন' (Paramanna - sweet rice pudding) for special occasions, and 'সাত বাসি পামত্মা, চৌদ্দ বাসি তেঁতুলের অম্বল' (Saat basi pamotma, chouddo basi tetuler ombol - seven-day old fermented rice water, fourteen-day old tamarind sour curry) used for the Ogre Queen's fake illness.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual/Custom",
+      "description": "'মায়ের পায়ে প্রণাম করিয়া' (Mayer paye pronam koriya - bowing at mother's feet for blessings) signifies respect and seeking parental blessings before a significant undertaking.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Clothing",
+      "description": "'পাগড়ীর কাপড়' (Pagrir kapur - turban cloth) being torn to make flags, a practical and symbolic act of camaraderie and marking territory.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Architecture/Religion",
+      "description": "'শিব-মন্দির' (Shiv-mandir - Shiva temple) serving as a sacred hiding place, reflecting the prevalence of Hindu religious structures and beliefs.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Superstition/Belief",
+      "description": "Invoking the power of a 'সত্যকালের বৃক্ষ' (Sottyokaler Brikkho - tree of truth/ancient tree) for protection, indicating animistic or nature-worshipping beliefs.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Role",
+      "description": "'গৃহস্থের বৌ' (Grihosther Bou - householder's wife) as a common female role, who becomes a pivotal helper (Hason Sokhi) for the Prince.",
+      "is_replaceable": true
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation (α)",
+      "description": "Introduction of the four idle friends (Prince, Minister's son, Merchant's son, Kotwal's son)."
+    },
+    {
+      "function": "Interdiction (δ)",
+      "description": "The fathers, annoyed by their sons' idleness, forbid them proper food, ordering ash to be served instead."
+    },
+    {
+      "function": "Violation (ε)",
+      "description": "The sons are offered ash, leading to their decision to leave home."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The four friends leave their home country on horseback."
+    },
+    {
+      "function": "Spatial Transference (C)",
+      "description": "They travel to a vast, mythical field ('Tepantorer Math') and then to a dense forest."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "A Rakshasi (ogre) in the forest kills and consumes the three friends and their horses."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The Prince is left alone, his friends are gone, and he is pursued by the Rakshasi."
+    },
+    {
+      "function": "Pursuit (Pr)",
+      "description": "The Rakshasi relentlessly pursues the fleeing Prince."
+    },
+    {
+      "function": "Rescue (Rs)",
+      "description": "The mango tree, then a Boal fish, and finally a snail provide temporary refuge and escape for the Prince through magical transformations."
+    },
+    {
+      "function": "Donor (D)",
+      "description": "A householder's wife (Grihosther Bou) breaks the snail, releasing the Prince, and becomes his 'Hason Sokhi' (helper/companion)."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The Ogre Queen (the same Rakshasi in disguise) creates a new lack by feigning a severe illness and demanding impossible items."
+    },
+    {
+      "function": "Difficult Task (M)",
+      "description": "The King, manipulated by the Ogre Queen, assigns the Prince the seemingly impossible task of finding 'Hason Champa Naton Kati, Chiron Dater Chikon Pati, Baro Haat Kakurer Tero Haat Bichi'."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The Prince departs on the quest for the magical items."
+    },
+    {
+      "function": "Spatial Transference (C)",
+      "description": "The Prince travels to a distant 'purie' (palace) inhabited by Rakshasas."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "The Prince discovers the Princess, kept alive by 'Shonar Kati Rupar Kati' (magic sticks), and uses them to revive her."
+    },
+    {
+      "function": "Donor (D)",
+      "description": "The Princess (Rajkanya) provides crucial information about the Rakshasas' collective weakness (seven-headed serpent in a crystal pillar) and the Ogre Queen's life-source (a parrot)."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The Prince, guided by the Princess, confronts the Rakshasas by destroying their collective life-source (the seven-headed serpent)."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The Prince successfully defeats all the Rakshasas by destroying their life-source."
+    },
+    {
+      "function": "Liquidation of Misfortune or Lack (K)",
+      "description": "The Princess is freed, and the magical items demanded by the Ogre Queen are retrieved from the Rakshasa's palace."
+    },
+    {
+      "function": "Return (↓)",
+      "description": "The Prince returns to the King's court with the Princess and the retrieved items."
+    },
+    {
+      "function": "Unfounded Claims (L)",
+      "description": "The Ogre Queen continues her charade of illness and demands the items be brought to her."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "The King and the court recognize the Ogre Queen's true nature as a Rakshasi."
+    },
+    {
+      "function": "Transfiguration (T)",
+      "description": "The Ogre Queen reveals her monstrous form as her life-source is threatened."
+    },
+    {
+      "function": "Punishment (U)",
+      "description": "The Ogre Queen is killed by the destruction of her life-source (the parrot)."
+    },
+    {
+      "function": "Liquidation of Misfortune or Lack (K)",
+      "description": "The three friends and their horses are restored to life, and all Rakshasas are permanently destroyed."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "The Prince takes the Princess to his country, implying their marriage and union."
+    },
+    {
+      "function": "Reward (N)",
+      "description": "The King offers riches, which the Prince rejects, choosing instead to return home with his friends and the Princess."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "Hero (Rajputra)",
+      "Villain (Rakshasi / Ogre Queen)",
+      "Helper/Mentor (Rajkanya, Hason Sokhi, Amgach, Boal, Shamuk, Ayi - the old Rakshasi, unwittingly)",
+      "Companions (Mantriputra, Sodagorputra, Kotalputra)",
+      "The Wise Old Woman (Ayi, the old Rakshasi, who reveals the secret of the Rakshasas' death)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Four idle friends are rejected by their parents and depart from home.",
+      "2. They get lost in a forest where a Rakshasi kills and consumes three of them.",
+      "3. The Prince flees, saved by magical transformations (tree, fish, snail) and a householder's wife.",
+      "4. The Rakshasi, disguised as a Queen, feigns illness and demands impossible magical items.",
+      "5. The Prince embarks on a quest for these items, leading him to a Rakshasa's palace.",
+      "6. He discovers a Princess kept alive by magic sticks and revives her.",
+      "7. The Princess reveals the secrets of the Rakshasas' collective life-source (serpent in a crystal pillar) and the Ogre Queen's individual life-source (a parrot).",
+      "8. The Prince destroys the Rakshasas' collective life-source, defeating them all.",
+      "9. The Prince returns to the King's court with the Princess and the demanded items.",
+      "10. The Prince exposes the Ogre Queen's true identity and kills her by destroying her life-source (the parrot).",
+      "11. The three friends and their horses are miraculously restored to life.",
+      "12. The Prince, Princess, and his friends return to their country and live happily ever after."
+    ],
+    "tone_and_moral": "The tone is adventurous and suspenseful, imbued with magic and danger, but ultimately triumphant. The moral emphasizes that courage, wit, and perseverance can overcome overwhelming evil, that friendship is invaluable, and that justice will ultimately prevail, restoring order and happiness."
+  }
+}

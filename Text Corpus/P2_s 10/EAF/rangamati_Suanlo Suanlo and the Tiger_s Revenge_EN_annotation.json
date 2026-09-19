@@ -1,0 +1,219 @@
+{
+  "story_metadata": {
+    "title_suggested": "Suanlo Suanlo and the Tiger's Revenge",
+    "primary_theme": "Revenge, Divine Justice, and Filial Piety"
+  },
+  "lexical_integrity": [
+    {
+      "term": "ghila",
+      "category": "Plant/Object",
+      "importance": "High",
+      "context_note": "A creeper, central to the initial competition and oath."
+    },
+    {
+      "term": "Mala pig",
+      "category": "Animal/Local Term",
+      "importance": "Medium",
+      "context_note": "A specific type of pig encountered by the brothers, possibly a local breed or term."
+    },
+    {
+      "term": "Debi",
+      "category": "Character Name/Title",
+      "importance": "High",
+      "context_note": "An antagonistic female character, possibly a powerful woman or witch figure, who tricks the brothers."
+    },
+    {
+      "term": "Pakhiyan",
+      "category": "Deity/Creator",
+      "importance": "High",
+      "context_note": "The Creator or God, invoked by the sister and acting as Suanlo's divine father."
+    },
+    {
+      "term": "amloki",
+      "category": "Fruit",
+      "importance": "High",
+      "context_note": "Indian gooseberry, consumed by the sister, leading to Suanlo's miraculous conception."
+    },
+    {
+      "term": "Suanlo Suanlo",
+      "category": "Character Name",
+      "importance": "High",
+      "context_note": "The protagonist's name, derived from 'amloki', signifying his origin."
+    },
+    {
+      "term": "mim",
+      "category": "Plant",
+      "importance": "Medium",
+      "context_note": "A slippery cultivated plant, used by Suanlo for training to enhance his agility."
+    },
+    {
+      "term": "Ku-ku-ru-ku",
+      "category": "Onomatopoeia",
+      "importance": "Low",
+      "context_note": "The sound of a rooster crowing, used in the rooster's challenge."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Ritual",
+      "description": "Oath-taking ceremony enforced by the father, highlighting the sanctity of a promise ('A man has one word, not two').",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Object/Tool",
+      "description": "Machete (dao) as a common tool for cutting and a weapon, central to the initial competition.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Competition",
+      "description": "Ghila creeper cutting competition, a feat of strength and skill.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Practice",
+      "description": "Exile or abandonment to a dangerous place (hut by tiger's path) as a form of punishment.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Family Role",
+      "description": "Daughter's filial duty to bring food to her exiled father.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Settlement Type",
+      "description": "Specific village types like 'rooster village', 'Mala pig village', 'cowherd village', 'cow village', indicating local economy or animal husbandry.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food/Ritual",
+      "description": "Cooking and eating rice, a staple food. The horrific act of cooking and eating 'father's flesh' by Debi.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Domestic Activity",
+      "description": "Drying paddy on a bamboo platform, a common rural household chore.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Role",
+      "description": "Midwife (dhai ma) assisting in childbirth and naming the child.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Naming Convention",
+      "description": "Naming a child based on the circumstances of their birth (Suanlo Suanlo from amloki).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Stigma",
+      "description": "Taunting a child for being 'fatherless', reflecting societal values regarding family structure.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Religious Belief",
+      "description": "Invocation of Pakhiyan (the Creator/God) as a divine father figure and source of miraculous aid.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Agricultural Practice",
+      "description": "Cultivation of 'mim' (a wheat-like plant) and its use in training, suggesting local agricultural knowledge.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Domestic Tool",
+      "description": "Rice-husking pedal, a traditional household implement where Debi hides.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Mythological Motif",
+      "description": "Ascension to the sky via a ladder, a common motif for divine departure or connection.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Interdiction",
+      "description": "The father makes his five sons swear an oath regarding the ghila creeper cutting competition."
+    },
+    {
+      "function": "Violation",
+      "description": "The five sons conspire to blunt their father's machete, causing him to fail the oath."
+    },
+    {
+      "function": "Villainy",
+      "description": "The five sons abandon their father to the tigers, leading to his death. Later, Debi tricks the five brothers, blunts their arrows, and leads them to their death by tigers."
+    },
+    {
+      "function": "Departure",
+      "description": "The father departs to the hut by the tiger's path. The five brothers depart to avenge their father. Suanlo Suanlo departs to avenge his uncles."
+    },
+    {
+      "function": "Receipt of a magical agent",
+      "description": "The father's roaring ability temporarily scares away tigers. The amloki fruit leads to Suanlo's miraculous conception. Pakhiyan provides Suanlo with a stone ghila, and later a bow, arrows, and a ladder from the sky."
+    },
+    {
+      "function": "Struggle",
+      "description": "The father struggles against the tigers (initially successful, then fails). The five brothers struggle against various challenges and ultimately fail against the tigers. Suanlo Suanlo successfully struggles against Debi and the tigers."
+    },
+    {
+      "function": "Victory",
+      "description": "Suanlo Suanlo kills all the tigers, including the chief tigress, and defeats Debi."
+    },
+    {
+      "function": "Return",
+      "description": "Suanlo Suanlo returns home with the head of the chief tigress as proof of his victory."
+    },
+    {
+      "function": "Pursuit",
+      "description": "The tigers pursue the father and later the five brothers, leading to their deaths."
+    },
+    {
+      "function": "Rescue",
+      "description": "The daughter brings food to her father, temporarily sustaining him. Suanlo Suanlo rescues the family honor by avenging his father and uncles."
+    },
+    {
+      "function": "Unfounded Claims",
+      "description": "Debi claims she will keep the five brothers' arrows safe, but her true intention is to destroy them."
+    },
+    {
+      "function": "Difficult Task",
+      "description": "The task of avenging the father/uncles. Suanlo's rigorous training on the slippery mim to prepare for his challenge."
+    },
+    {
+      "function": "Solution",
+      "description": "Suanlo Suanlo successfully completes the difficult task of avenging his uncles and restoring justice."
+    },
+    {
+      "function": "Recognition",
+      "description": "Suanlo's mother recognizes his heroic deed upon seeing the tigress's head he brought back."
+    },
+    {
+      "function": "Transfiguration",
+      "description": "Suanlo Suanlo ascends to the sky via a ladder provided by his divine father, Pakhiyan, signifying his transformation or divine origin."
+    },
+    {
+      "function": "Punishment",
+      "description": "The father's exile and death. The five brothers' death due to their deceit and failure. Debi's defeat and forced hiding. The mother's death as a consequence of her 'improper act' and grief."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Hero (Suanlo Suanlo)",
+      "The Villain/Trickster (Debi, the five brothers in their initial act)",
+      "The Wise Mother/Mentor (Suanlo's mother)",
+      "The Divine Father/Creator (Pakhiyan)",
+      "The Sacrificial Figure (The father, the five brothers)",
+      "The Loyal Daughter/Sister (The daughter who brings food)"
+    ],
+    "atomic_plot_nodes": [
+      "1. The five sons conspire to make their father fail an oath, leading to his exile.",
+      "2. The father is killed by tigers after being abandoned by his sons.",
+      "3. The five brothers attempt to avenge their father but are tricked by Debi and killed by tigers.",
+      "4. The helpless sister miraculously conceives Suanlo Suanlo after eating an amloki fruit.",
+      "5. Suanlo Suanlo grows up, is guided by his mother, and trains to avenge his uncles.",
+      "6. Suanlo Suanlo defeats Debi and successfully kills all the tigers, avenging his family.",
+      "7. Suanlo Suanlo ascends to the sky, and his mother dies shortly after."
+    ],
+    "tone_and_moral": "The tone is tragic and heroic, infused with elements of the supernatural and divine intervention. The moral emphasizes the severe consequences of deceit and betrayal, the importance of filial piety and justice, and that true heroism, often divinely aided, can overcome overwhelming odds to restore balance and honor."
+  }
+}

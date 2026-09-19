@@ -1,0 +1,177 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Deceived Monkey and the Sisters",
+    "primary_theme": "Deception, broken promises, and tragic consequences of unrequited desire exploitation."
+  },
+  "lexical_integrity": [
+    {
+      "term": "বানর",
+      "category": "Animal",
+      "importance": "High"
+    },
+    {
+      "term": "নসি",
+      "category": "Person",
+      "importance": "High"
+    },
+    {
+      "term": "দিমসি",
+      "category": "Person",
+      "importance": "High"
+    },
+    {
+      "term": "ওয়াস্নথক",
+      "category": "Object",
+      "importance": "High",
+      "context_note": "A traditional Bengali water pot, offered by the monkey as a tempting gift, indicating a specific cultural item."
+    },
+    {
+      "term": "খাল",
+      "category": "Geography",
+      "importance": "Medium",
+      "context_note": "Refers to a canal or ditch, a significant natural obstacle in the Bengali landscape."
+    },
+    {
+      "term": "কাঠঠোকরা",
+      "category": "Fauna",
+      "importance": "Medium",
+      "context_note": "Specific type of bird, a woodpecker, whose nest becomes a focal point of the second deception."
+    },
+    {
+      "term": "কিচির-মিচির",
+      "category": "Onomatopoeia",
+      "importance": "Medium",
+      "context_note": "An onomatopoeic term describing the chirping sound of bird chicks, common in Bengali."
+    },
+    {
+      "term": "গুড়ে বালি",
+      "category": "Idiom",
+      "importance": "High",
+      "context_note": "A Bengali idiom literally meaning 'sand in jaggery,' signifying dashed hopes or ruined plans. Untranslatable without losing cultural nuance."
+    },
+    {
+      "term": "রাম",
+      "category": "Address/Exclamation",
+      "importance": "Medium",
+      "context_note": "Used here as a dismissive or slightly annoyed address, similar to 'Oh, you!' or 'Alright, you!' in English, not referring to the deity Rama."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy/Social Norm",
+      "description": "The sisters' disdain for marrying a monkey, despite their promises, highlights a clear social hierarchy and the perceived unsuitability of inter-species marriage in human society.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Object",
+      "description": "The 'ওয়াস্নথক' (traditional water pot) as a valuable item offered as a bribe, reflecting common household goods or items of desire.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Behavior/Idiom",
+      "description": "The idiom 'গুড়ে বালি' (sand in jaggery) encapsulates the cultural expression of profound disappointment and shattered expectations.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Behavior/Ethics",
+      "description": "The repeated breaking of promises and the exploitation of a trusting helper (the monkey) reflect a moral lesson often found in folklore about deceit and its consequences.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Setting",
+      "description": "The presence of deserted roads, wide canals, and tall trees with nests, which are typical features of the rural Bengali landscape and environment, grounding the tale in a specific geographical context.",
+      "is_replaceable": true
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Absentations (1)",
+      "description": "The sisters, Nosi and Dimsi, are away from home, embarking on a journey along a deserted road."
+    },
+    {
+      "function": "Villainy (8)",
+      "description": "The sisters commit acts of deception by repeatedly promising marriage to the monkey in exchange for help, only to renege on their word. This constitutes harm/misfortune for the monkey."
+    },
+    {
+      "function": "Lack (8a)",
+      "description": "The sisters face a lack of means to cross the deep canal. Later, they experience a lack of the desired bird chicks."
+    },
+    {
+      "function": "Mediation, the Connective Incident (9)",
+      "description": "The monkey's repeated offers of marriage and help, and the sisters' predicament at the canal, mediate the interaction."
+    },
+    {
+      "function": "Beginning Counteraction (10)",
+      "description": "The sisters agree (falsely) to the monkey's terms of marriage in exchange for assistance."
+    },
+    {
+      "function": "Departure (11)",
+      "description": "The sisters continue their journey after the initial encounter and after crossing the canal."
+    },
+    {
+      "function": "The First Function of the Donor (12)",
+      "description": "The monkey acts as a donor by offering its service to help the sisters cross the canal and later to retrieve the bird chicks."
+    },
+    {
+      "function": "The Hero's Reaction (13)",
+      "description": "The sisters accept the monkey's help, albeit with ulterior motives."
+    },
+    {
+      "function": "Receipt of a Magical Agent (14)",
+      "description": "The sisters receive the crucial 'agent' (the monkey's physical assistance) that enables them to overcome the obstacle of the canal."
+    },
+    {
+      "function": "Guidance (15)",
+      "description": "The monkey guides and carries the sisters across the canal."
+    },
+    {
+      "function": "Struggle (16)",
+      "description": "The monkey engages in a physical struggle to pull its hand out of the bird's nest, leading to its tragic injury."
+    },
+    {
+      "function": "Unfounded Claims (24)",
+      "description": "The sisters make false claims of marriage to manipulate the monkey into helping them."
+    },
+    {
+      "function": "Difficult Task (25)",
+      "description": "The task of retrieving the bird chicks from the high tree and small nest hole proves difficult for the monkey."
+    },
+    {
+      "function": "Solution (26)",
+      "description": "The monkey attempts to solve the difficult task of retrieving the chicks, leading to its hand getting stuck."
+    },
+    {
+      "function": "Punishment (30)",
+      "description": "The monkey suffers a severe punishment: losing its hand and being left stuck in the mud, a direct consequence of its efforts and the sisters' deceit."
+    },
+    {
+      "function": "Wedding (31)",
+      "description": "The wedding is repeatedly promised but ultimately unfulfilled, serving as the central unachieved goal for the monkey and a symbol of the sisters' betrayal."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Deceiver (Nasi and Dimsi)",
+      "The Naive Helper/Sacrificial Lamb (The Monkey)",
+      "The Journeyer/Wanderer (Nasi and Dimsi)",
+      "The Victim (The Monkey)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Nasi and Dimsi walk on a deserted road.",
+      "2. A monkey repeatedly proposes marriage to them.",
+      "3. The sisters encounter a deep, uncrossable canal.",
+      "4. They promise to marry the monkey if he helps them cross.",
+      "5. The monkey carries them across the canal, one by one.",
+      "6. The sisters renege on their promise, insulting the monkey.",
+      "7. The monkey continues to follow them.",
+      "8. The sisters see a woodpecker's nest and desire the chicks.",
+      "9. They promise marriage again if the monkey retrieves the chicks.",
+      "10. The monkey climbs the tree and puts its hand into the nest hole.",
+      "11. The monkey gets its hand stuck while trying to count/divide the chicks.",
+      "12. The sisters grow impatient and abandon the monkey, deciding to leave.",
+      "13. The monkey, desperate to fulfill the promise, pulls its hand out with extreme force.",
+      "14. The monkey's hand detaches, and it falls into thick mud, unable to escape."
+    ],
+    "tone_and_moral": "The tone of the story shifts from an initial lightheartedness to one of growing tension and ultimately tragedy. It conveys a strong moral message about the dangers of deceit, the cruelty of broken promises, and the severe consequences for those who are exploited due to their trusting nature. It implicitly criticizes human selfishness and greed."
+  }
+}

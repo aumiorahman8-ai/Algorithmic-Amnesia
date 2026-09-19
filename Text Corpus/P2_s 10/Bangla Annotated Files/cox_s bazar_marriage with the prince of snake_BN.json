@@ -1,0 +1,154 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Tragic Marriage of Bilkis and the Snake Prince",
+    "primary_theme": "The blinding nature of greed and the tragic consequences of delusion leading to the loss of a child."
+  },
+  "lexical_integrity": [
+    {
+      "term": "সাপ কুমার",
+      "category": "Folklore Archetype",
+      "importance": "High",
+      "context_note": "Literally 'Snake Prince'. A folkloric concept where a beast is believed to be a human/prince in disguise, driving the mother's delusion."
+    },
+    {
+      "term": "অজগর",
+      "category": "Fauna",
+      "importance": "High",
+      "context_note": "A python. The reality of the threat, contrasted with the mother's fantasy of a prince."
+    },
+    {
+      "term": "খারু",
+      "category": "Jewelry",
+      "importance": "Medium",
+      "context_note": "A traditional heavy anklet. Used by the mother to explain away the pain of her daughter's legs being swallowed."
+    },
+    {
+      "term": "বিছা",
+      "category": "Jewelry",
+      "importance": "Medium",
+      "context_note": "A decorative waist chain (Chandrahar). Used to explain the pain at the waist."
+    },
+    {
+      "term": "বালা",
+      "category": "Jewelry",
+      "importance": "Medium",
+      "context_note": "Bangles. Used to explain the pain in the hands."
+    },
+    {
+      "term": "কণ্ঠার ছরা",
+      "category": "Jewelry",
+      "importance": "Medium",
+      "context_note": "A necklace or chain. Used to explain the pain in the throat/neck."
+    },
+    {
+      "term": "নাথং",
+      "category": "Jewelry",
+      "importance": "Medium",
+      "context_note": "A large nose ring or ear ornament. Used to explain the pain in the ears."
+    },
+    {
+      "term": "টিকাল",
+      "category": "Jewelry",
+      "importance": "Medium",
+      "context_note": "A headpiece or tiara. Used to explain the pain in the forehead."
+    },
+    {
+      "term": "পৌষ",
+      "category": "Season/Time",
+      "importance": "Low",
+      "context_note": "The end of the Bengali winter month, setting the scene for why the cold-blooded snake sought sunlight."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Social Expectation",
+      "description": "The immense pressure and anxiety of parents to marry off a daughter (পাত্রস্থ করা) once she reaches a certain age, often leading to desperate decisions.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Folklore Structure",
+      "description": "The use of 'Baromasi' or call-and-response verse during the climax, where the daughter expresses pain and the mother responds with delusional comfort, is a distinct marker of Bengali oral storytelling traditions.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Materialism",
+      "description": "The mother's obsession with gold and jewelry (সোনার অলংকার) overrides her maternal instinct, highlighting a critique of greed within the social context.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation",
+      "description": "A family lives happily with a beautiful daughter, Bilkis."
+    },
+    {
+      "function": "Absence",
+      "description": "The father dies, leaving the mother and daughter vulnerable and anxious about the daughter's marriage."
+    },
+    {
+      "function": "Lack",
+      "description": "The specific lack of a groom (পাত্র) for the beautiful daughter."
+    },
+    {
+      "function": "Arrival",
+      "description": "A giant python arrives at the house seeking heat during winter."
+    },
+    {
+      "function": "Deception (Self-Inflicted)",
+      "description": "The mother, driven by greed and desire for a royal match, deceives herself into believing the snake is a prince (Sap Kumar) in disguise."
+    },
+    {
+      "function": "Delivery",
+      "description": "The mother dresses her daughter and delivers her to the 'groom' (the snake), facilitating the villainy."
+    },
+    {
+      "function": "Villainy",
+      "description": "The snake begins to devour the daughter limb by limb."
+    },
+    {
+      "function": "Call for Help (Unanswered)",
+      "description": "The daughter cries out to her mother describing the pain in specific body parts."
+    },
+    {
+      "function": "Refusal of Rescue",
+      "description": "The mother refuses to acknowledge the danger, interpreting the pain as the sensation of wearing heavy gold jewelry, singing back to comfort the daughter."
+    },
+    {
+      "function": "Completion of Villainy",
+      "description": "The snake completely swallows the daughter and falls asleep."
+    },
+    {
+      "function": "Departure",
+      "description": "The snake leaves the house in the morning, leaving only the daughter's clothes."
+    },
+    {
+      "function": "Recognition",
+      "description": "The mother wakes up to find the snake gone and her daughter missing, finally realizing the snake was not a prince."
+    },
+    {
+      "function": "Punishment/Tragedy",
+      "description": "The mother is left alone, grieving and homeless, having caused her own daughter's death through greed."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Greedy Mother (Sona Banu)",
+      "The Innocent Victim (Bilkis)",
+      "The Beast (Ajagar/Sap Kumar)",
+      "The Absent Protector (Deceased Father)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Father dies, leaving mother Sona Banu desperate to marry off beautiful daughter Bilkis.",
+      "2. A python takes shelter in their yard during a cold winter morning.",
+      "3. Sona Banu assumes the python is a shape-shifting prince (Sap Kumar).",
+      "4. Sona Banu decides to marry Bilkis to the snake.",
+      "5. The snake begins to swallow Bilkis's feet; Bilkis cries out in pain.",
+      "6. Mother responds that the 'Prince' is putting on anklets (Kharu).",
+      "7. The snake swallows the waist; Mother claims it is a waist chain (Bicha).",
+      "8. The pattern continues for hands (Bala), neck (Chhora), and head (Tikal).",
+      "9. The snake swallows Bilkis entirely and leaves the next morning.",
+      "10. Sona Banu realizes the truth, is left with only clothes, and leaves home in despair."
+    ],
+    "tone_and_moral": "The tone is grim and tragic, utilizing irony through the musical dialogue between the dying daughter and the delusional mother. The moral warns against the dangers of excessive greed and how the lust for status (a prince son-in-law) and wealth (gold) can destroy one's most precious relationships."
+  }
+}

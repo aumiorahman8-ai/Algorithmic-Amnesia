@@ -1,0 +1,238 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Seven Champa Brothers and the Parul Sister",
+    "primary_theme": "Triumph of truth and justice over jealousy and deceit, maternal love, and restoration of rightful order."
+  },
+  "lexical_integrity": [
+    {
+      "term": "আঁতুড়ঘর",
+      "category": "Cultural Space",
+      "importance": "High",
+      "context_note": "The birthing chamber, a specific and culturally significant space for childbirth."
+    },
+    {
+      "term": "পাইক-পিয়াদা",
+      "category": "Social Role",
+      "importance": "Medium",
+      "context_note": "Royal messengers or guards, indicating the king's authority and communication network."
+    },
+    {
+      "term": "মিঠাইমণ্ডা",
+      "category": "Food",
+      "importance": "Medium",
+      "context_note": "Sweets and confections, common celebratory food items in Bengali culture."
+    },
+    {
+      "term": "মণি-মাণিক",
+      "category": "Wealth",
+      "importance": "Medium",
+      "context_note": "Gems and jewels, symbols of royal wealth and generosity."
+    },
+    {
+      "term": "নথ",
+      "category": "Clothing/Adornment",
+      "importance": "Medium",
+      "context_note": "Nose ring, used here as part of a mocking gesture by the Big Queens."
+    },
+    {
+      "term": "হাঁড়ি-সরা",
+      "category": "Household Item",
+      "importance": "High",
+      "context_note": "Earthen pot and lid, crucial objects used by the Big Queens to dispose of the babies."
+    },
+    {
+      "term": "পাঁশগাদা",
+      "category": "Location",
+      "importance": "High",
+      "context_note": "Ash heap, the specific place where the children were buried and later reborn as flowers."
+    },
+    {
+      "term": "পোড়াকপালী",
+      "category": "Idiom/Status",
+      "importance": "High",
+      "context_note": "Literally 'burnt forehead', an idiom for an unfortunate or ill-fated person, describing the Little Queen's plight."
+    },
+    {
+      "term": "ঘুঁটেকুড়ানী দাসী",
+      "category": "Social Role",
+      "importance": "High",
+      "context_note": "A maid who collects cow-dung cakes (ghuṭe) for fuel, signifying a very low and degraded social status."
+    },
+    {
+      "term": "খাঁ-খাঁ করে",
+      "category": "Idiom/Description",
+      "importance": "Medium",
+      "context_note": "Describes a desolate, empty, or forlorn state, reflecting the kingdom's sorrow."
+    },
+    {
+      "term": "মালী",
+      "category": "Social Role",
+      "importance": "Medium",
+      "context_note": "Gardener, a key character who discovers the miraculous flowers."
+    },
+    {
+      "term": "চাঁপা",
+      "category": "Flora",
+      "importance": "High",
+      "context_note": "Champak flower, representing the seven royal sons, central to the story's title."
+    },
+    {
+      "term": "পারুল",
+      "category": "Flora",
+      "importance": "High",
+      "context_note": "Parul flower, representing the royal daughter, also central to the story's title."
+    },
+    {
+      "term": "মেজ-রাণী, সেজ-রাণী, ন-রাণী, কনে-রাণী",
+      "category": "Hierarchy/Social Role",
+      "importance": "High",
+      "context_note": "Terms for queens based on their seniority or order of marriage (second, third, fourth, youngest/newest queen), highlighting royal hierarchy."
+    },
+    {
+      "term": "দুয়োরাণী",
+      "category": "Social Role",
+      "importance": "High",
+      "context_note": "The last or least favored queen, often the youngest, a term applied to the Little Queen in her degraded state."
+    },
+    {
+      "term": "চৌদোলা",
+      "category": "Transport",
+      "importance": "Medium",
+      "context_note": "A palanquin or litter, a traditional mode of transport for royalty or important persons."
+    },
+    {
+      "term": "বেহারা",
+      "category": "Social Role",
+      "importance": "Medium",
+      "context_note": "Palanquin bearers, indicating traditional royal service."
+    },
+    {
+      "term": "গোবর",
+      "category": "Material",
+      "importance": "High",
+      "context_note": "Cow dung, signifying the Little Queen's low status and manual labor."
+    },
+    {
+      "term": "জয়ডস্কা",
+      "category": "Ritual/Music",
+      "importance": "High",
+      "context_note": "Victory drum, played to announce triumph and celebration."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The system of multiple queens (seven queens) with clear seniority (Big Queens, Little Queen, Mejo, Sejo, Nao, Koney, Duyo Rani) and the King's favoritism.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual/Celebration",
+      "description": "Royal announcements with 'ঢাক-ঢোল' (drums) and 'ঠাকুর-পুরুত' (priests), opening of the 'রাজভাণ্ডার' (royal treasury) for public celebration, and the importance of 'নিত্য পূজার ফুল' (daily worship flowers).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Domestic Life",
+      "description": "The 'আঁতুড়ঘর' (birthing chamber) as a designated space for childbirth, the use of 'হাঁড়ি-সরা' (earthen pot and lid) for disposal, and the 'পাঁশগাদা' (ash heap) as a common waste area.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Status/Occupation",
+      "description": "The 'ঘুঁটেকুড়ানী দাসী' (maid who collects cow-dung cakes) as a symbol of extreme degradation and poverty, contrasting with royal status.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Adornment",
+      "description": "The 'পায়ের মল' (anklets) worn by queens, their sound indicating movement and status, and 'নথ' (nose ring) as a common piece of jewelry.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Punishment",
+      "description": "The severe and specific punishment of burying the villains alive ('হাঁটা কাঁটা উপরে কাঁটা দিয়া পুঁতিয়া ফেলিতে'), common in traditional folktales.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Transport",
+      "description": "The 'চৌদোলা' (palanquin) and 'বেহারা' (bearers) as traditional royal transport.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Absentations",
+      "description": "The King departs to the royal court, leaving the Little Queen vulnerable to the Big Queens' malice."
+    },
+    {
+      "function": "Interdiction",
+      "description": "The King gives a golden chain to the Little Queen, instructing her to use it only when the child is born. This is reinforced with a severe threat after the Big Queens' initial misuse."
+    },
+    {
+      "function": "Violation",
+      "description": "The Big Queens repeatedly pull the golden chain falsely, causing the King to rush to the birthing chamber for no reason."
+    },
+    {
+      "function": "Villainy",
+      "description": "The Big Queens replace the newborn royal children with animal babies and bury the real children in an ash heap, causing immense suffering to the Little Queen and the kingdom."
+    },
+    {
+      "function": "Misfortune",
+      "description": "The Little Queen is unjustly banished from the palace and forced into a life of hardship as a 'ঘুঁটেকুড়ানী দাসী' (cow-dung collector maid)."
+    },
+    {
+      "function": "Departure",
+      "description": "Multiple instances: The gardener departs to pick flowers, the King and court depart to the flower spot, the Big Queens depart to the flower spot, and finally, the palanquin bearers depart to fetch the Little Queen."
+    },
+    {
+      "function": "Receipt of a Magic Agent",
+      "description": "The golden chain, initially a communication device, becomes a tool for the villains. More importantly, the Champa and Parul flowers, which are the transformed children, act as magic agents that reveal the truth and demand justice."
+    },
+    {
+      "function": "Struggle",
+      "description": "The flowers' refusal to be picked by anyone other than the true mother represents a passive struggle against the injustice and a demand for the rightful person."
+    },
+    {
+      "function": "Test",
+      "description": "The flowers repeatedly test who comes to pick them, demanding the gardener, then the King, then the Big Queens, and finally the 'ঘুঁটেকুড়ানী দাসী' (Little Queen)."
+    },
+    {
+      "function": "Recognition",
+      "description": "Upon the Little Queen's arrival, the flowers transform back into the seven princes and one princess, recognizing her as their mother with cries of 'মা মা' (Mother, Mother)."
+    },
+    {
+      "function": "Transfiguration",
+      "description": "The royal children are transformed into Champa and Parul flowers, and later, the flowers transform back into the children."
+    },
+    {
+      "function": "Punishment",
+      "description": "The Big Queens are severely punished by the King, ordered to be buried alive."
+    },
+    {
+      "function": "Wedding",
+      "description": "The Little Queen and her children are restored to their rightful place in the palace, signifying a happy resolution and the re-establishment of order and justice."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Benevolent but Deceived King",
+      "The Innocent and Suffering Heroine (Little Queen)",
+      "The Jealous and Cruel Villains (Big Queens)",
+      "The Miraculous Lost Children (Seven Champa Brothers and Parul Sister)",
+      "The Messenger/Catalyst (Gardener)"
+    ],
+    "atomic_plot_nodes": [
+      "1. The King favors his Little Queen, but lacks an heir, causing him sorrow.",
+      "2. The Little Queen becomes pregnant, bringing immense joy to the King, who announces a grand celebration.",
+      "3. The Big Queens, consumed by jealousy, plot against the Little Queen.",
+      "4. The King provides a golden chain for the Little Queen to signal the birth, then departs to the royal court.",
+      "5. The Big Queens repeatedly misuse the chain, causing false alarms and enraging the King, who issues a dire threat.",
+      "6. The Little Queen gives birth to seven sons and one daughter, described as beautiful as the moon and flower buds.",
+      "7. The Big Queens replace the royal babies with animal offspring and secretly bury the real children in an ash heap.",
+      "8. The King, deceived by the Big Queens, banishes the Little Queen, who becomes a 'ঘুঁটেকুড়ানী দাসী' (cow-dung collector maid) and wanders in misery.",
+      "9. The kingdom suffers, reflecting the King's sorrow and the injustice; miraculously, seven Champa and one Parul flower grow on the ash heap.",
+      "10. The gardener discovers the talking flowers, who refuse to be picked by him, demanding the King instead.",
+      "11. The King and subsequently all the Big Queens attempt to pick the flowers, but they refuse and ascend higher, demanding the 'ঘুঁটেকুড়ানী দাসী'.",
+      "12. The Little Queen is summoned; upon her arrival, the flowers transform back into the children, embracing her as their mother.",
+      "13. The King, realizing the truth, punishes the Big Queens by burying them alive and restores the Little Queen and their children to the palace, bringing joy back to the kingdom."
+    ],
+    "tone_and_moral": "The tone transitions from initial joy and anticipation to deep sorrow, injustice, and despair, before shifting to wonder, revelation, and ultimately triumphant justice. The moral strongly emphasizes the inevitable triumph of truth and innocence over jealousy, deceit, and cruelty, highlighting the enduring power of maternal love and the restoration of natural and moral order."
+  }
+}

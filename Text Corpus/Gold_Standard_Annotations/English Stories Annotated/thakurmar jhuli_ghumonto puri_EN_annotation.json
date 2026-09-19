@@ -1,0 +1,179 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Prince and the Sleeping Palace",
+    "primary_theme": "Hero's Journey, Restoration, and Love"
+  },
+  "lexical_integrity": [
+    {
+      "term": "Alpana",
+      "category": "Art/Ritual",
+      "importance": "High",
+      "context_note": "Traditional Bengali folk art, decorative patterns drawn on floors during auspicious occasions."
+    },
+    {
+      "term": "Ululations",
+      "category": "Sound/Ritual",
+      "importance": "High",
+      "context_note": "A high-pitched, wavering sound made by women, common in South Asian celebrations, especially weddings and religious ceremonies."
+    },
+    {
+      "term": "Puffed rice",
+      "category": "Food/Ritual",
+      "importance": "Medium",
+      "context_note": "Often scattered during auspicious events like weddings as a symbol of prosperity and blessings."
+    },
+    {
+      "term": "Ghee lamps",
+      "category": "Object/Ritual",
+      "importance": "Medium",
+      "context_note": "Lamps fueled by clarified butter, used in religious ceremonies and for illumination, symbolizing purity and light."
+    },
+    {
+      "term": "Fly-whisk",
+      "category": "Object/Hierarchy",
+      "importance": "Medium",
+      "context_note": "A ceremonial object, often made of yak tail hair, used to fan royalty or deities, signifying status and respect."
+    },
+    {
+      "term": "Sepoys",
+      "category": "Social/Military",
+      "importance": "Medium",
+      "context_note": "Historically, an Indian soldier serving under European or native powers; here, refers to soldiers/guards."
+    },
+    {
+      "term": "Auspicious pot",
+      "category": "Object/Ritual",
+      "importance": "High",
+      "context_note": "A 'mangala kalasha' or similar pot, often filled with water and topped with mango leaves and a coconut, symbolizing prosperity and good fortune."
+    },
+    {
+      "term": "Conch shell sounds",
+      "category": "Sound/Ritual",
+      "importance": "High",
+      "context_note": "The blowing of a conch shell (shankha) is a traditional auspicious sound in Hindu rituals, signaling beginnings and celebrations."
+    },
+    {
+      "term": "Betel nut, betel leaf",
+      "category": "Food/Ritual",
+      "importance": "High",
+      "context_note": "Chewing 'paan' (betel leaf with areca nut and other ingredients) is a common social custom; offering it is a sign of hospitality, and it's used in rituals."
+    },
+    {
+      "term": "Dum-dum",
+      "category": "Sound",
+      "importance": "Medium",
+      "context_note": "Onomatopoeic representation of the sound of drums, conveying a sense of grand celebration."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The clear social structure of a royal court: King, Queen, Prince, Minister, Courtiers, Bards, Attendants, Sepoys, Soldiers, Gatekeepers, Guards, Troops, Commanders, Maids, Servants.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Elaborate wedding ceremonies involving fire-priests, ceremonial seats, scattering of puffed rice, rain of flowers and sandalwood, ululations, conch shell sounds, alpana drawings, auspicious pots, and five-leafed sprigs.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food",
+      "description": "The use of betel nut and betel leaf as part of the dowry and general cultural practice.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Object",
+      "description": "The 'fly-whisk' as a symbol of royal attendance and status.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Value",
+      "description": "The emphasis on the prince's virtues and beauty, reflecting ideal heroic qualities.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief",
+      "description": "The concept of a 'demon' causing a magical sleep, indicating a belief in supernatural forces and enchantments.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "The practice of bowing heads as a sign of respect to royalty or elders.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Absentations (1)",
+      "description": "The prince decides to travel to foreign lands, leaving his home and family."
+    },
+    {
+      "function": "Departure (11)",
+      "description": "The prince sets out on his journey to see the world, dressed simply and carrying only his sword."
+    },
+    {
+      "function": "Villainy (8)",
+      "description": "A demon had touched the magnificent golden kingdom with a silver stick, putting everyone into a deathly, thousand-year sleep."
+    },
+    {
+      "function": "Lack (11)",
+      "description": "The prince discovers an entire royal palace and kingdom frozen in time, with all its inhabitants, including a beautiful princess, in a deep, enchanted slumber."
+    },
+    {
+      "function": "Receipt of a Magic Agent (14)",
+      "description": "The prince finds a golden stick and a silver stick by the sleeping princess's head."
+    },
+    {
+      "function": "Victory (18)",
+      "description": "The prince accidentally taps the sleeping princess's head with the golden stick, which immediately breaks the enchantment."
+    },
+    {
+      "function": "Liquidation of Lack (19)",
+      "description": "The princess awakens, and simultaneously, the entire kingdom, its people, animals, and activities, awaken from their thousand-year sleep."
+    },
+    {
+      "function": "Difficult Task (25)",
+      "description": "The implicit task is to break the powerful enchantment that has held the kingdom captive for a thousand years, requiring the correct magical agent."
+    },
+    {
+      "function": "Solution (26)",
+      "description": "The prince successfully solves the difficult task by using the golden stick, which proves to be the key to awakening the kingdom."
+    },
+    {
+      "function": "Recognition (27)",
+      "description": "The awakened king and people recognize the prince as their savior, who freed them from the deathly sleep."
+    },
+    {
+      "function": "Wedding (31)",
+      "description": "The king offers his daughter, the princess, and his kingdom to the prince, and a grand wedding ceremony takes place."
+    },
+    {
+      "function": "Return (20)",
+      "description": "The prince returns to his home kingdom, bringing his new wife, the princess, with him."
+    },
+    {
+      "function": "Transfiguration (28)",
+      "description": "Upon his return, the prince uses the golden stick to restore his blind father's sight and cure his mother's illness."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Hero (Prince)",
+      "The Sleeping Beauty (Princess)",
+      "The Wise King (Prince's father, and the enchanted king)",
+      "The Villain (Unseen Demon)"
+    ],
+    "atomic_plot_nodes": [
+      "1. The virtuous prince decides to travel to foreign lands.",
+      "2. The prince journeys through many lands and discovers a silent, enchanted palace in a forest.",
+      "3. He finds the entire kingdom, including the princess, frozen in a deep, magical sleep.",
+      "4. The prince discovers a golden stick and a silver stick near the sleeping princess.",
+      "5. He accidentally taps the princess with the golden stick, breaking the enchantment and awakening the entire kingdom.",
+      "6. The awakened king offers the princess and his kingdom to the prince as a reward.",
+      "7. The prince marries the princess in a grand ceremony.",
+      "8. The prince returns to his home kingdom with his new wife.",
+      "9. The prince restores his father's sight and his mother's health using the golden stick."
+    ],
+    "tone_and_moral": "The tone is one of wonder, adventure, and ultimate triumph. It conveys a sense of destiny and the power of a virtuous hero to overcome great enchantments and restore life and happiness. The moral emphasizes courage, perseverance, and the idea that good deeds lead to great rewards and the restoration of order."
+  }
+}

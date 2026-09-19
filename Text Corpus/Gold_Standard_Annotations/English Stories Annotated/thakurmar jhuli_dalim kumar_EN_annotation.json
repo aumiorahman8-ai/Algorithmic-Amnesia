@@ -1,0 +1,211 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Pomegranate Prince and the Ogress",
+    "primary_theme": "The hero's journey, overcoming evil, restoration of order, and familial loyalty."
+  },
+  "lexical_integrity": [
+    {
+      "term": "Sutashankha",
+      "category": "Mythical Creature",
+      "importance": "High",
+      "context_note": "A specific type of mythical snake, thin as a thread but with a conch-like voice, central to the villain's magic and the hero's struggle."
+    },
+    {
+      "term": "Pakshiraj",
+      "category": "Mythical Creature",
+      "importance": "High",
+      "context_note": "A majestic winged horse, a common motif in South Asian folklore, serving as the hero's magical steed."
+    },
+    {
+      "term": "Yama-Yamuna",
+      "category": "Mythical Geography",
+      "importance": "Medium",
+      "context_note": "A mythical land or boundary, often associated with death or a perilous journey, indicating a supernatural realm."
+    },
+    {
+      "term": "Pashabati",
+      "category": "Proper Noun/Mythical Figure",
+      "importance": "High",
+      "context_note": "A powerful female antagonist, possibly a sorceress or demoness, who acts as an agent of the main ogress."
+    },
+    {
+      "term": "Yakshas",
+      "category": "Mythical Beings",
+      "importance": "Medium",
+      "context_note": "Supernatural beings in Hindu/Buddhist mythology, often benevolent but sometimes mischievous or malevolent; used here to denote non-human entities."
+    },
+    {
+      "term": "Rakshasas",
+      "category": "Mythical Beings",
+      "importance": "Medium",
+      "context_note": "Demonic beings in Hindu mythology, typically malevolent and powerful; used here to denote non-human entities."
+    },
+    {
+      "term": "Shehnais",
+      "category": "Musical Instrument",
+      "importance": "Low",
+      "context_note": "A type of Indian oboe, commonly played during celebrations and auspicious occasions."
+    },
+    {
+      "term": "Durbar",
+      "category": "Social/Political Term",
+      "importance": "Low",
+      "context_note": "A royal court or formal audience, signifying the king's administrative and ceremonial functions."
+    },
+    {
+      "term": "Dalim Kumar",
+      "category": "Proper Noun/Title",
+      "importance": "High",
+      "context_note": "Literally 'Pomegranate Prince,' referring to the hero whose life-force is linked to a pomegranate seed."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The presence of a king, queen, prince, royal palace, retinue, ministers, and courtiers establishes a monarchical social structure.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "The mention of 'first rice-eating' (Annaprashan), 'tonsure' (Chudakaran), and 'sacred thread ceremony' (Upanayana) highlights significant Hindu coming-of-age rituals.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Celebration",
+      "description": "Descriptions of 'pomp and circumstance,' 'beating of drums,' 'blowing of horns,' 'shehnais,' 'torches,' and 'banners' illustrate traditional South Asian festive practices for births and coronations.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Beliefs",
+      "description": "The concept of a life-force residing in an external object (dice, pomegranate seed) is a common motif in South Asian folklore, as are shape-shifting ogresses and talking animals/objects.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Games",
+      "description": "Dice as a game of chance with high stakes is a recurring element in Indian mythology and folklore.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food",
+      "description": "'Milk and rice' is a traditional staple and often associated with sustenance or offerings.",
+      "is_replaceable": true
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Absentations (I)",
+      "description": "The king goes hunting, leaving the palace and queen vulnerable."
+    },
+    {
+      "function": "Interdiction (II)",
+      "description": "Implicit: The dice containing the queen's life are sacred and must not be given away carelessly."
+    },
+    {
+      "function": "Violation (III)",
+      "description": "The prince carelessly gives the life-dice to the ogress disguised as a beggar woman."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The ogress sends the dice away, devours the queen, and assumes her form, replacing her in the palace."
+    },
+    {
+      "function": "Lack (A)",
+      "description": "The true queen is gone, replaced by a malevolent impostor, creating a fundamental imbalance and a sense of wrongness for the prince."
+    },
+    {
+      "function": "Departure (XI)",
+      "description": "The eight princes set out from the royal palace to travel the world, initiating the hero's quest."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The ogress attempts to kill the eldest prince by sealing his life-force in a pomegranate seed and sending the Sutashankha snake to pursue him."
+    },
+    {
+      "function": "Misfortune/Lack (A)",
+      "description": "The eldest prince is blinded and separated from his brothers during a storm, suffering a significant setback."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "Pashabati, acting as an agent of the ogress, devours the seven younger princes and their horses."
+    },
+    {
+      "function": "Lack (A)",
+      "description": "The kingdom where the eldest prince lands suffers from a recurring lack of a stable king, as each new king is eaten by the Sutashankha."
+    },
+    {
+      "function": "Departure (XI)",
+      "description": "The state elephant selects the blind prince, taking him to the throne to become king of the cursed city."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The prince confronts and battles the gigantic Sutashankha snake in the princess's chamber."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The prince defeats the Sutashankha, cutting it into seven pieces."
+    },
+    {
+      "function": "Liquidation of Misfortune/Lack (K)",
+      "description": "The prince regains his sight, the kingdom is freed from the snake's terror, and the true queen's body falls, signifying the breaking of the ogress's spell."
+    },
+    {
+      "function": "Return (R)",
+      "description": "The prince decides to leave the night-king's kingdom to find his missing brothers."
+    },
+    {
+      "function": "Receipt of Magic Agent (F)",
+      "description": "The prince revives his winged horse (Pakshiraj) by touch; later, the dice speak to him, and a kitten aids him in his final confrontation."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The prince engages in a dice game with Pashabati, with the lives of his brothers and his own at stake."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The prince wins the dice game against Pashabati, recovering his brothers and their horses."
+    },
+    {
+      "function": "Liquidation of Misfortune/Lack (K)",
+      "description": "The seven brothers are restored, Pashabati and her sisters are defeated (transformed into earthworms), and the ogress (in mouse form) is destroyed."
+    },
+    {
+      "function": "Return (R)",
+      "description": "The eight princes return triumphantly to their home kingdom on their winged horses."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "The queen awakens and asks for her prince, and the people of the night-king's land recognize their king's return and success."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "The princess of the night-king's land moves her entire court and kingdom to join the prince, solidifying their union and merging their realms."
+    },
+    {
+      "function": "Punishment (U)",
+      "description": "The ogress is destroyed (as a mouse), and the palm tree associated with her falls, signifying her ultimate defeat and the end of her malevolence."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Hero (Pomegranate Prince)",
+      "The Villain (Ogress, Sutashankha, Pashabati)",
+      "The Helper (Winged Horse, Talking Dice, Kitten)",
+      "The Princess (of the night-king's land)",
+      "The Victims/False Heroes (Seven younger brothers)"
+    ],
+    "atomic_plot_nodes": [
+      "1. The ogress steals the queen's life-dice and replaces her.",
+      "2. The prince notices the impostor but remains silent.",
+      "3. The eight princes depart on a journey to travel the world.",
+      "4. The ogress attempts to kill the eldest prince, blinding him and separating him from his brothers.",
+      "5. The seven younger princes are devoured by Pashabati.",
+      "6. The blind prince becomes king of a cursed city where kings are eaten nightly.",
+      "7. The prince defeats the Sutashankha snake, regains his sight, and frees the city from its curse.",
+      "8. The prince journeys to Pashabati's city to rescue his brothers.",
+      "9. With the help of a kitten and talking dice, the prince defeats Pashabati at dice.",
+      "10. The prince restores his brothers and returns home.",
+      "11. The ogress is destroyed, the true queen is fully restored, and the kingdoms unite."
+    ],
+    "tone_and_moral": "The tone evolves from initial innocence and subtle dread to an adventurous, suspenseful, and ultimately triumphant narrative. The moral emphasizes the triumph of good over evil, the importance of keen observation, strategic wisdom, unwavering familial loyalty, and the hero's journey of self-discovery and overcoming formidable adversity. It also highlights the dangers of carelessness and the insidious nature of hidden malevolence."
+  }
+}

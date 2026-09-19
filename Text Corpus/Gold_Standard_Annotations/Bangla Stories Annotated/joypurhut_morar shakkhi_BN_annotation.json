@@ -1,0 +1,120 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Witness of the Bubbles",
+    "primary_theme": "The inevitability of truth and justice; sin never stays hidden."
+  },
+  "lexical_integrity": [
+    {
+      "term": "দাওয়া",
+      "category": "Architectural Feature",
+      "importance": "Medium",
+      "context_note": "A traditional verandah or porch, common in rural Bengali homes, where people often sit and socialize."
+    },
+    {
+      "term": "পাট কাটছিল",
+      "category": "Agricultural Activity",
+      "importance": "Medium",
+      "context_note": "Refers to the act of cutting jute, a significant cash crop and agricultural activity in Bengal, setting a specific rural scene."
+    },
+    {
+      "term": "বুদবুদ বা ভুটভুটি",
+      "category": "Descriptive Term",
+      "importance": "High",
+      "context_note": "Describes bubbles or gurgling, specifically referring to the visible signs of decomposition from the buried body, a crucial plot device."
+    },
+    {
+      "term": "নাছোড়বান্দা",
+      "category": "Adjective/Behavioral",
+      "importance": "Medium",
+      "context_note": "Describes the wife's persistent and unyielding questioning, highlighting her determination to uncover the truth."
+    },
+    {
+      "term": "রাষ্ট্র হয়ে গেল",
+      "category": "Idiomatic Expression",
+      "importance": "Medium",
+      "context_note": "Literally 'became state/nation', but idiomatically means 'became public knowledge' or 'spread throughout the village', emphasizing the rapid dissemination of news in a close-knit community."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Architectural",
+      "description": "The 'দাওয়া' (dawa) or verandah, a common feature of rural Bengali homes, serving as a semi-public space for daily activities and observation.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Agricultural",
+      "description": "The activity of 'পাট কাটা' (cutting jute) places the story firmly in a rural, agrarian Bengali context, indicating the season (monsoon) and daily life.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Environmental/Seasonal",
+      "description": "'ভরা বর্ষার দিন' is crucial as heavy rain would saturate the ground, making the bubbles from the decomposing body more visible and thus triggering the murderer's reaction.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Norm",
+      "description": "The wife's persistent questioning of her husband's unusual behavior reflects domestic dynamics and the expectation of transparency or truth within a marital relationship, even when initially met with resistance.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Structure",
+      "description": "The 'গ্রাম' (village) setting implies a close-knit community where news and gossip ('রাষ্ট্র হয়ে গেল') spread rapidly, leading to the murderer's exposure.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Moral Belief",
+      "description": "The proverb 'Sin never stays hidden' (পাপ গোপন থাকে না) is a core cultural belief in the eventual revelation of wrongdoing and the attainment of justice, often through unexpected means.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Legal System",
+      "description": "The mention of 'থানা' (police station) and 'মামলা' (filing a case) indicates the presence and reliance on a formal legal system for justice.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Villainy (IV)",
+      "description": "The man murders his enemy and buries the body, causing harm and initiating the central conflict."
+    },
+    {
+      "function": "Lack (VIIIa)",
+      "description": "The community and the victim's family lack knowledge of the killer and justice for the crime, leading to an unresolved state."
+    },
+    {
+      "function": "Exposure (XXVIII)",
+      "description": "The wife, in a fit of anger during a quarrel, exposes her husband's crime to the entire village, revealing the villain's true nature."
+    },
+    {
+      "function": "Pursuit (XX)",
+      "description": "Upon learning of the crime, the victim's relatives inform the police, who then pursue and apprehend the killer."
+    },
+    {
+      "function": "Punishment (XXX)",
+      "description": "The killer is arrested, tried, and receives his due punishment for the murder, bringing the narrative to a just conclusion."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Murderer (who believes he escaped justice)",
+      "The Persistent Wife (agent of truth)",
+      "The Unseen Witness (the gurgling earth/bubbles)",
+      "The Village Community (collective conscience/justice)",
+      "The Victim (the murdered person)",
+      "The Proverbial Truth (sin never stays hidden)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Man murders enemy and buries the body near his house.",
+      "2. Years pass, and the crime is forgotten by the community.",
+      "3. On a rainy day, the man observes bubbles rising from the burial spot and laughs silently.",
+      "4. His wife notices his unusual laughter and persistently questions him about its cause.",
+      "5. The man confesses his crime to his wife, boasting about his perceived impunity.",
+      "6. Later, the husband and wife have a severe quarrel.",
+      "7. In a fit of anger, the wife reveals the murder secret to the entire village.",
+      "8. The news spreads rapidly; the victim's relatives inform the police and file a case.",
+      "9. Police arrive and arrest the murderer.",
+      "10. The murderer is eventually punished for his crime."
+    ],
+    "tone_and_moral": "The tone is cautionary and ultimately just, emphasizing that truth, like sin, cannot remain hidden indefinitely. The moral of the story is that justice, though sometimes delayed, will inevitably prevail, and hubris often leads to one's downfall. It reinforces the folk wisdom that 'sin does not remain hidden' (পাপ চাপা থাকে না)."
+  }
+}

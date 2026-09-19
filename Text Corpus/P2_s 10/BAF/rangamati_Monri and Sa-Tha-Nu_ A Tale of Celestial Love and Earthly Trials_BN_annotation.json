@@ -1,0 +1,325 @@
+{
+  "story_metadata": {
+    "title_suggested": "Monri and Sa-Tha-Nu: A Tale of Celestial Love and Earthly Trials",
+    "primary_theme": "Love across realms, fidelity, karmic destiny, and the passage of time."
+  },
+  "lexical_integrity": [
+    {
+      "term": "ইন্দ্র (Indra)",
+      "category": "Deity",
+      "importance": "High",
+      "context_note": "King of the Devas/Heavenly beings, father of the princesses."
+    },
+    {
+      "term": "ত্রিভুবন (Tribhuban)",
+      "category": "Cosmology",
+      "importance": "Medium",
+      "context_note": "Refers to the three worlds: heaven, earth, and underworld."
+    },
+    {
+      "term": "মর্ত্যলোক (Martyalok)",
+      "category": "Cosmology",
+      "importance": "High",
+      "context_note": "The earthly realm, contrasting with 'Swargalok' (heaven)."
+    },
+    {
+      "term": "নাগরাজা (Nagaraja)",
+      "category": "Mythical Being",
+      "importance": "High",
+      "context_note": "King of serpents, a powerful entity who aids the hunter and later Sa-Tha-Nu."
+    },
+    {
+      "term": "ধর্ম ভাই (Dharma Bhai)",
+      "category": "Social/Kinship",
+      "importance": "High",
+      "context_note": "A brother by religious or sacred bond, not blood. Monri accepts the hunter as such."
+    },
+    {
+      "term": "রণসজ্জা (Ronsajja)",
+      "category": "Military",
+      "importance": "Low",
+      "context_note": "Battle attire/armor."
+    },
+    {
+      "term": "বৌদ্ধ ভিক্ষু (Boudhha Bhikkhu)",
+      "category": "Religious Figure",
+      "importance": "Medium",
+      "context_note": "Buddhist monks, highlighting Monri's devotion to Buddhism."
+    },
+    {
+      "term": "ব্রাহ্মণ (Brahman)",
+      "category": "Social/Caste",
+      "importance": "High",
+      "context_note": "Hindu priestly caste, depicted as antagonists due to jealousy."
+    },
+    {
+      "term": "অভয় (Abhoy)",
+      "category": "Social/Promise",
+      "importance": "Medium",
+      "context_note": "A promise of safety or fearlessness, given by the king to the Brahmins."
+    },
+    {
+      "term": "অঙ্গুরী (Anguri)",
+      "category": "Object",
+      "importance": "High",
+      "context_note": "A finger ring, serving as a token of recognition and fidelity."
+    },
+    {
+      "term": "ঋষি (Rishi)",
+      "category": "Religious Figure",
+      "importance": "High",
+      "context_note": "A sage or hermit, a wise spiritual guide."
+    },
+    {
+      "term": "অপ্সরী (Apsari)",
+      "category": "Mythical Being",
+      "importance": "Medium",
+      "context_note": "Celestial nymph or dancer, serving in Indra's court."
+    },
+    {
+      "term": "কলসী (Kolosi)",
+      "category": "Object",
+      "importance": "Medium",
+      "context_note": "An earthen pot used for carrying water, significant in Sa-Tha-Nu's plan."
+    },
+    {
+      "term": "ওড়না (Orna)",
+      "category": "Clothing",
+      "importance": "Medium",
+      "context_note": "A scarf or veil worn by women, used by Monri as a distinguishing mark."
+    },
+    {
+      "term": "আঁচল (Anchol)",
+      "category": "Clothing",
+      "importance": "Medium",
+      "context_note": "The loose end of a sari or garment, also used by Monri as a distinguishing mark."
+    },
+    {
+      "term": "ঘুঘু পাখি (Ghughu Pakhi)",
+      "category": "Animal",
+      "importance": "Medium",
+      "context_note": "Dove/pigeon, whose call evokes Monri's maternal feelings."
+    },
+    {
+      "term": "পক্ষীরাজ (Pokkhiraj)",
+      "category": "Mythical Being",
+      "importance": "High",
+      "context_note": "King of birds, who unknowingly helps Sa-Tha-Nu reach heaven."
+    },
+    {
+      "term": "ভগবান বুদ্ধ (Bhagwan Buddha)",
+      "category": "Deity/Religious Figure",
+      "importance": "High",
+      "context_note": "Lord Buddha, central to the karmic explanation at the end."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Hierarchy",
+      "description": "The clear social stratification from celestial kings (Indra) to earthly princes, Brahmins, and commoners/servants.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "The practice of 'snan' (ritual bathing) for purification, especially for Monri upon her return to heaven.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "The concept of 'boli' (sacrifice) proposed by the Brahmins, reflecting ancient ritualistic practices.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief",
+      "description": "Strong emphasis on 'karma' and 'janme janme' (birth after birth) connections, particularly in the concluding explanation.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief",
+      "description": "The influence and power of Brahmins in royal courts, including their ability to interpret dreams and advise kings.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief",
+      "description": "Monri's devotion to Buddhism and the presence of Buddhist monks, contrasting with the Brahminical influence.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Norm",
+      "description": "The practice of 'Dharma Bhai' (sacred brotherhood) as a means of forming non-blood kinship bonds.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Cosmology",
+      "description": "The distinct realms of 'Swargalok' (heaven) and 'Martyalok' (earth) and the challenges of traversing between them.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Time Perception",
+      "description": "The concept that time passes differently in heaven and on Earth (1 heavenly day = 100 earthly years).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Clothing",
+      "description": "Specific garments like 'orna' and 'anchol' used as cultural identifiers and plot devices.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation (α)",
+      "description": "King Indra's seven daughters, their beauty, and their desire to visit Earth."
+    },
+    {
+      "function": "Interdiction (γ)",
+      "description": "King Indra forbids his daughters from going to Earth after a prophetic dream."
+    },
+    {
+      "function": "Violation (δ)",
+      "description": "The daughters repeatedly request, and the King eventually permits them to visit Earth."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The princesses regularly fly to Earth for recreation."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "A hunter observes the princesses bathing and plans to abduct one for marriage."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The hunter lacks a means to capture a celestial princess."
+    },
+    {
+      "function": "Receipt of Magic Agent (F)",
+      "description": "The hunter receives a magic net from Nagaraja."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The hunter throws the net, capturing Monri. Her sisters attempt to help but fail."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "Monri's six sisters flee back to heaven, leaving her behind."
+    },
+    {
+      "function": "Donor (D)",
+      "description": "The hunter, moved by Monri's plea, releases her from the net."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "Monri meets Prince Sa-Tha-Nu, they fall in love, and marry."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "Prince Sa-Tha-Nu leaves for war."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "Jealous Brahmins plot against Monri, falsely interpreting a dream and demanding her sacrifice."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "Monri decides to return to heaven, leaving her infant son."
+    },
+    {
+      "function": "Receipt of Magic Agent (F)",
+      "description": "Monri entrusts her ring to a Rishi with instructions for Sa-Tha-Nu."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "Monri finally departs for heaven."
+    },
+    {
+      "function": "Pursuit (Pr)",
+      "description": "Sa-Tha-Nu returns from war and embarks on a frantic search for Monri."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "Sa-Tha-Nu finds the Rishi, who gives him Monri's ring and explains her whereabouts and the path to heaven."
+    },
+    {
+      "function": "Difficult Task (M)",
+      "description": "Sa-Tha-Nu must cross a perilous, fiery sea by riding on the back of Nagaraja."
+    },
+    {
+      "function": "Solution (N)",
+      "description": "Sa-Tha-Nu successfully crosses the sea and reaches the isolated island."
+    },
+    {
+      "function": "Receipt of Magic Agent (F)",
+      "description": "Sa-Tha-Nu overhears the bird-king and queen, learns about Monri's purification ceremony, and transforms into an ant to travel with them."
+    },
+    {
+      "function": "Difficult Task (M)",
+      "description": "Sa-Tha-Nu needs to identify Monri among her sisters in heaven."
+    },
+    {
+      "function": "Solution (N)",
+      "description": "Sa-Tha-Nu places Monri's ring in her water pot, leading to her recognition of his presence."
+    },
+    {
+      "function": "Difficult Task (M)",
+      "description": "King Indra sets two challenging tests for Sa-Tha-Nu: identifying Monri's finger and identifying her among her flying sisters."
+    },
+    {
+      "function": "Receipt of Magic Agent (F)",
+      "description": "Monri secretly provides Sa-Tha-Nu with clues to pass the tests."
+    },
+    {
+      "function": "Solution (N)",
+      "description": "Sa-Tha-Nu successfully passes both of King Indra's tests."
+    },
+    {
+      "function": "Difficult Task (M)",
+      "description": "King Indra challenges Sa-Tha-Nu to perform a test of his own skill."
+    },
+    {
+      "function": "Solution (N)",
+      "description": "Sa-Tha-Nu shoots arrows that gently bring Monri down from the sky without harming her."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "King Indra formally remarries Monri and Sa-Tha-Nu according to heavenly customs."
+    },
+    {
+      "function": "Return (↓)",
+      "description": "Monri and Sa-Tha-Nu are transported back to Earth in their sleep."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "They realize that 100 earthly years have passed during their time in heaven, and their son has aged."
+    },
+    {
+      "function": "Liquidation of Lack (K)",
+      "description": "Monri embraces her aged son, who miraculously transforms back into an infant."
+    },
+    {
+      "function": "Unrecognized Arrival (L)",
+      "description": "The story concludes with an explanation of their past lives and karmic connections, revealing the hunter's true identity as a servant destined to unite them."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Innocent Maiden (Monri)",
+      "The Hero/Prince (Sa-Tha-Nu)",
+      "The Divine Father (King Indra)",
+      "The Wise Old Man/Sage (Rishi)",
+      "The Jealous Antagonist (Brahmins)",
+      "The Helper/Magical Agent (Nagaraja, Birds, Monri herself as a helper to Sa-Tha-Nu)",
+      "The Karmic Catalyst (The Hunter/Servant)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Celestial princesses visit Earth, leading to Monri's abduction by a hunter.",
+      "2. Monri marries earthly Prince Sa-Tha-Nu and bears a child.",
+      "3. Jealous Brahmins plot against Monri, forcing her to return to heaven.",
+      "4. Sa-Tha-Nu embarks on a perilous quest to find Monri, guided by a Rishi.",
+      "5. Sa-Tha-Nu overcomes magical and physical obstacles to reach heaven.",
+      "6. Sa-Tha-Nu passes King Indra's challenging tests to prove his worth and reclaim Monri.",
+      "7. Monri and Sa-Tha-Nu return to Earth, discovering a century has passed and their son has aged.",
+      "8. Monri's embrace miraculously restores her son to infancy.",
+      "9. The story concludes with a karmic explanation of their eternal bond and the hunter's role in their reunion across lifetimes."
+    ],
+    "tone_and_moral": "The tone is romantic and adventurous, infused with elements of divine intervention, magical realism, and a touch of tragedy. The moral emphasizes the enduring power of love and fidelity across realms and lifetimes, the triumph over adversity, the cyclical nature of existence (karma and reincarnation), and the dangers of jealousy and prejudice. It also highlights the importance of faith and the interconnectedness of all beings through destiny."
+  }
+}

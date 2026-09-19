@@ -1,0 +1,236 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Pitha Tree and the Ogress",
+    "primary_theme": "Resourcefulness and triumph over evil through cleverness and punishment of greed."
+  },
+  "lexical_integrity": [
+    {
+      "term": "পিঠা",
+      "category": "Food",
+      "importance": "High",
+      "context_note": "A traditional Bengali rice cake or pancake, central to the story's premise and the boy's desire."
+    },
+    {
+      "term": "রাক্ষুসী",
+      "category": "Mythological Creature",
+      "importance": "High",
+      "context_note": "A female demon or ogress in Bengali folklore, the primary antagonist."
+    },
+    {
+      "term": "ঘোমটা",
+      "category": "Clothing",
+      "importance": "Medium",
+      "context_note": "A veil or head covering worn by women, especially married women, in South Asia, used by the boy for disguise."
+    },
+    {
+      "term": "কলসি",
+      "category": "Object",
+      "importance": "Medium",
+      "context_note": "An earthen pot, typically used for carrying water, used by the boy as a pretext for escape."
+    },
+    {
+      "term": "দা",
+      "category": "Tool",
+      "importance": "Medium",
+      "context_note": "A large cleaver or knife, a common household tool, used by the boy to kill Ghutilla."
+    },
+    {
+      "term": "ঘুটিলা",
+      "category": "Proper Name",
+      "importance": "Medium",
+      "context_note": "The specific name of the Ogress's daughter-in-law, preserved to maintain character identity."
+    },
+    {
+      "term": "পান",
+      "category": "Food/Cultural Item",
+      "importance": "Medium",
+      "context_note": "Refers to 'Paan'. Serving or fetching betel leaf after a meal is a standard social custom in Bengal, used here as a pretext for escape."
+    }
+    {
+      "term": "সওদাগর",
+      "category": "Occupation",
+      "importance": "Medium",
+      "context_note": "A merchant, who acts as a helpful stranger for the boy's final escape."
+    },
+    {
+      "term": "হুত পুত মনুষ্যের পুত, আমি এর তুলবো শোধ",
+      "category": "Folkloric Utterance",
+      "importance": "High",
+      "context_note": "A rhyming couplet chanted by the Rakkhushi, expressing her rage and desire for revenge, characteristic of oral traditions."
+    },
+    {
+      "term": "রাক্ষুসিনি কাউ মাউ, ছেলের বউয়ের মাংস খাও",
+      "category": "Folkloric Utterance",
+      "importance": "High",
+      "context_note": "A rhyming couplet chanted by the boy, taunting the Rakkhushi after his escape, revealing her cannibalism and his triumph."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Food",
+      "description": "Pitha as a staple or desired food item, reflecting local culinary traditions and serving as a central plot device.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Clothing",
+      "description": "The 'ghomta' (veil) as a marker of female identity and modesty, crucial for the boy's disguise.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Household Object",
+      "description": "The 'kolshi' (water pot) and 'da' (cleaver) as common household items, integral to the boy's escape and actions.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Family Structure",
+      "description": "The mother-son bond, and the extended family of the Rakkhushi (son, daughter-in-law, in-laws) reflecting traditional family units and social dynamics.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Geography",
+      "description": "The escape via a merchant's boat at a river landing (ghat) anchors the story in the riverine landscape of Bengal.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual/Social Custom",
+      "description": "The act of eating together as a family, which the boy exploits for his escape, highlighting communal dining practices.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Folklore Element",
+      "description": "The use of rhyming chants ('chhara') by both the villain and the hero, a common feature in Bengali oral traditions for expressing emotion or taunting.",
+      "is_replaceable": true
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation (α)",
+      "description": "The boy and his mother live in hardship; the boy's constant desire for pitha becomes a burden for the mother."
+    },
+    {
+      "function": "Lack (a)",
+      "description": "The mother's inability to provide pitha daily due to poverty, leading to her planting the pitha."
+    },
+    {
+      "function": "Receipt of a Magical Agent (F)",
+      "description": "A magical pitha tree grows from the planted pitha, providing an abundant supply of food."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "A Rakkhushi appears, attempting to trick and capture the boy by demanding pitha and trying to grab him."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The Rakkhushi successfully captures the boy and carries him away in a sack."
+    },
+    {
+      "function": "The First Function of the Donor (D)",
+      "description": "The Rakkhushi stops for a 'natural call,' providing an opportunity for the boy to act."
+    },
+    {
+      "function": "The Hero's Reaction (E)",
+      "description": "The boy struggles inside the sack, tearing it open and escaping."
+    },
+    {
+      "function": "Provision or Receipt of a Magical Agent (F)",
+      "description": "The boy cleverly fills the sack with objects (earth, leaves, thorns, water-filled bamboo) to deceive the Rakkhushi."
+    },
+    {
+      "function": "Spatial Transference between Two Kingdoms, Guidance (G)",
+      "description": "The boy escapes and returns home while the Rakkhushi continues her journey with the tricked sack."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The Rakkhushi experiences discomfort and anger from the sack's contents, believing it's the boy's actions."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The Rakkhushi reaches home, opens the sack, and discovers the deception, realizing the boy has escaped."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The enraged Rakkhushi again tricks the boy with sweet words and successfully captures him for a second time."
+    },
+    {
+      "function": "Departure (↑)",
+      "description": "The boy is captured again and taken to the Rakkhushi's home to be cooked."
+    },
+    {
+      "function": "The First Function of the Donor (D)",
+      "description": "The Rakkhushi instructs her daughter-in-law, Ghutilla, to prepare the boy for cooking, setting up the next opportunity."
+    },
+    {
+      "function": "The Hero's Reaction (E)",
+      "description": "The boy observes a large cleaver ('da') in the kitchen, formulating a plan."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The boy swiftly kills Ghutilla with the cleaver."
+    },
+    {
+      "function": "Branding, Marking (J)",
+      "description": "The boy takes Ghutilla's clothes and disguises himself as her, adopting her identity."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "The boy, disguised as Ghutilla, cooks Ghutilla's body and serves it to the Rakkhushi's family."
+    },
+    {
+      "function": "The Hero's Return (↓)",
+      "description": "The boy, still in disguise, joins the Rakkhushi's family for the meal."
+    },
+    {
+      "function": "The Pursuit (Pr)",
+      "description": "Ghutilla's sister notices the cooked body parts resemble her sister, leading to suspicion among the family."
+    },
+    {
+      "function": "Rescue (Rs)",
+      "description": "The boy, under the pretext of fetching water with a 'kolshi', escapes to the river."
+    },
+    {
+      "function": "Unrecognized Arrival (o)",
+      "description": "The boy encounters a merchant at the river ghat."
+    },
+    {
+      "function": "A Difficult Task (M)",
+      "description": "The boy reveals his true identity and the entire story to the merchant, seeking help."
+    },
+    {
+      "function": "Solution (N)",
+      "description": "The merchant, taking pity, agrees to help the boy and takes him onto his boat."
+    },
+    {
+      "function": "Recognition (Q)",
+      "description": "The Rakkhushi's family arrives at the ghat, and the boy reveals his deception by discarding the disguise."
+    },
+    {
+      "function": "Exposure (Ex)",
+      "description": "The boy taunts the Rakkhushi with a rhyming chant, exposing her cannibalism and his triumph."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "The boy achieves ultimate freedom and safety on the merchant's boat, signifying his successful resolution and triumph over the villain."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "Orphaned Hero (resourceful and clever)",
+      "Wise Mother (initial setup, provides magical solution)",
+      "Deceptive Ogress (Villain, cannibalistic)",
+      "Helpful Stranger (Merchant)",
+      "Naive Victim (Ghutilla, the Rakkhushi's daughter-in-law)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Boy and mother face hardship; mother plants a pitha, leading to a magical pitha tree.",
+      "2. A Rakkhushi attempts to trick and capture the boy for food.",
+      "3. The boy is captured but cleverly escapes by filling the sack with objects to deceive the Rakkhushi.",
+      "4. The enraged Rakkhushi captures the boy again and takes him to her home to be cooked.",
+      "5. The boy kills the Rakkhushi's daughter-in-law, Ghutilla, and disguises himself as her.",
+      "6. The boy cooks Ghutilla's body and serves it to the unsuspecting Rakkhushi family.",
+      "7. The wife's sister notices a physical resemblance (hand/eye) in the food but is silenced.",
+      "8. The boy excuses himself to 'fetch betel leaves' and escapes on a merchant's boat.",
+      "9. The boy escapes on a merchant's boat, revealing his identity and taunting the Rakkhushi, leaving her in despair."
+    ],
+    "tone_and_moral": "The tone is adventurous, suspenseful, and ultimately triumphant. It conveys a moral about the power of quick thinking, resourcefulness, and courage in overcoming formidable evil. It also highlights the dangers of deception and the ultimate triumph of cleverness over brute force and malice."
+  }
+}

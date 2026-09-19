@@ -1,0 +1,233 @@
+{
+  "story_metadata": {
+    "title_suggested": "The Serpent Husband and the Banished Queen",
+    "primary_theme": "The triumph of truth and perseverance over jealousy and adversity, highlighting the enduring power of maternal love and sibling bonds."
+  },
+  "lexical_integrity": [
+    {
+      "term": "অচাই (Ochai)",
+      "category": "Social Role",
+      "importance": "High",
+      "context_note": "A traditional priest or shaman, central to village religious life and rituals."
+    },
+    {
+      "term": "জুম চাষ (Jum Chash)",
+      "category": "Agricultural Practice",
+      "importance": "High",
+      "context_note": "Shifting cultivation or slash-and-burn agriculture, a traditional farming method in the region, signifying hard labor and a way of life."
+    },
+    {
+      "term": "গাইরিং / জুমঘর (Gairing / Jumghar)",
+      "category": "Structure",
+      "importance": "Medium",
+      "context_note": "A temporary hut or shelter built in a jhum field for resting and guarding crops."
+    },
+    {
+      "term": "ওয়াখরব (Wakhorob)",
+      "category": "Tool/Device",
+      "importance": "Medium",
+      "context_note": "A traditional device used to scare birds away from jhum fields."
+    },
+    {
+      "term": "রিনাই রিছা (Rinai Richa)",
+      "category": "Clothing",
+      "importance": "Medium",
+      "context_note": "Traditional attire worn by women, symbolizing cultural identity and status (e.g., 'ছেড়া রিনাই ও রিছা' - torn clothes, indicating poverty)."
+    },
+    {
+      "term": "কুমুই (Kumui)",
+      "category": "Kinship Term",
+      "importance": "High",
+      "context_note": "A term in the Tripura language for 'brother-in-law' (sister's husband), used by Khumbarati to call the serpent."
+    },
+    {
+      "term": "দুংগুই (Dungui)",
+      "category": "Proper Noun",
+      "importance": "High",
+      "context_note": "The specific name of the serpent-husband, revealed during Khumpuiti's ritual."
+    },
+    {
+      "term": "চাকেরেং (Chakereng)",
+      "category": "Architectural Feature",
+      "importance": "Medium",
+      "context_note": "An open veranda or balcony, typically of a stilt house, used for various activities."
+    },
+    {
+      "term": "মোচা (Mocha)",
+      "category": "Food Preparation",
+      "importance": "Medium",
+      "context_note": "A bundle of food, usually rice, prepared for carrying or travel."
+    },
+    {
+      "term": "খর্গ (Khorgo)",
+      "category": "Ritual Object",
+      "importance": "High",
+      "context_note": "A ritual sword or dagger, used by the Ochai for sacrifices and, in this story, for killing the serpent."
+    },
+    {
+      "term": "ত্রিপুরা ভাষায় (Tripura Bhashay)",
+      "category": "Linguistic Marker",
+      "importance": "High",
+      "context_note": "Indicates the use of the Kokborok language (Tripura language) for specific chants and lullabies, highlighting the story's cultural origin."
+    },
+    {
+      "term": "আপারক (Aparok)",
+      "category": "Kinship Term",
+      "importance": "Medium",
+      "context_note": "Children (in Tripura language), used in the lullaby."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Agricultural Practice",
+      "description": "Jhum cultivation (slash-and-burn agriculture) as the primary means of livelihood, involving community effort and specific seasonal tasks.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Religious Practice",
+      "description": "The role of the 'Ochai' (priest/shaman) in performing daily pujas (worship) for villagers and specific rituals like Lakshmi Puja for harvest.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual",
+      "description": "Animal sacrifice (pigs, chickens, goats) as part of religious ceremonies to appease deities like Lakshmi Maa.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food/Offering",
+      "description": "Consumption of 'mod mangsho' (alcohol and meat) as part of ritual offerings and feasts.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Clothing",
+      "description": "Mention of 'Rinai Richa' as traditional attire, signifying cultural identity and social status.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Architecture",
+      "description": "Description of 'Machaghar' (stilt house) and 'Jumghar' (jhum hut) as typical dwellings or shelters.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Ritual Object",
+      "description": "The 'Khorgo' (ritual sword) used by the Ochai, indicating its sacred and powerful significance.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Belief System",
+      "description": "The concept of 'ashuchi' (impurity) associated with childbirth, leading to the banishment of the queen from the royal palace.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Linguistic/Oral Tradition",
+      "description": "The inclusion of chants and lullabies in the Tripura language (Kokborok), deeply embedding the narrative in its specific cultural context.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Symbolic Test",
+      "description": "The 'seven streams of milk' test for true motherhood, a miraculous and culturally specific way to prove a mother's identity.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Initial Situation (α)",
+      "description": "Introduction of Dorbasing, his daughters Khumpuiti and Khumbarati, their village, and their arduous jhum cultivation work."
+    },
+    {
+      "function": "Absentations (β)",
+      "description": "Dorbasing's constant preoccupation with priestly duties, leading to his absence from helping his daughters in their difficult jhum work."
+    },
+    {
+      "function": "Interdiction (γ)",
+      "description": "The serpent-man imposes a strict condition of secrecy regarding his true form and assistance."
+    },
+    {
+      "function": "Violation (δ)",
+      "description": "Khumbarati, under her father's persistent questioning and false assurances, reveals the secret of Khumpuiti's serpent-husband."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "Dorbasing, fearing the serpent and concerned for his daughter, decides to kill the serpent-husband."
+    },
+    {
+      "function": "Departure (B)",
+      "description": "Khumpuiti, after mourning her murdered husband and performing a ritual, departs by being engulfed by the river waves."
+    },
+    {
+      "function": "Receipt of Magic Agent (D)",
+      "description": "Before her disappearance, Khumpuiti provides Khumbarati with crucial instructions for her future survival and success."
+    },
+    {
+      "function": "Guidance (G)",
+      "description": "Khumbarati follows Khumpuiti's instructions to go to the banyan tree and interact with the king's hunters."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "Khumbarati faces the challenge of proving her identity and humanity to the hunters and the king."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "Khumbarati's beauty and truthful answers lead to her acceptance and marriage to the king."
+    },
+    {
+      "function": "Villainy (A)",
+      "description": "The six jealous co-queens conspire to replace Khumbarati's newborn children with animals and banish her."
+    },
+    {
+      "function": "Departure (B)",
+      "description": "Khumbarati is banished to a riverside hut and forced into a life of hardship, herding ducks."
+    },
+    {
+      "function": "Receipt of Magic Agent (D)",
+      "description": "The children, living in the river, sing a lullaby that is heard by villagers and eventually the king, acting as a magical revelation of their existence."
+    },
+    {
+      "function": "Guidance (G)",
+      "description": "Khumpuiti (as a spirit) guides her nieces and nephews on how to reveal their true identity to the king and prove their mother's innocence."
+    },
+    {
+      "function": "Struggle (H)",
+      "description": "The children present a unique challenge to the king and the queens: identifying their true mother through a miraculous milk test."
+    },
+    {
+      "function": "Victory (I)",
+      "description": "Khumbarati successfully passes the milk test, proving her motherhood and innocence to everyone present."
+    },
+    {
+      "function": "Lack Liquidated (K)",
+      "description": "Khumbarati is reunited with her children, reinstated as queen, and her family's honor is restored."
+    },
+    {
+      "function": "Punishment (U)",
+      "description": "The six jealous co-queens are banished to the jungle for their deceit and cruelty."
+    },
+    {
+      "function": "Wedding (W)",
+      "description": "Khumbarati and the king live happily ever after with their children, signifying the ultimate triumph and restoration of order."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Heroine (Khumbarati)",
+      "The Wise Elder/Mentor (Khumpuiti)",
+      "The Magical Helper (The Serpent)",
+      "The Jealous Villain (Dorbasing, The Six Co-Queens)",
+      "The Innocent Children (Khumbarati's seven children)",
+      "The Benevolent but Misled Ruler (The King)"
+    ],
+    "atomic_plot_nodes": [
+      "1. Two sisters, Khumpuiti and Khumbarati, struggle with jhum cultivation, leading Khumpuiti to wish for a helper.",
+      "2. A serpent appears, transforms into a man, and helps the sisters under a strict condition of secrecy.",
+      "3. Dorbasing, the father, discovers the secret through Khumbarati and kills the serpent out of fear and concern.",
+      "4. Khumpuiti mourns her husband, performs a ritual, and disappears into the river, but not before giving Khumbarati crucial instructions.",
+      "5. Khumbarati follows her sister's guidance, becomes queen, and gives birth to seven children.",
+      "6. Jealous co-queens conspire to replace Khumbarati's babies with animals and banish her to a life of hardship.",
+      "7. Khumbarati's children grow up in the river, their lullaby revealing their presence to the villagers and eventually the king.",
+      "8. Khumpuiti (as a spirit) guides her nieces and nephews to reveal their true identity and their mother's innocence through a unique test.",
+      "9. Khumbarati successfully passes the miraculous milk test, proving her motherhood and exposing the co-queens' deceit.",
+      "10. Khumbarati is reinstated as queen, reunited with her children, and the jealous co-queens are punished, leading to a happy family life."
+    ],
+    "tone_and_moral": "The tone of the story shifts from initial hardship and magical wonder to tragedy and injustice, finally resolving into triumph and justice. The moral emphasizes that truth, perseverance, and unwavering maternal love will ultimately overcome jealousy, deceit, and adversity. It also highlights the importance of loyalty and the severe consequences of treachery."
+  }
+}

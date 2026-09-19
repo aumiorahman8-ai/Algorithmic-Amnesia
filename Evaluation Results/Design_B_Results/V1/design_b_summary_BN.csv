@@ -1,0 +1,240 @@
+story,model,prompt,narrative_fidelity,chronology_score
+cox's bazar_marriage with the prince of snake,Llama,1,0.162,0.0
+jessore_the consequence of a broken promise,Llama,1,0.055,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Llama,1,0.114,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Llama,1,0.086,0.0
+rangamati_khumpui,Llama,1,0.117,0.0
+thakurmar jhuli_dalim kumar,Llama,1,0.07,0.0
+thakurmar jhuli_kolaboti rajkonna,Llama,1,0.138,0.0
+thakurmar jhuli_shat bhai champa,Llama,1,0.067,0.0
+thakurmar jhuli_sheyal pondit,Llama,1,0.059,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Llama,1,0.053,0.0
+cox's bazar_marriage with the prince of snake,Llama,2,0.162,0.0
+jessore_the consequence of a broken promise,Llama,2,0.087,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Llama,2,0.085,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Llama,2,0.102,0.0
+rangamati_khumpui,Llama,2,0.098,0.0
+thakurmar jhuli_dalim kumar,Llama,2,0.161,0.0
+thakurmar jhuli_kolaboti rajkonna,Llama,2,0.089,0.0
+thakurmar jhuli_shat bhai champa,Llama,2,0.068,0.0
+thakurmar jhuli_sheyal pondit,Llama,2,0.064,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Llama,2,0.049,0.0
+cox's bazar_marriage with the prince of snake,Llama,3,0.116,0.0
+jessore_the consequence of a broken promise,Llama,3,0.1,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Llama,3,0.035,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Llama,3,0.05,0.0
+rangamati_khumpui,Llama,3,0.106,0.0
+thakurmar jhuli_dalim kumar,Llama,3,-0.009,0.0
+thakurmar jhuli_kolaboti rajkonna,Llama,3,0.068,0.0
+thakurmar jhuli_shat bhai champa,Llama,3,0.091,0.0
+thakurmar jhuli_sheyal pondit,Llama,3,0.041,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Llama,3,0.006,0.0
+cox's bazar_marriage with the prince of snake,Llama,4,0.104,0.0
+jessore_the consequence of a broken promise,Llama,4,0.047,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Llama,4,0.049,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Llama,4,0.055,0.0
+rangamati_khumpui,Llama,4,0.108,0.0
+thakurmar jhuli_dalim kumar,Llama,4,0.16,0.0
+thakurmar jhuli_kolaboti rajkonna,Llama,4,0.204,0.0
+thakurmar jhuli_shat bhai champa,Llama,4,0.159,0.0
+thakurmar jhuli_sheyal pondit,Llama,4,0.06,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Llama,4,0.035,0.0
+cox's bazar_marriage with the prince of snake,Qwen,4,0.119,0.0
+jessore_the consequence of a broken promise,Qwen,4,0.078,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Qwen,4,0.106,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Qwen,4,0.093,0.0
+rangamati_khumpui,Qwen,4,0.166,0.0
+thakurmar jhuli_dalim kumar,Qwen,4,0.063,0.0
+thakurmar jhuli_kolaboti rajkonna,Qwen,4,0.075,0.0
+thakurmar jhuli_shat bhai champa,Qwen,4,0.099,0.0
+thakurmar jhuli_sheyal pondit,Qwen,4,0.129,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Qwen,4,0.055,0.0
+cox's bazar_marriage with the prince of snake,Qwen,3,0.123,0.0
+jessore_the consequence of a broken promise,Qwen,3,0.006,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Qwen,3,0.088,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Qwen,3,0.201,0.0
+rangamati_khumpui,Qwen,3,0.11,0.0
+thakurmar jhuli_dalim kumar,Qwen,3,0.082,0.0
+thakurmar jhuli_kolaboti rajkonna,Qwen,3,0.114,0.0
+thakurmar jhuli_shat bhai champa,Qwen,3,0.027,0.0
+thakurmar jhuli_sheyal pondit,Qwen,3,0.093,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Qwen,3,0.015,0.0
+cox's bazar_marriage with the prince of snake,Qwen,2,0.122,0.0
+jessore_the consequence of a broken promise,Qwen,2,0.134,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Qwen,2,0.095,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Qwen,2,0.214,0.0
+rangamati_khumpui,Qwen,2,0.184,0.0
+thakurmar jhuli_dalim kumar,Qwen,2,0.104,0.0
+thakurmar jhuli_kolaboti rajkonna,Qwen,2,0.119,0.0
+thakurmar jhuli_shat bhai champa,Qwen,2,0.067,0.0
+thakurmar jhuli_sheyal pondit,Qwen,2,0.078,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Qwen,2,0.09,0.0
+cox's bazar_marriage with the prince of snake,Qwen,1,0.127,0.0
+jessore_the consequence of a broken promise,Qwen,1,0.042,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Qwen,1,0.059,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Qwen,1,0.044,0.0
+rangamati_khumpui,Qwen,1,0.035,0.0
+thakurmar jhuli_dalim kumar,Qwen,1,0.029,0.0
+thakurmar jhuli_kolaboti rajkonna,Qwen,1,0.087,0.0
+thakurmar jhuli_shat bhai champa,Qwen,1,0.056,0.0
+thakurmar jhuli_sheyal pondit,Qwen,1,0.097,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Qwen,1,0.066,0.0
+cox's bazar_marriage with the prince of snake,Deepseek,1,0.243,0.0
+jessore_the consequence of a broken promise,Deepseek,1,0.101,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Deepseek,1,0.173,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Deepseek,1,0.256,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Deepseek,1,0.111,0.0
+rangamati_khumpui,Deepseek,1,0.207,0.0
+thakurmar jhuli_dalim kumar,Deepseek,1,0.187,0.0
+thakurmar jhuli_kolaboti rajkonna,Deepseek,1,0.212,0.0
+thakurmar jhuli_shat bhai champa,Deepseek,1,0.155,0.0
+thakurmar jhuli_sheyal pondit,Deepseek,1,0.124,0.0
+cox's bazar_marriage with the prince of snake,Deepseek,2,0.187,0.0
+jessore_the consequence of a broken promise,Deepseek,2,0.331,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Deepseek,2,0.134,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Deepseek,2,0.262,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Deepseek,2,0.221,0.0
+rangamati_khumpui,Deepseek,2,0.172,0.0
+thakurmar jhuli_dalim kumar,Deepseek,2,0.142,0.0
+thakurmar jhuli_kolaboti rajkonna,Deepseek,2,0.197,0.0
+thakurmar jhuli_shat bhai champa,Deepseek,2,0.15,0.0
+thakurmar jhuli_sheyal pondit,Deepseek,2,0.132,0.0
+cox's bazar_marriage with the prince of snake,Deepseek,3,0.193,0.0
+jessore_the consequence of a broken promise,Deepseek,3,0.123,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Deepseek,3,0.154,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Deepseek,3,0.131,0.0
+rangamati_khumpui,Deepseek,3,0.151,0.0
+thakurmar jhuli_dalim kumar,Deepseek,3,0.092,0.0
+thakurmar jhuli_kolaboti rajkonna,Deepseek,3,0.169,0.0
+thakurmar jhuli_shat bhai champa,Deepseek,3,0.106,0.0
+thakurmar jhuli_sheyal pondit,Deepseek,3,0.104,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Deepseek,3,0.062,0.0
+cox's bazar_marriage with the prince of snake,Deepseek,4,0.183,0.0
+jessore_the consequence of a broken promise,Deepseek,4,0.115,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Deepseek,4,0.112,0.0
+thakurmar jhuli_dalim kumar,Deepseek,4,0.075,0.0
+thakurmar jhuli_kolaboti rajkonna,Deepseek,4,0.107,0.0
+thakurmar jhuli_shat bhai champa,Deepseek,4,0.152,0.0
+thakurmar jhuli_sheyal pondit,Deepseek,4,0.121,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Deepseek,4,0.124,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Deepseek,4,0.58,0.995
+rangamati_khumpui,Deepseek,4,0.13,0.0
+cox's bazar_marriage with the prince of snake,Gemini,4,0.098,0.0
+jessore_the consequence of a broken promise,Gemini,4,0.085,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Gemini,4,0.081,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Gemini,4,0.12,0.0
+rangamati_khumpui,Gemini,4,0.133,0.0
+thakurmar jhuli_dalim kumar,Gemini,4,0.183,0.0
+thakurmar jhuli_kolaboti rajkonna,Gemini,4,0.125,0.0
+thakurmar jhuli_shat bhai champa,Gemini,4,0.154,0.0
+thakurmar jhuli_sheyal pondit,Gemini,4,0.086,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Gemini,4,0.069,0.0
+cox's bazar_marriage with the prince of snake,Gemini,3,0.195,0.0
+jessore_the consequence of a broken promise,Gemini,3,0.082,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Gemini,3,0.12,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Gemini,3,0.239,0.0
+rangamati_khumpui,Gemini,3,0.133,0.0
+thakurmar jhuli_dalim kumar,Gemini,3,0.099,0.0
+thakurmar jhuli_kolaboti rajkonna,Gemini,3,0.095,0.0
+thakurmar jhuli_shat bhai champa,Gemini,3,0.048,0.0
+thakurmar jhuli_sheyal pondit,Gemini,3,0.076,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Gemini,3,0.017,0.0
+cox's bazar_marriage with the prince of snake,Gemini,2,0.087,0.0
+jessore_the consequence of a broken promise,Gemini,2,0.075,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Gemini,2,0.095,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Gemini,2,0.246,0.0
+rangamati_khumpui,Gemini,2,0.122,0.0
+thakurmar jhuli_dalim kumar,Gemini,2,0.085,0.0
+thakurmar jhuli_kolaboti rajkonna,Gemini,2,0.15,0.0
+thakurmar jhuli_shat bhai champa,Gemini,2,0.144,0.0
+thakurmar jhuli_sheyal pondit,Gemini,2,0.153,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Gemini,2,0.253,0.0
+cox's bazar_marriage with the prince of snake,Gemini,1,0.069,0.0
+jessore_the consequence of a broken promise,Gemini,1,0.076,0.0
+joypurhut_morar shakkhi (witness of the bubbles),Gemini,1,0.112,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",Gemini,1,0.127,0.0
+rangamati_khumpui,Gemini,1,0.119,0.0
+thakurmar jhuli_dalim kumar,Gemini,1,0.064,0.0
+thakurmar jhuli_kolaboti rajkonna,Gemini,1,0.118,0.0
+thakurmar jhuli_shat bhai champa,Gemini,1,0.043,0.0
+thakurmar jhuli_sheyal pondit,Gemini,1,0.102,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",Gemini,1,0.047,0.0
+cox's bazar_marriage with the prince of snake,OpenAI,4,0.093,0.0
+jessore_the consequence of a broken promise,OpenAI,4,0.103,0.0
+joypurhut_morar shakkhi (witness of the bubbles),OpenAI,4,0.093,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",OpenAI,4,0.13,0.0
+rangamati_khumpui,OpenAI,4,0.155,0.0
+thakurmar jhuli_dalim kumar,OpenAI,4,0.124,0.0
+thakurmar jhuli_kolaboti rajkonna,OpenAI,4,0.137,0.0
+thakurmar jhuli_shat bhai champa,OpenAI,4,0.149,0.0
+thakurmar jhuli_sheyal pondit,OpenAI,4,0.129,0.0
+cox's bazar_marriage with the prince of snake,OpenAI,3,0.166,0.0
+jessore_the consequence of a broken promise,OpenAI,3,0.097,0.0
+joypurhut_morar shakkhi (witness of the bubbles),OpenAI,3,0.118,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",OpenAI,3,0.117,0.0
+rangamati_khumpui,OpenAI,3,0.165,0.0
+thakurmar jhuli_dalim kumar,OpenAI,3,0.119,0.0
+thakurmar jhuli_kolaboti rajkonna,OpenAI,3,0.17,0.0
+thakurmar jhuli_shat bhai champa,OpenAI,3,0.127,0.0
+thakurmar jhuli_sheyal pondit,OpenAI,3,0.085,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",OpenAI,3,0.058,0.0
+cox's bazar_marriage with the prince of snake,OpenAI,2,0.186,0.0
+jessore_the consequence of a broken promise,OpenAI,2,0.115,0.0
+joypurhut_morar shakkhi (witness of the bubbles),OpenAI,2,0.212,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",OpenAI,2,0.291,0.0
+rangamati_khumpui,OpenAI,2,0.192,0.0
+thakurmar jhuli_dalim kumar,OpenAI,2,0.112,0.0
+thakurmar jhuli_kolaboti rajkonna,OpenAI,2,0.205,0.0
+thakurmar jhuli_shat bhai champa,OpenAI,2,0.137,0.0
+thakurmar jhuli_sheyal pondit,OpenAI,2,0.128,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",OpenAI,2,0.105,0.0
+cox's bazar_marriage with the prince of snake,OpenAI,1,0.207,0.0
+jessore_the consequence of a broken promise,OpenAI,1,0.103,0.0
+joypurhut_morar shakkhi (witness of the bubbles),OpenAI,1,0.147,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",OpenAI,1,0.16,0.0
+rangamati_khumpui,OpenAI,1,0.163,0.0
+thakurmar jhuli_dalim kumar,OpenAI,1,0.152,0.0
+thakurmar jhuli_kolaboti rajkonna,OpenAI,1,0.194,0.0
+thakurmar jhuli_shat bhai champa,OpenAI,1,0.156,0.0
+thakurmar jhuli_sheyal pondit,OpenAI,1,0.106,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",OpenAI,1,0.053,0.0
+cox's bazar_marriage with the prince of snake,MistralAI,1,0.113,0.0
+jessore_the consequence of a broken promise,MistralAI,1,0.122,0.0
+joypurhut_morar shakkhi (witness of the bubbles),MistralAI,1,0.136,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",MistralAI,1,0.297,0.0
+rangamati_khumpui,MistralAI,1,0.158,0.0
+thakurmar jhuli_dalim kumar,MistralAI,1,0.111,0.0
+thakurmar jhuli_kolaboti rajkonna,MistralAI,1,0.152,0.0
+thakurmar jhuli_shat bhai champa,MistralAI,1,0.13,0.0
+thakurmar jhuli_sheyal pondit,MistralAI,1,0.111,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",MistralAI,1,0.078,0.0
+cox's bazar_marriage with the prince of snake,MistralAI,2,0.169,0.0
+jessore_the consequence of a broken promise,MistralAI,2,0.174,0.0
+joypurhut_morar shakkhi (witness of the bubbles),MistralAI,2,0.11,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",MistralAI,2,0.271,0.0
+rangamati_khumpui,MistralAI,2,0.192,0.0
+thakurmar jhuli_dalim kumar,MistralAI,2,0.155,0.0
+thakurmar jhuli_kolaboti rajkonna,MistralAI,2,0.227,0.0
+thakurmar jhuli_shat bhai champa,MistralAI,2,0.156,0.0
+thakurmar jhuli_sheyal pondit,MistralAI,2,0.117,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",MistralAI,2,0.267,0.0
+cox's bazar_marriage with the prince of snake,MistralAI,3,0.181,0.0
+jessore_the consequence of a broken promise,MistralAI,3,0.139,0.0
+joypurhut_morar shakkhi (witness of the bubbles),MistralAI,3,0.127,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",MistralAI,3,0.105,0.0
+rangamati_khumpui,MistralAI,3,0.142,0.0
+thakurmar jhuli_dalim kumar,MistralAI,3,0.093,0.0
+thakurmar jhuli_kolaboti rajkonna,MistralAI,3,0.157,0.0
+thakurmar jhuli_shat bhai champa,MistralAI,3,0.136,0.0
+thakurmar jhuli_sheyal pondit,MistralAI,3,0.092,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",MistralAI,3,0.095,0.0
+cox's bazar_marriage with the prince of snake,MistralAI,4,0.159,0.0
+jessore_the consequence of a broken promise,MistralAI,4,0.108,0.0
+joypurhut_morar shakkhi (witness of the bubbles),MistralAI,4,0.105,0.0
+"moulovibazar_Fifteen Sizzles, Three to Eat, The She-goat's Sign Is By The Binna Tree",MistralAI,4,0.115,0.0
+rangamati_khumpui,MistralAI,4,0.124,0.0
+thakurmar jhuli_dalim kumar,MistralAI,4,0.066,0.0
+thakurmar jhuli_kolaboti rajkonna,MistralAI,4,0.202,0.0
+thakurmar jhuli_shat bhai champa,MistralAI,4,0.133,0.0
+thakurmar jhuli_sheyal pondit,MistralAI,4,0.141,0.0
+"mymensingh_Noshi, Dimshi and the Monkey",MistralAI,4,0.088,0.0

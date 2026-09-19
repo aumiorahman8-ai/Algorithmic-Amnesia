@@ -1,0 +1,240 @@
+{
+  "story_metadata": {
+    "title_suggested": "Suanlu Suanla: The Amloki Child's Vengeance",
+    "primary_theme": "Revenge, divine justice, and the consequences of deceit"
+  },
+  "lexical_integrity": [
+    {
+      "term": "ঘিলা লতা (ghila lata)",
+      "category": "Flora/Object",
+      "importance": "High",
+      "context_note": "A specific type of vine used in a challenge/game."
+    },
+    {
+      "term": "দা (da)",
+      "category": "Tool",
+      "importance": "Medium",
+      "context_note": "A machete or large knife, a common agricultural tool."
+    },
+    {
+      "term": "পুরুষের জবান এক কথা দুই কথা হবে না (purusher jaban ek kotha dui kotha hobe na)",
+      "category": "Proverb/Cultural Saying",
+      "importance": "High",
+      "context_note": "Emphasizes the importance of a man's word and honor, that it cannot be broken or changed."
+    },
+    {
+      "term": "পাখিয়ান / পাথিয়ান (Pakhiyan / Pathian)",
+      "category": "Deity",
+      "importance": "High",
+      "context_note": "Indigenous term for God or Creator, indicating a specific spiritual belief system."
+    },
+    {
+      "term": "মোরাগ পাড়া (Morog Para)",
+      "category": "Place/Community",
+      "importance": "Medium",
+      "context_note": "Literally 'Chicken Village/Clan', signifying a specific community or lineage."
+    },
+    {
+      "term": "মালা শুকর পাড়া (Mala Shukor Para)",
+      "category": "Place/Community",
+      "importance": "Medium",
+      "context_note": "Literally 'Pig Village/Clan', similar to Morog Para."
+    },
+    {
+      "term": "গোয়াল পাড়া (Goyal Para)",
+      "category": "Place/Community",
+      "importance": "Medium",
+      "context_note": "Literally 'Cowherd Village/Clan'."
+    },
+    {
+      "term": "গরুর পাড়া (Goru Para)",
+      "category": "Place/Community",
+      "importance": "Medium",
+      "context_note": "Literally 'Cow Village/Clan'."
+    },
+    {
+      "term": "ডেবী (Debi)",
+      "category": "Character Name",
+      "importance": "High",
+      "context_note": "A name, but also can mean goddess; here, it refers to the antagonist witch/ogress."
+    },
+    {
+      "term": "ঢেঁকি গর্ত (dheki gorto)",
+      "category": "Object/Structure",
+      "importance": "Medium",
+      "context_note": "A pit for a traditional rice husking pedal, a common household feature."
+    },
+    {
+      "term": "আমলকী (amloki)",
+      "category": "Flora/Symbol",
+      "importance": "High",
+      "context_note": "Indian gooseberry, a fruit with cultural significance, here symbolizing miraculous birth and divine connection."
+    },
+    {
+      "term": "সুয়ানলু সুয়ানল (Suanlu Suanla)",
+      "category": "Character Name",
+      "importance": "High",
+      "context_note": "The hero's name, derived from 'amloki', meaning 'human amloki' or 'born from amloki'."
+    },
+    {
+      "term": "পিতৃবিহীন সন্তান (pitribihin santan)",
+      "category": "Social Term",
+      "importance": "Medium",
+      "context_note": "Literally 'fatherless child', used as a derogatory term."
+    },
+    {
+      "term": "মিম (mim)",
+      "category": "Flora",
+      "importance": "Medium",
+      "context_note": "A specific type of slippery crop, described as wheat-like, used for training agility."
+    },
+    {
+      "term": "পিছলা-না-উচু মাটির পিছলা / উঁচু মাটির পিছলা / বাকলহীন গাছের পিছলা (pichla-na-uchu matir pichla / uchu matir pichla / bakolhin gacher pichla)",
+      "category": "Location/Challenge",
+      "importance": "High",
+      "context_note": "Specific types of slippery surfaces/locations presented as choices for a challenge, crucial for the narrative's tests."
+    },
+    {
+      "term": "অপকর্মে (opokorme)",
+      "category": "Moral Term",
+      "importance": "High",
+      "context_note": "Misdeed, immoral act, implying a significant cultural taboo or transgression by the mother."
+    },
+    {
+      "term": "মোরগ ছানা (morog chana)",
+      "category": "Animal",
+      "importance": "Medium",
+      "context_note": "A chick, left as proof by Suanlu Suanla."
+    }
+  ],
+  "socio_cultural_markers": [
+    {
+      "marker_type": "Ritual/Challenge",
+      "description": "The 'ghila lata' cutting challenge, a test of skill and bravery with a severe oath-bound consequence.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Social Value",
+      "description": "The proverb 'purusher jaban ek kotha dui kotha hobe na' highlights the paramount importance of a man's word and honor in the culture.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Hierarchy/Community",
+      "description": "The 'Para' (village/clan) system, indicating distinct community identities and social structures (e.g., Morog Para, Shukor Para).",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Spiritual Belief",
+      "description": "The invocation of 'Pakhiyan/Pathian' (Creator/God) and divine intervention (amloki, divine weapons, sky ladder) points to a specific indigenous spiritual framework.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Food/Hospitality",
+      "description": "The act of cooking and offering food to guests (Debi to the brothers), though here it's a deceptive act.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Domestic Object",
+      "description": "The 'dheki gorto' (rice husking pit) as a common household feature, used for hiding.",
+      "is_replaceable": true
+    },
+    {
+      "marker_type": "Moral Judgment",
+      "description": "The concept of 'opokorme' (misdeed/immoral act) leading to severe consequences, reflecting cultural taboos and moral codes.",
+      "is_replaceable": false
+    },
+    {
+      "marker_type": "Revenge/Justice",
+      "description": "The strong cultural imperative for vengeance for slain family members, driving the narrative's core conflict.",
+      "is_replaceable": false
+    }
+  ],
+  "propp_morphology": [
+    {
+      "function": "Absentations (I)",
+      "description": "The father leaves to relieve himself, creating an opportunity for the sons to dull his machete."
+    },
+    {
+      "function": "Interdiction (II)",
+      "description": "The father imposes the 'ghila lata' challenge and the oath of exile for failure."
+    },
+    {
+      "function": "Violation (III)",
+      "description": "The five sons dull their father's machete, violating the fairness of the challenge."
+    },
+    {
+      "function": "Villainy (VIII)",
+      "description": "The tigers kill the father; later, Debi (the witch) kills the five sons and serves their father's flesh."
+    },
+    {
+      "function": "Lack (VIIIa)",
+      "description": "The family suffers the loss of the father and then the five sons, creating a profound need for vengeance and justice."
+    },
+    {
+      "function": "Departure (XI)",
+      "description": "The father departs to the hut by the tiger path; the five sons depart on their revenge quest; Suanlu Suanla departs on his revenge quest."
+    },
+    {
+      "function": "Receipt of a Magic Agent (XIV)",
+      "description": "The 'amloki' fruit falls from the sky, leading to Suanlu Suanla's miraculous, divine birth; Suanlu Suanla later receives divine, indestructible weapons from the sky."
+    },
+    {
+      "function": "Guidance (XVII)",
+      "description": "Suanlu Suanla's mother trains him in agility and reveals his divine origin and mission of vengeance."
+    },
+    {
+      "function": "Struggle (XVI)",
+      "description": "The father struggles against the tigers (initially successful, then fails); the five sons struggle against animal tests and Debi's tigers (fail); Suanlu Suanla struggles successfully against Debi's tigers."
+    },
+    {
+      "function": "Victory (XVIII)",
+      "description": "Suanlu Suanla defeats and kills all the tigers, including the tigress leader."
+    },
+    {
+      "function": "Liquidation of Misfortune/Lack (XIX)",
+      "description": "Suanlu Suanla successfully avenges the deaths of his father and five uncles, restoring justice."
+    },
+    {
+      "function": "Return (XX)",
+      "description": "Suanlu Suanla returns home with the tigress head as proof of his victory."
+    },
+    {
+      "function": "Unrecognized Arrival (XXIII)",
+      "description": "Suanlu Suanla's mother does not open the door, failing to acknowledge his return and achievement, possibly due to her own 'opokorme'."
+    },
+    {
+      "function": "Transfiguration (XXV)",
+      "description": "Suanlu Suanla ascends to the sky via a ladder, signifying his divine nature and the completion of his earthly task."
+    },
+    {
+      "function": "Punishment (XXX)",
+      "description": "The father dies due to upholding his oath; the five sons die due to their deceit and failure; the mother dies tragically from bleeding, a consequence of her 'opokorme' and rejection of her son."
+    }
+  ],
+  "narrative_cohesion": {
+    "archetypes": [
+      "The Wise Father (tragic figure)",
+      "The Deceitful Sons",
+      "The Loyal Daughter",
+      "The Divine Hero (Suanlu Suanla)",
+      "The Wise Mother/Mentor (Suanlu Suanla's mother)",
+      "The Trickster/Witch (Debi)",
+      "The Animal Helpers/Tests (Morog, Shukor)"
+    ],
+    "atomic_plot_nodes": [
+      "1. A father proposes a 'ghila lata' challenge with a severe oath-bound penalty.",
+      "2. The five sons conspire to dull their father's machete, winning the challenge unfairly.",
+      "3. The father is exiled to a hut by a tiger path and is eventually killed by tigers.",
+      "4. The daughter discovers her father's death and informs her brothers, who vow revenge.",
+      "5. The five sons embark on a revenge quest but fail tests at animal villages and are tricked and killed by Debi and her tigers.",
+      "6. The grieving daughter miraculously conceives Suanlu Suanla after eating a divine 'amloki' fruit.",
+      "7. Suanlu Suanla grows up, is mocked as 'fatherless', and learns his true divine origin and mission of vengeance from his mother.",
+      "8. Suanlu Suanla embarks on his revenge quest, equipped with divine, indestructible weapons.",
+      "9. Suanlu Suanla overcomes Debi's tricks and successfully kills all the tigers, including the leader.",
+      "10. Suanlu Suanla returns home with proof of his victory, but his mother, engaged in 'opokorme', refuses to open the door.",
+      "11. Heartbroken, Suanlu Suanla leaves the proof and ascends to the sky via a divine ladder.",
+      "12. The mother eventually opens the door, finds the proof, and tragically dies from a self-inflicted wound while examining the tigress head."
+    ],
+    "tone_and_moral": "The tone is initially one of familial challenge and deceit, transitioning to tragedy and loss, then to heroic quest and divine justice, concluding with a bittersweet and morally complex resolution. The moral emphasizes the severe consequences of deceit and broken oaths, the importance of honor, the power of divine intervention in seeking justice, and the tragic outcomes of moral failings and rejection."
+  }
+}
